@@ -1,59 +1,21 @@
 {
     "grade10": {
-      "Math": {
-        "Trigonometry": [
-          {
-            "question": "What is sin(62)?",
+        "Math": {
+        "Trignometry": [
+            {
+            "question": "What is sin(62)",
             "options": ["0.47", "1.88", "0.89", "1"],
             "answer": "0.89"
-          },
-          {
+            },
+            {
             "question": "What is tan(12)?",
             "options": ["0.916", "0.208", "0.978", "0.212"],
             "answer": "0.212"
-          },
-          {
-            "question": "What is cos(30)?",
-            "options": ["0.866", "0.707", "1", "0.5"],
-            "answer": "0.866"
-          },
-          {
-            "question": "What is sin(45)?",
-            "options": ["0.707", "0.5", "0.866", "1"],
-            "answer": "0.707"
-          },
-          {
-            "question": "What is tan(45)?",
-            "options": ["0.707", "1", "1.5", "0.5"],
-            "answer": "1"
-          },
-          {
-            "question": "What is cos(90)?",
-            "options": ["0", "1", "0.5", "0.707"],
-            "answer": "0"
-          },
-          {
-            "question": "What is the value of sin(0)?",
-            "options": ["0", "1", "0.5", "NaN"],
-            "answer": "0"
-          },
-          {
-            "question": "If the opposite side of a right triangle is 5 units and the hypotenuse is 13 units, what is sin(θ)?",
-            "options": ["0.38", "0.5", "0.77", "0.62"],
-            "answer": "0.38"
-          },
-          {
-            "question": "If the adjacent side of a right triangle is 7 units and the hypotenuse is 25 units, what is cos(θ)?",
-            "options": ["0.28", "0.56", "0.28", "1"],
-            "answer": "0.28"
-          },
-          {
-            "question": "In a right triangle, if the opposite side is 8 and the adjacent side is 6, what is tan(θ)?",
-            "options": ["0.75", "1.33", "1.5", "2"],
-            "answer": "1.33"
-          }
+            }
+
         ]
-      }
+        }
+
+
     }
-  }
-  
+}
