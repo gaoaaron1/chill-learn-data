@@ -1,0 +1,19 @@
+{
+    "grade1": {
+      "Science": {
+        "Plants": [
+          {
+            "question": "What do plants need to grow?",
+            "options": ["Water", "Oil", "Sand", "Rocks"],
+            "answer": "Water"
+          },
+          {
+            "question": "Which part of the plant is green?",
+            "options": ["Root", "Leaf", "Stem", "Flower"],
+            "answer": "Leaf"
+          }
+        ]
+      }
+    }
+  }
+  
