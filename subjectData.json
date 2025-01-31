@@ -269,6 +269,44 @@
         }
       ]
     },
+    "grade6": {
+      "Math": [
+        {
+          "unit": "Ratio",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade4"
+        },
+        {
+          "unit": "Long Division",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade4"
+        },
+        {
+          "unit": "Subtraction",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade4"
+        },
+        {
+          "unit": "Median, Range, and Mode",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade4"
+        }        
+      ],
+      "Science": [
+        {
+          "unit": "Coming Soon...",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        }
+      ],
+      "English": [
+        {
+          "unit": "Coming Soon...",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        }
+      ],
+      "Social": [
+        {
+          "unit": "Coming Soon...",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        }
+      ]
+    },
     "grade7": {
       "Math": [
         {
