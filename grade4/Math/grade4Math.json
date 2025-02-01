@@ -284,7 +284,7 @@
                 ],
                 "Median, Range, and Mode": [
                 {
-                    "question": "What is the median of the numbers 3, 7, 9, 15, 21?",
+                    "question": "WhatWF is the median of the numbers 3, 7, 9, 15, 21?",
                     "options": ["7", "9", "15", "21"],
                     "answer": "9"
                 },

@@ -67,7 +67,7 @@
             "answer": "O2"
           }
         ],
-        "ChemicalBonding": [
+        "The Diversity of Matter and Chemical Bonding": [
           {
             "question": "Which of the following bonds is ionic?",
             "options": ["NaCl", "H2", "O2", "Cl2"],
@@ -87,6 +87,96 @@
             "question": "Which of the following is a characteristic of ionic compounds?",
             "options": ["High melting points", "Low melting points", "Non-conductive", "Gases at room temperature"],
             "answer": "High melting points"
+          },
+          {
+            "question": "Which of the following is an example of an intermolecular force?",
+            "options": ["Covalent bond", "Ionic bond", "Hydrogen bond", "Metallic bond"],
+            "answer": "Hydrogen bond"
+          },
+          {
+            "question": "Which type of force holds atoms together within a molecule?",
+            "options": ["London dispersion forces", "Covalent bonds", "Hydrogen bonds", "Dipole-dipole forces"],
+            "answer": "Covalent bonds"
+          },
+          {
+            "question": "Which of the following compounds contains only covalent bonds?",
+            "options": ["NaCl", "H2O", "CaO", "KBr"],
+            "answer": "H2O"
+          },
+          {
+            "question": "What type of bond exists between two nonmetal atoms with a small electronegativity difference?",
+            "options": ["Ionic", "Polar covalent", "Nonpolar covalent", "Metallic"],
+            "answer": "Nonpolar covalent"
+          },
+          {
+            "question": "Which of the following correctly differentiates between intermolecular and intramolecular forces?",
+            "options": [
+              "Intermolecular forces exist within a molecule, while intramolecular forces exist between molecules",
+              "Intramolecular forces exist within a molecule, while intermolecular forces exist between molecules",
+              "Intramolecular forces are weaker than intermolecular forces",
+              "Intermolecular forces include covalent bonds"
+            ],
+            "answer": "Intramolecular forces exist within a molecule, while intermolecular forces exist between molecules"
+          },
+          {
+            "question": "Which of the following best describes an isotope?",
+            "options": [
+              "A compound with the same elements in different ratios",
+              "An atom with the same number of protons but different numbers of neutrons",
+              "A molecule with different bonding structures",
+              "An ion with a different number of electrons"
+            ],
+            "answer": "An atom with the same number of protons but different numbers of neutrons"
+          },
+          {
+            "question": "What is the trend for atomic radius across a period from left to right?",
+            "options": ["It increases", "It decreases", "It remains the same", "It fluctuates randomly"],
+            "answer": "It decreases"
+          },
+          {
+            "question": "Which group of elements has the highest reactivity?",
+            "options": ["Noble gases", "Halogens", "Alkali metals", "Transition metals"],
+            "answer": "Alkali metals"
+          },
+          {
+            "question": "Why are noble gases generally unreactive?",
+            "options": [
+              "They have low melting points",
+              "Their outer electron shell is full",
+              "They are too heavy to react",
+              "They form strong bonds with other noble gases"
+            ],
+            "answer": "Their outer electron shell is full"
+          },
+          {
+            "question": "What is the molecular shape of CH₄ (methane) according to VSEPR theory?",
+            "options": ["Linear", "Trigonal planar", "Tetrahedral", "Bent"],
+            "answer": "Tetrahedral"
+          },
+          {
+            "question": "Which of the following molecules exhibits hydrogen bonding?",
+            "options": ["CH₄", "CO₂", "H₂O", "O₂"],
+            "answer": "H₂O"
+          },
+          {
+            "question": "Why do water molecules have a bent shape instead of a linear shape?",
+            "options": [
+              "The hydrogen atoms are repelled by each other",
+              "The oxygen atom has a higher electronegativity",
+              "Lone pairs of electrons on oxygen push the hydrogen atoms closer together",
+              "Water molecules are attracted to other water molecules"
+            ],
+            "answer": "Lone pairs of electrons on oxygen push the hydrogen atoms closer together"
+          },
+          {
+            "question": "What is a resonance structure?",
+            "options": [
+              "A molecule that constantly shifts between two different compounds",
+              "A molecule with an unequal distribution of electrons",
+              "A way of representing a molecule where multiple valid Lewis structures exist",
+              "A bond that is both ionic and covalent"
+            ],
+            "answer": "A way of representing a molecule where multiple valid Lewis structures exist"
           }
         ],
         "AcidsAndBases": [
