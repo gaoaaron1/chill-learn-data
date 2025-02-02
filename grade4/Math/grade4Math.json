@@ -363,7 +363,13 @@
                             "options": ["29", "30", "31", "32"],
                             "answer": "31",
                             "image": "https://static.vecteezy.com/system/resources/previews/018/976/990/non_2x/cartoon-group-of-cats-with-big-cat-head-shape-sign-vector.jpg"
-                        }                        
+                        },      
+                        {
+                            "question": "John and Mark are competing to lose weight. John loses 5 pounds per week, while Mark loses 7 pounds per week. After 6 weeks, how much weight will each man lose?",
+                            "options": ["John: 25 lbs, Mark: 35 lbs", "John: 30 lbs, Mark: 42 lbs", "John: 35 lbs, Mark: 49 lbs", "John: 40 lbs, Mark: 56 lbs"],
+                            "answer": "John: 30 lbs, Mark: 42 lbs",
+                            "image": "https://th.bing.com/th/id/OIP.lYinvEfPvKRDj7ht7FaDXwHaE7?rs=1&pid=ImgDetMain"
+                        }                   
                     ],                
                 "Median, Range, and Mode": [
                 {
