@@ -369,7 +369,18 @@
                             "options": ["John: 25 lbs, Mark: 35 lbs", "John: 30 lbs, Mark: 42 lbs", "John: 35 lbs, Mark: 49 lbs", "John: 40 lbs, Mark: 56 lbs"],
                             "answer": "John: 30 lbs, Mark: 42 lbs",
                             "image": "https://th.bing.com/th/id/OIP.lYinvEfPvKRDj7ht7FaDXwHaE7?rs=1&pid=ImgDetMain"
-                        }                   
+                        }, 
+                        {
+                            "question": "Sophie and Liam are taking turns washing dishes. Sophie washes 5 dishes every 10 minutes, and Liam washes 6 dishes every 10 minutes.\n\nA. If Sophie washes dishes for 30 minutes, how many dishes will she wash in total?",
+                            "options": [
+                                "10 dishes",
+                                "12 dishes",
+                                "15 dishes",
+                                "18 dishes"
+                            ],
+                            "answer": "15 dishes",
+                            "image": "https://th.bing.com/th/id/OIP.uevtuTQHBwpFKnkt0SxivwHaFh?rs=1&pid=ImgDetMain"
+                        }              
                     ],                
                 "Median, Range, and Mode": [
                 {
