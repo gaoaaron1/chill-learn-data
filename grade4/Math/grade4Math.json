@@ -282,9 +282,92 @@
                         "answer": "108"
                     }                    
                 ],
+                "Multiplication & Division Word Problems": [
+                        {
+                        "question": "Sarah has 72 apples. She puts them equally into 8 baskets. How many apples are in each basket?",
+                        "options": ["8", "9", "10", "12"],
+                        "answer": "9"
+                        },
+                        {
+                        "question": "A school has 6 rows of desks. Each row has 12 desks. How many desks are there in total?",
+                        "options": ["64", "72", "80", "84"],
+                        "answer": "72"
+                        },
+                        {
+                        "question": "Tom has 84 pencils. He wants to share them equally among 7 friends. How many pencils does each friend get?",
+                        "options": ["10", "12", "14", "16"],
+                        "answer": "12"
+                        },
+                        {
+                        "question": "A farmer has 108 chickens. He keeps them in 9 equal coops. How many chickens are in each coop?",
+                        "options": ["10", "11", "12", "14"],
+                        "answer": "12"
+                        },
+                        {
+                        "question": "A bakery makes 9 trays of muffins each day. Each tray has 14 muffins. How many muffins are baked in a day?",
+                        "options": ["112", "124", "126", "132"],
+                        "answer": "126"
+                        },
+                        {
+                        "question": "Lisa reads 72 pages in 9 days. How many pages does she read per day?",
+                        "options": ["6", "7", "8", "9"],
+                        "answer": "8"
+                        },
+                        {
+                        "question": "A factory produces 432 toy cars in 6 hours. How many cars are produced each hour?",
+                        "options": ["70", "72", "74", "76"],
+                        "answer": "72"
+                        },
+                        {
+                        "question": "A stadium has 24 rows of seats. Each row has 38 seats. How many seats are in the stadium?",
+                        "options": ["800", "850", "900", "912"],
+                        "answer": "912"
+                        },
+                        {
+                        "question": "A gardener plants 128 flowers equally in 16 rows. How many flowers are in each row?",
+                        "options": ["6", "7", "8", "9"],
+                        "answer": "8"
+                        },
+                        {
+                        "question": "A bookstore sells 240 books in 12 days. How many books are sold each day?",
+                        "options": ["18", "19", "20", "21"],
+                        "answer": "20"
+                        },
+                        {
+                        "question": "There are 20 classrooms in a school. Each classroom has 28 desks. How many desks are in the school?",
+                        "options": ["540", "560", "580", "600"],
+                        "answer": "560"
+                        },
+                        {
+                        "question": "A chef bakes 240 slices of cake. If each cake has 16 slices, how many cakes did the chef bake?",
+                        "options": ["12", "14", "15", "16"],
+                        "answer": "15"
+                        },
+                        {
+                        "question": "A stadium has 36,000 seats. The seats are divided equally into 90 sections. How many seats are in each section?",
+                        "options": ["300", "350", "400", "450"],
+                        "answer": "400"
+                        },
+                        {
+                        "question": "A restaurant has 24 tables. Each table has 6 chairs. How many chairs are in the restaurant?",
+                        "options": ["120", "130", "140", "144"],
+                        "answer": "144"
+                        },
+                        {
+                        "question": "A soccer team plays 22 games in a season. Each game lasts 90 minutes. How many minutes does the team play in total?",
+                        "options": ["1800", "1900", "1980", "2000"],
+                        "answer": "1980"
+                        },
+                        {
+                            "question": "A feast is held for 5 kittens. If the fish is 155 lbs, how many lbs of fish would each kitten get if they eat the same amount?",
+                            "options": ["29", "30", "31", "32"],
+                            "answer": "31",
+                            "image": "https://static.vecteezy.com/system/resources/previews/018/976/990/non_2x/cartoon-group-of-cats-with-big-cat-head-shape-sign-vector.jpg"
+                        }                        
+                    ],                
                 "Median, Range, and Mode": [
                 {
-                    "question": "WhatWF is the median of the numbers 3, 7, 9, 15, 21?",
+                    "question": "What is the median of the numbers 3, 7, 9, 15, 21?",
                     "options": ["7", "9", "15", "21"],
                     "answer": "9"
                 },

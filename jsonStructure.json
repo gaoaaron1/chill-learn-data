@@ -1,0 +1,117 @@
+{
+    "grade11": {
+      "Chemistry": {
+        "AtomicStructure": [
+          {
+            "question": "What is the atomic number of Carbon?",
+            "options": ["6", "8", "12", "14"],
+            "answer": "6"
+          },
+          {
+            "question": "Which subatomic particle has a negative charge?",
+            "options": ["Proton", "Neutron", "Electron", "Positron"],
+            "answer": "Electron"
+          },
+          {
+            "question": "What is the mass number of an atom with 6 protons and 6 neutrons?",
+            "options": ["6", "12", "18", "13"],
+            "answer": "12"
+          },
+          {
+            "question": "What is the symbol for the element with atomic number 11?",
+            "options": ["Na", "K", "Mg", "Cl"],
+            "answer": "Na"
+          }
+        ],
+        "PeriodicTable": [
+          {
+            "question": "Which of the following elements is a noble gas?",
+            "options": ["Helium", "Oxygen", "Nitrogen", "Chlorine"],
+            "answer": "Helium"
+          },
+          {
+            "question": "What is the atomic number of Sodium (Na)?",
+            "options": ["11", "12", "8", "14"],
+            "answer": "11"
+          },
+          {
+            "question": "What is the group number of Chlorine (Cl) in the periodic table?",
+            "options": ["1", "7", "17", "18"],
+            "answer": "17"
+          },
+          {
+            "question": "Which of the following elements is a halogen?",
+            "options": ["Fluorine", "Boron", "Magnesium", "Calcium"],
+            "answer": "Fluorine"
+          }
+        ],
+        "Stoichiometry": [
+          {
+            "question": "How many moles are in 32 grams of Oxygen (O2)?",
+            "options": ["1", "0.5", "0.25", "2"],
+            "answer": "1"
+          },
+          {
+            "question": "What is the molar mass of NaCl?",
+            "options": ["58.5 g/mol", "44.0 g/mol", "36.5 g/mol", "60.0 g/mol"],
+            "answer": "58.5 g/mol"
+          },
+          {
+            "question": "How many grams are in 2 moles of H2O?",
+            "options": ["18 grams", "36 grams", "32 grams", "34 grams"],
+            "answer": "36 grams"
+          },
+          {
+            "question": "What is the limiting reagent in a reaction where 4 moles of H2 react with 3 moles of O2 to produce water?",
+            "options": ["H2", "O2", "H2O", "None"],
+            "answer": "O2"
+          }
+        ],
+        "ChemicalBonding": [
+          {
+            "question": "Which of the following bonds is ionic?",
+            "options": ["NaCl", "H2", "O2", "Cl2"],
+            "answer": "NaCl"
+          },
+          {
+            "question": "In which type of bond are electrons shared?",
+            "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+            "answer": "Covalent"
+          },
+          {
+            "question": "What is the bond angle in a molecule with a tetrahedral shape?",
+            "options": ["90°", "120°", "109.5°", "180°"],
+            "answer": "109.5°"
+          },
+          {
+            "question": "Which of the following is a characteristic of ionic compounds?",
+            "options": ["High melting points", "Low melting points", "Non-conductive", "Gases at room temperature"],
+            "answer": "High melting points"
+          }
+        ],
+        "AcidsAndBases": [
+          {
+            "question": "What is the pH of a neutral solution?",
+            "options": ["7", "0", "14", "1"],
+            "answer": "7"
+          },
+          {
+            "question": "Which of the following is a strong acid?",
+            "options": ["HCl", "CH3COOH", "H2CO3", "NH3"],
+            "answer": "HCl"
+          },
+          {
+            "question": "Which of the following is a characteristic of a base?",
+            "options": ["Turns red litmus paper blue", "Turns blue litmus paper red", "Reacts with metals to release hydrogen", "Tastes sour"],
+            "answer": "Turns red litmus paper blue"
+          },
+          {
+            "question": "What is the product of mixing an acid and a base?",
+            "options": ["Salt and water", "Oxygen and water", "Salt and carbon dioxide", "Water and hydrogen"],
+            "answer": "Salt and water"
+          }
+        ]
+      }
+    }
+  }
+  
