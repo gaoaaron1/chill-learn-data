@@ -223,7 +223,18 @@
             ],
             "answer": "4",
             "image": "https://www.sciencesfp.com/uploads/2/1/5/9/21597828/electron-shell_orig.png"
-          }          
+          },          
+          {
+            "question": "Which of the following best describes the difference between homogeneous and heterogeneous mixtures?",
+            "options": [
+              "A homogeneous mixture has components that are evenly distributed, while a heterogeneous mixture has components that are not evenly distributed.",
+              "A homogeneous mixture can only be separated by chemical means, while a heterogeneous mixture can be separated by physical means.",
+              "A homogeneous mixture has a variable composition, while a heterogeneous mixture has a fixed composition.",
+              "A homogeneous mixture contains only one type of atom, while a heterogeneous mixture contains more than one type of atom."
+            ],
+            "answer": "A homogeneous mixture has components that are evenly distributed, while a heterogeneous mixture has components that are not evenly distributed."
+          }
+          
 
         ]
       }
