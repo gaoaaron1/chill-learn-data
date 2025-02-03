@@ -205,14 +205,26 @@
           {
             "question": "List the order of the corresponding atomic models.",
             "options": [
-              "Bohr, Ernest Rutherford, JJ Thompson, Dalton",
-              "Dalton, JJ Thompson, Ernest Rutherford, Bohr",
-              "Dalton, JJ Thompson, Bohr, Ernest Rutherford",
-              "Bohr, JJ Thompson, Ernest Rutherford, Dalton"
+              "Bohr, Ernest Rutherford, JJ Thompson, Dalton, Schrodinger",
+              "Dalton, JJ Thompson, Ernest Rutherford, Bohr, Schrodinger",
+              "Dalton, JJ Thompson, Bohr, Ernest Rutherford, Schrodinger",
+              "Bohr, JJ Thompson, Ernest Rutherford, Dalton, Schrodinger"
             ],
-            "answer": "Workplace Hazardous Materials Information System",
-            "image": "https://png.pngtree.com/png-clipart/20211205/original/pngtree-dalton-thomson-rutherford-and-bohr-atomic-model-png-image_6959836.png"
-          }
+            "answer": "Dalton, JJ Thompson, Ernest Rutherford, Bohr, Schrodinger",
+            "image": "https://www.shutterstock.com/image-illustration/atomic-models-history-infographic-diagram-600nw-2426292731.jpg"
+          },
+          {
+            "question": "How many valence electrons does Carbon have?",
+            "options": [
+              "6",
+              "4",
+              "2",
+              "1"
+            ],
+            "answer": "4",
+            "image": "https://www.sciencesfp.com/uploads/2/1/5/9/21597828/electron-shell_orig.png"
+          }          
+
         ]
       }
     }
