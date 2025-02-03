@@ -1,0 +1,220 @@
+{
+    "grade10": {
+      "Science": {
+        "Atomic and Molecular Structure": [
+          {
+            "question": "Which of the following best describes a mixture?",
+            "options": [
+              "A combination of matter with a fixed composition",
+              "A combination of matter that can only be separated chemically",
+              "A combination of matter with no definite composition and can be separated by physical means",
+              "A substance made of one type of atom"
+            ],
+            "answer": "A combination of matter with no definite composition and can be separated by physical means"
+          },
+          {
+            "question": "What is the smallest part of an element that retains the properties of that element?",
+            "options": [
+              "Molecule",
+              "Atom",
+              "Proton",
+              "Neutron"
+            ],
+            "answer": "Atom"
+          },
+          {
+            "question": "Which subatomic particles are located in the nucleus of an atom?",
+            "options": [
+              "Electrons and neutrons",
+              "Protons and electrons",
+              "Protons and neutrons",
+              "Electrons and protons"
+            ],
+            "answer": "Protons and neutrons"
+          },
+          {
+            "question": "What is the electron cloud of an atom?",
+            "options": [
+              "The nucleus of the atom",
+              "A region around the nucleus where electrons are found",
+              "The outermost shell of the atom",
+              "The nucleus that contains protons and neutrons"
+            ],
+            "answer": "A region around the nucleus where electrons are found"
+          },
+          {
+            "question": "Which of the following models was developed by Ernest Rutherford in 1911?",
+            "options": [
+              "The Bohr model",
+              "The electron cloud model",
+              "The nuclear model",
+              "The plum pudding model"
+            ],
+            "answer": "The nuclear model"
+          },
+          {
+            "question": "What does the atomic number of an element represent?",
+            "options": [
+              "The number of protons in the nucleus",
+              "The total number of protons and neutrons",
+              "The number of neutrons in the nucleus",
+              "The number of electrons in the outermost shell"
+            ],
+            "answer": "The number of protons in the nucleus"
+          },
+          {
+            "question": "Which of the following is an isotope?",
+            "options": [
+              "An atom of carbon with 6 protons and 6 neutrons",
+              "An atom of carbon with 6 protons and 7 neutrons",
+              "An atom of carbon with 5 protons and 5 neutrons",
+              "An atom of oxygen with 8 protons and 8 neutrons"
+            ],
+            "answer": "An atom of carbon with 6 protons and 7 neutrons"
+          },
+          {
+            "question": "What is the main characteristic of a pure substance?",
+            "options": [
+              "It can be separated by physical means",
+              "It has no definite composition",
+              "It has a definite composition",
+              "It is a mixture of two or more elements"
+            ],
+            "answer": "It has a definite composition"
+          },
+          {
+            "question": "What is the name of the energy levels around an atom’s nucleus where electrons are found?",
+            "options": [
+              "Orbitals",
+              "Protons",
+              "Neutrons",
+              "Shells"
+            ],
+            "answer": "Shells"
+          },
+          {
+            "question": "What is the charge of an electron?",
+            "options": [
+              "Positive",
+              "Neutral",
+              "Negative",
+              "Zero"
+            ],
+            "answer": "Negative"
+          },
+          {
+            "question": "What is the difference between an atom and an ion?",
+            "options": [
+              "An atom has a neutral charge, while an ion has a positive or negative charge",
+              "An ion is a mixture of atoms, while an atom is a pure substance",
+              "An atom has no neutrons, while an ion does",
+              "An atom has a negative charge, while an ion has a positive charge"
+            ],
+            "answer": "An atom has a neutral charge, while an ion has a positive or negative charge"
+          },
+          {
+            "question": "Which of the following elements is a metal?",
+            "options": [
+              "Oxygen",
+              "Iron",
+              "Nitrogen",
+              "Chlorine"
+            ],
+            "answer": "Iron"
+          },
+          {
+            "question": "In the Bohr model of the atom, how many electrons can occupy the third energy level (shell)?",
+            "options": [
+              "2",
+              "8",
+              "18",
+              "32"
+            ],
+            "answer": "18"
+          },
+          {
+            "question": "What is the atomic mass of an element?",
+            "options": [
+              "The number of protons in the nucleus",
+              "The sum of the protons and neutrons",
+              "The mass of an electron",
+              "The total number of electrons in the atom"
+            ],
+            "answer": "The sum of the protons and neutrons"
+          },
+          {
+            "question": "What is the most common isotope of hydrogen?",
+            "options": [
+              "Deuterium (1 proton, 1 neutron)",
+              "Tritium (1 proton, 2 neutrons)",
+              "Protium (1 proton, 0 neutrons)",
+              "Hydrogen-2 (2 protons, 1 neutron)"
+            ],
+            "answer": "Protium (1 proton, 0 neutrons)"
+          },
+          {
+            "question": "Which of the following is true about the periodic table?",
+            "options": [
+              "Elements are arranged by their atomic mass",
+              "Elements in the same group have similar chemical properties",
+              "All elements are non-metals",
+              "The table is arranged randomly"
+            ],
+            "answer": "Elements in the same group have similar chemical properties"
+          },
+          {
+            "question": "What is a compound?",
+            "options": [
+              "A mixture of two or more elements that can be separated by physical means",
+              "A substance made up of one type of atom",
+              "A substance made of two or more elements that are chemically bonded",
+              "A group of atoms that are not bonded"
+            ],
+            "answer": "A substance made of two or more elements that are chemically bonded"
+          },
+          {
+            "question": "Which subatomic particles contribute to the atomic mass of an atom?",
+            "options": [
+              "Electrons",
+              "Protons and neutrons",
+              "Protons and electrons",
+              "Neutrons and electrons"
+            ],
+            "answer": "Protons and neutrons"
+          },
+          {
+            "question": "What does the term 'valence electrons' refer to?",
+            "options": [
+              "Electrons found in the innermost energy level",
+              "Electrons in the outermost energy level of an atom",
+              "Electrons involved in chemical bonding",
+              "Both b and c"
+            ],
+            "answer": "Both b and c"
+          },
+          {
+            "question": "What does WHMIS stand for?",
+            "options": [
+              "Workplace Health and Materials Safety",
+              "Workplace Hazardous Materials Information System",
+              "Work Hazardous Management Information System",
+              "None of the above"
+            ],
+            "answer": "Workplace Hazardous Materials Information System"
+          },
+          {
+            "question": "List the order of the corresponding atomic models.",
+            "options": [
+              "Bohr, Ernest Rutherford, JJ Thompson, Dalton",
+              "Dalton, JJ Thompson, Ernest Rutherford, Bohr",
+              "Dalton, JJ Thompson, Bohr, Ernest Rutherford",
+              "Bohr, JJ Thompson, Ernest Rutherford, Dalton"
+            ],
+            "answer": "Workplace Hazardous Materials Information System",
+            "image": "https://png.pngtree.com/png-clipart/20211205/original/pngtree-dalton-thomson-rutherford-and-bohr-atomic-model-png-image_6959836.png"
+          }
+        ]
+      }
+    }
+  }
+  
