@@ -1,67 +1,96 @@
 {
-    "grade9": {
-      "Science": {
-        "WHMIS": [
-          {
-            "question": "Which WHMIS symbol represents a substance that can cause serious health effects like cancer?",
-            "options": ["Flame", "Health Hazard", "Biohazardous", "Corrosion"],
-            "answer": "Health Hazard"
-          },
-          {
-            "question": "What does the skull and crossbones WHMIS symbol indicate?",
-            "options": ["Explosive", "Corrosive", "Toxicity", "Flammable"],
-            "answer": "Toxicity"
-          },
-          {
-            "question": "Which WHMIS symbol is used for compressed gases?",
-            "options": ["Gas Cylinder", "Flame Over Circle", "Corrosion", "Exclamation Mark"],
-            "answer": "Gas Cylinder"
-          }, 
-          {
-            "question": "What is the order of the following symbols listed?",
-            "options": ["Flammable, Oxidizing Material, Compressed Gas, Corrosion, Explosion", 
-                        "Oxidizing Material , Flammable, Compressed Gas, Corrosion, Explosion",
-                        "Flammable, Oxidizing Material, Explosion, Poison, Explosion",
-                        "Oxidizing Material, Compressed Gas, Explosion, Corrosion, Flammable"],
-            "answer": "Flammable, Oxidizing Material, Compressed Gas, Corrosion, Explosion",
-            "image": "https://wpsites.ucalgary.ca/chem-textbook/wp-content/uploads/sites/82/2022/09/All-WHMIS-pictograms.png"
+  "grade9": {
+    "Science": {
+      "WHMIS": [
+        {
+          "question": "Which WHMIS symbol represents a substance that can cause serious health effects like cancer?",
+          "options": ["Flame", "Health Hazard", "Biohazardous", "Corrosion"],
+          "answer": "Health Hazard"
+        },
+        {
+          "question": "What does the skull and crossbones WHMIS symbol indicate?",
+          "options": ["Explosive", "Corrosive", "Toxicity", "Flammable"],
+          "answer": "Toxicity"
+        },
+        {
+          "question": "Which WHMIS symbol is used for compressed gases?",
+          "options": ["Gas Cylinder", "Flame Over Circle", "Corrosion", "Exclamation Mark"],
+          "answer": "Gas Cylinder"
+        }, 
+        {
+          "question": "What is the order of the following symbols listed?",
+          "options": ["Flammable, Oxidizing Material, Compressed Gas, Corrosion, Explosion", 
+                      "Oxidizing Material , Flammable, Compressed Gas, Corrosion, Explosion",
+                      "Flammable, Oxidizing Material, Explosion, Poison, Explosion",
+                      "Oxidizing Material, Compressed Gas, Explosion, Corrosion, Flammable"],
+          "answer": "Flammable, Oxidizing Material, Compressed Gas, Corrosion, Explosion",
+          "image": "https://wpsites.ucalgary.ca/chem-textbook/wp-content/uploads/sites/82/2022/09/All-WHMIS-pictograms.png"
+        },
+        {
+          "question": "What does the WHMIS exclamation mark symbol indicate?",
+          "options": ["Harmful or irritant", "Flammable", "Oxidizing", "Biohazardous"],
+          "answer": "Harmful or irritant"
+        },
+        {
+          "question": "Which WHMIS symbol is used for flammable substances?",
+          "options": ["Flame", "Corrosion", "Health Hazard", "Biohazardous"],
+          "answer": "Flame"
         }
-        ],
-        "AtomicModels": [
-          {
-            "question": "Who proposed the plum pudding model of the atom?",
-            "options": ["Dalton", "Thomson", "Rutherford", "Bohr"],
-            "answer": "Thomson"
-          },
-          {
-            "question": "What did Rutherford's gold foil experiment prove?",
-            "options": ["Atoms are indivisible", "Electrons move in fixed orbits", "Atoms have a dense nucleus", "Electrons have a negative charge"],
-            "answer": "Atoms have a dense nucleus"
-          },
-          {
-            "question": "Which scientist proposed that electrons orbit the nucleus in energy levels?",
-            "options": ["Bohr", "Dalton", "Thomson", "Schrödinger"],
-            "answer": "Bohr"
-          }
-        ],
-        "Isotopes": [
-          {
-            "question": "What makes an isotope different from a standard atom?",
-            "options": ["Different number of protons", "Different number of neutrons", "Different atomic number", "Different number of electrons"],
-            "answer": "Different number of neutrons"
-          },
-          {
-            "question": "Carbon-14 and Carbon-12 are examples of what?",
-            "options": ["Elements", "Compounds", "Isotopes", "Ions"],
-            "answer": "Isotopes"
-          },
-          {
-            "question": "Which subatomic particle determines the identity of an element?",
-            "options": ["Electron", "Neutron", "Proton", "Nucleus"],
-            "answer": "Proton"
-          }
-        ]
-      }
+      ],
+      "Atomic Models": [
+        {
+          "question": "Who proposed the plum pudding model of the atom?",
+          "options": ["Dalton", "Thomson", "Rutherford", "Bohr"],
+          "answer": "Thomson"
+        },
+        {
+          "question": "What did Rutherford's gold foil experiment prove?",
+          "options": ["Atoms are indivisible", "Electrons move in fixed orbits", "Atoms have a dense nucleus", "Electrons have a negative charge"],
+          "answer": "Atoms have a dense nucleus"
+        },
+        {
+          "question": "Which scientist proposed that electrons orbit the nucleus in energy levels?",
+          "options": ["Bohr", "Dalton", "Thomson", "Schrödinger"],
+          "answer": "Bohr"
+        },
+        {
+          "question": "What was the key idea of Dalton’s atomic theory?",
+          "options": ["Atoms are indivisible", "Atoms contain electrons", "Atoms have a dense nucleus", "Electrons orbit in fixed levels"],
+          "answer": "Atoms are indivisible"
+        },
+        {
+          "question": "Which scientist introduced the idea of quantum mechanics in atomic models?",
+          "options": ["Bohr", "Schrödinger", "Thomson", "Dalton"],
+          "answer": "Schrödinger"
+        }
+      ],
+      "Isotopes": [
+        {
+          "question": "What makes an isotope different from a standard atom?",
+          "options": ["Different number of protons", "Different number of neutrons", "Different atomic number", "Different number of electrons"],
+          "answer": "Different number of neutrons"
+        },
+        {
+          "question": "Carbon-14 and Carbon-12 are examples of what?",
+          "options": ["Elements", "Compounds", "Isotopes", "Ions"],
+          "answer": "Isotopes"
+        },
+        {
+          "question": "Which subatomic particle determines the identity of an element?",
+          "options": ["Electron", "Neutron", "Proton", "Nucleus"],
+          "answer": "Proton"
+        },
+        {
+          "question": "Which isotope of hydrogen has one proton and one neutron?",
+          "options": ["Protium", "Deuterium", "Tritium", "Hydronium"],
+          "answer": "Deuterium"
+        },
+        {
+          "question": "What is the atomic mass of an element with 6 protons and 8 neutrons?",
+          "options": ["6", "12", "14", "8"],
+          "answer": "14"
+        }
+      ]
     }
   }
-  
+}
