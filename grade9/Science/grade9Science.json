@@ -23,6 +23,7 @@
                         "Oxidizing Material , Flammable, Compressed Gas, Corrosion, Explosion",
                         "Flammable, Oxidizing Material, Explosion, Poison, Explosion",
                         "Oxidizing Material, Compressed Gas, Explosion, Corrosion, Flammable"],
+            "answer": "Flammable, Oxidizing Material, Compressed Gas, Corrosion, Explosion",
             "image": "https://wpsites.ucalgary.ca/chem-textbook/wp-content/uploads/sites/82/2022/09/All-WHMIS-pictograms.png"
         }
         ],
