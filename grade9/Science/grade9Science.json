@@ -38,31 +38,73 @@
         }
       ],
       "Atomic Models": [
-        {
-          "question": "Who proposed the plum pudding model of the atom?",
-          "options": ["Dalton", "Thomson", "Rutherford", "Bohr"],
-          "answer": "Thomson"
-        },
-        {
-          "question": "What did Rutherford's gold foil experiment prove?",
-          "options": ["Atoms are indivisible", "Electrons move in fixed orbits", "Atoms have a dense nucleus", "Electrons have a negative charge"],
-          "answer": "Atoms have a dense nucleus"
-        },
-        {
-          "question": "Which scientist proposed that electrons orbit the nucleus in energy levels?",
-          "options": ["Bohr", "Dalton", "Thomson", "Schrödinger"],
-          "answer": "Bohr"
-        },
-        {
-          "question": "What was the key idea of Dalton’s atomic theory?",
-          "options": ["Atoms are indivisible", "Atoms contain electrons", "Atoms have a dense nucleus", "Electrons orbit in fixed levels"],
-          "answer": "Atoms are indivisible"
-        },
-        {
-          "question": "Which scientist introduced the idea of quantum mechanics in atomic models?",
-          "options": ["Bohr", "Schrödinger", "Thomson", "Dalton"],
-          "answer": "Schrödinger"
-        }
+       {
+        "question": "Who proposed the plum pudding model of the atom?",
+        "options": ["Dalton", "Thomson", "Rutherford", "Bohr"],
+        "answer": "Thomson"
+      },
+      {
+        "question": "What did Rutherford's gold foil experiment prove?",
+        "options": ["Atoms are indivisible", "Electrons move in fixed orbits", "Atoms have a dense nucleus", "Electrons have a negative charge"],
+        "answer": "Atoms have a dense nucleus"
+      },
+      {
+        "question": "Which scientist proposed that electrons orbit the nucleus in energy levels?",
+        "options": ["Bohr", "Dalton", "Thomson", "Schrödinger"],
+        "answer": "Bohr"
+      },
+      {
+        "question": "What was the key idea of Dalton’s atomic theory?",
+        "options": ["Atoms are indivisible", "Atoms contain electrons", "Atoms have a dense nucleus", "Electrons orbit in fixed levels"],
+        "answer": "Atoms are indivisible"
+      },
+      {
+        "question": "Which scientist introduced the idea of quantum mechanics in atomic models?",
+        "options": ["Bohr", "Schrödinger", "Thomson", "Dalton"],
+        "answer": "Schrödinger"
+      },
+      {
+        "question": "What is the modern atomic model based on?",
+        "options": ["Fixed electron orbits", "Electron probability clouds", "Solid indivisible atoms", "The plum pudding model"],
+        "answer": "Electron probability clouds"
+      }
+    ],
+    "Isotopes": [
+      {
+        "question": "What makes an isotope different from a standard atom?",
+        "options": ["Different number of protons", "Different number of neutrons", "Different atomic number", "Different number of electrons"],
+        "answer": "Different number of neutrons"
+      },
+      {
+        "question": "Carbon-14 and Carbon-12 are examples of what?",
+        "options": ["Elements", "Compounds", "Isotopes", "Ions"],
+        "answer": "Isotopes"
+      },
+      {
+        "question": "Which subatomic particle determines the identity of an element?",
+        "options": ["Electron", "Neutron", "Proton", "Nucleus"],
+        "answer": "Proton"
+      },
+      {
+        "question": "Which isotope of hydrogen has one proton and one neutron?",
+        "options": ["Protium", "Deuterium", "Tritium", "Hydronium"],
+        "answer": "Deuterium"
+      },
+      {
+        "question": "What is the atomic mass of an element with 6 protons and 8 neutrons?",
+        "options": ["6", "12", "14", "8"],
+        "answer": "14"
+      },
+      {
+        "question": "What is the isotope notation for Carbon-14?",
+        "options": ["C-14", "14C", "Both A and B", "None of the above"],
+        "answer": "Both A and B"
+      },
+      {
+        "question": "Which of the following elements commonly has isotopes used in nuclear medicine?",
+        "options": ["Iodine", "Carbon", "Oxygen", "Hydrogen"],
+        "answer": "Iodine"
+      }
       ],
       "Isotopes": [
         {
