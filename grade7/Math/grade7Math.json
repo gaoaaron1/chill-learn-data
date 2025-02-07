@@ -478,7 +478,68 @@
         "options": ["36", "-36", "12", "-12"],
         "answer": "36"
     }
-]
+],
+        "Adding And Subtracting Fractions": [
+          {
+            "question": "What is 3/8 + 2/8?",
+            "options": ["3/8", "5/8", "6/8", "1/8"],
+            "answer": "5/8"
+          },
+          {
+            "question": "What is 5/9 - 2/9?",
+            "options": ["3/9", "7/9", "1/9", "5/18"],
+            "answer": "3/9"
+          },
+          {
+            "question": "What is 7/12 + 3/12?",
+            "options": ["10/12", "4/12", "1/12", "7/12"],
+            "answer": "10/12"
+          },
+          {
+            "question": "What is 1/4 + 1/6?",
+            "options": ["2/10", "5/12", "1/5", "7/12"],
+            "answer": "5/12"
+          },
+          {
+            "question": "What is 5/7 - 2/5?",
+            "options": ["11/35", "3/5", "7/12", "1/2"],
+            "answer": "11/35"
+          },
+          {
+            "question": "What is 2 1/3 + 1 2/5?",
+            "options": ["3 3/8", "4 1/15", "3 11/15", "3 1/2"],
+            "answer": "3 11/15"
+          },
+          {
+            "question": "What is 3 3/4 - 1 5/6?",
+            "options": ["1 11/12", "2 1/2", "3 2/3", "2 3/8"],
+            "answer": "1 11/12"
+          },
+          {
+            "question": "What is 4 2/9 + 2 1/3?",
+            "options": ["6 5/9", "6 7/12", "5 2/9", "6 1/3"],
+            "answer": "6 5/9"
+          },
+          {
+            "question": "What is 5 5/12 - 3 2/7?",
+            "options": ["2 11/84", "2 1/3", "3 1/5", "2 3/12"],
+            "answer": "2 11/84"
+          },
+          {
+            "question": "What is 6 3/8 + 2 5/9?",
+            "options": ["8 1/2", "8 23/72", "9 2/3", "7 5/9"],
+            "answer": "8 23/72"
+          },
+          {
+            "question": "What is the solution to ?",
+            "options": ["12/7","1/7","2/7","7/12"],
+            "answer":"7/12",
+            "image": "https://lifeunited.org/wp-content/uploads/2022/04/Adding-Fractions-Introduction-and-Definition.jpg"
+        
+        }
+        ]
+
+  
 
         }
     }
