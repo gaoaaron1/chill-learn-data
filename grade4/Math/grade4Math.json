@@ -312,6 +312,7 @@
                         "question": "Lisa reads 72 pages in 9 days. How many pages does she read per day?",
                         "options": ["6", "7", "8", "9"],
                         "answer": "8"
+                        "image": "https://static.wikitide.net/greatcharacterswiki/a/ab/Lisa-Simpson.png"
                         },
                         {
                         "question": "A factory produces 432 toy cars in 6 hours. How many cars are produced each hour?",
