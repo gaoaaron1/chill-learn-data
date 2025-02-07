@@ -430,7 +430,8 @@
       ],
       "Computer Science": [
         {
-          "unit": "Python Fundamentals"
+          "unit": "Python Fundamentals",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
         }
       ]
     },
