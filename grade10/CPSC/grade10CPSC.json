@@ -1,0 +1,99 @@
+{
+    "grade10": {
+      "Computer Science": {
+        "Python Fundamentals": [
+          {
+            "question": "What will the following code output?\nprint(\"Hey\")",
+            "options": ["Hey", "\"Hey\"", "print(\"Hey\")", "Error"],
+            "answer": "Hey"
+          },
+          {
+            "question": "Why does this code cause an error?\nprint('Bobby's school')",
+            "options": [
+              "Python doesn’t allow single quotes",
+              "The apostrophe inside the string breaks the syntax",
+              "Python doesn’t support text output",
+              "The word \"school\" is a reserved keyword"
+            ],
+            "answer": "The apostrophe inside the string breaks the syntax"
+          },
+          {
+            "question": "How can you fix the above error?",
+            "options": [
+              "Use double quotes: \"Bobby's school\"",
+              "Escape the apostrophe: 'Bobby\\'s school'",
+              "Both a & b",
+              "There is no fix"
+            ],
+            "answer": "Both a & b"
+          },
+          {
+            "question": "What does the following code print?\nprint(\"\"\"Hello\nWorld\"\"\")",
+            "options": ["\"Hello World\"", "Hello\nWorld", "HelloWorld", "Error"],
+            "answer": "Hello\nWorld"
+          },
+          {
+            "question": "What will len(\"Python\") return?",
+            "options": ["6", "5", "\"Python\"", "Error"],
+            "answer": "6"
+          },
+          {
+            "question": "What will the following print?\ntext = \"hello world\"\nprint(text.title())",
+            "options": ["\"Hello World\"", "\"hello world\"", "\"HELLO WORLD\"", "Error"],
+            "answer": "\"Hello World\""
+          },
+          {
+            "question": "What will print(\"python\".upper()) output?",
+            "options": ["\"python\"", "\"PYTHON\"", "\"Python\"", "Error"],
+            "answer": "\"PYTHON\""
+          },
+          {
+            "question": "What will the following code print?\nmessage = \"I love Python\"\nprint(message.replace(\"love\", \"like\"))",
+            "options": ["\"I love Python\"", "\"I like Python\"", "\"love Python I\"", "Error"],
+            "answer": "\"I like Python\""
+          },
+          {
+            "question": "What will the following print?\nprint(\"Hello\" + \" \" + \"World\")",
+            "options": ["\"Hello World\"", "\"HelloWorld\"", "\"Hello + World\"", "Error"],
+            "answer": "\"Hello World\""
+          },
+          {
+            "question": "Which statement is correct about = and ==?",
+            "options": [
+              "= is used for comparison, == is used for assignment",
+              "= is used for assignment, == is used for comparison",
+              "Both do the same thing",
+              "None of the above"
+            ],
+            "answer": "= is used for assignment, == is used for comparison"
+          },
+          {
+            "question": "What will happen in this code?\nx = 5\nprint(x == 5)",
+            "options": ["Prints True", "Prints False", "Prints 5", "Error"],
+            "answer": "Prints True"
+          },
+          {
+            "question": "What does count() do in Python?",
+            "options": [
+              "Finds the first occurrence of a word",
+              "Counts how many times a word appears in a string",
+              "Replaces text",
+              "None of the above"
+            ],
+            "answer": "Counts how many times a word appears in a string"
+          },
+          {
+            "question": "What does find() do in Python?",
+            "options": [
+              "Finds the position of the first occurrence of a word",
+              "Counts occurrences of a word",
+              "Converts text to lowercase",
+              "Always returns -1"
+            ],
+            "answer": "Finds the position of the first occurrence of a word"
+          }
+        ]
+      }
+    }
+  }
+  

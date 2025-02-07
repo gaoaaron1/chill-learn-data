@@ -427,6 +427,11 @@
           "unit": "Coming Soon...",
           "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
         }
+      ],
+      "Computer Science": [
+        {
+          "unit": "Python Fundamentals"
+        }
       ]
     },
     "grade11": {

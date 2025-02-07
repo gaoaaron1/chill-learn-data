@@ -50,7 +50,7 @@
                 {
                     "question": "The sum of the length and width of a rectangle is 48 cm, and their ratio is 5:3. Find the perimeter of the rectangle.",
                     "options": ["96 cm", "72 cm", "80 cm", "64 cm"],
-                    "answer": "72 cm"
+                    "answer": "96 cm"
                 }
             ]
         }
