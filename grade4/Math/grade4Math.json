@@ -434,7 +434,112 @@
                     "options": ["16", "14", "12", "18"],
                     "answer": "16"
                 }
-            ]                
+            ],
+            
+            "Algebra": [
+                {
+                    "question": "What is the value of x in the equation 3 + x = 8?",
+                    "options": ["3", "5", "6", "8"],
+                    "answer": "5"
+                },
+                {
+                    "question": "Solve for x: 18 - x = 6",
+                    "options": ["10", "12", "14", "16"],
+                    "answer": "12"
+                },
+                {
+                    "question": "What is the value of x in the equation 2x + 1 = 7?",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3"
+                },
+                {
+                    "question": "Solve for x: x - 4 = 9",
+                    "options": ["10", "11", "12", "13"],
+                    "answer": "13"
+                },
+                {
+                    "question": "If x + 5 = 15, what is the value of x?",
+                    "options": ["5", "10", "15", "20"],
+                    "answer": "10"
+                },
+                {
+                    "question": "Solve for x: 4x = 20",
+                    "options": ["2", "4", "5", "6"],
+                    "answer": "5"
+                },
+                {
+                    "question": "What is the value of x in the equation 10 + x = 25?",
+                    "options": ["10", "12", "15", "20"],
+                    "answer": "15"
+                },
+                {
+                    "question": "Solve for x: 5x - 3 = 12",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "3"
+                },
+                {
+                    "question": "What is the value of x in the equation x ÷ 2 = 6?",
+                    "options": ["8", "10", "12", "14"],
+                    "answer": "12"
+                },
+                {
+                    "question": "Solve for x: 2x + 4 = 10",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3"
+                },
+                {
+                    "question": "What is the value of x in the equation 7x = 42?",
+                    "options": ["5", "6", "7", "8"],
+                    "answer": "6"
+                },
+                {
+                    "question": "Solve for x: x + 9 = 18",
+                    "options": ["5", "6", "7", "9"],
+                    "answer": "9"
+                },
+                {
+                    "question": "What is the value of x in the equation 3x - 4 = 11?",
+                    "options": ["3", "4", "5", "6"],
+                    "answer": "5"
+                },
+                {
+                    "question": "Solve for x: 8x = 64",
+                    "options": ["6", "7", "8", "9"],
+                    "answer": "8"
+                },
+                {
+                    "question": "If 2x + 3 = 11, what is the value of x?",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "4"
+                },
+                {
+                    "question": "Solve for x: x - 7 = 3",
+                    "options": ["8", "9", "10", "11"],
+                    "answer": "10"
+                },
+                {
+                    "question": "What is the value of x in the equation 6x + 2 = 20?",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3"
+                },
+                {
+                    "question": "Solve for x: x/4 = 5",
+                    "options": ["10", "15", "20", "25"],
+                    "answer": "20"
+                },
+                {
+                    "question": "If 9x - 6 = 21, what is the value of x?",
+                    "options": ["2", "3", "4", "5"],
+                    "answer": "3"
+                },
+                {
+                    "question": "Solve for the sum of the fruits",
+                    "options": ["21", "23", "25", "27"],
+                    "answer": "3",
+                    "image": "https://i.pinimg.com/originals/b9/fc/73/b9fc73850562a0315f41d8476872df03.jpg"
+                }
+                
+            ]            
             
         }
     }
