@@ -537,7 +537,20 @@
                     "options": ["21", "23", "25", "27"],
                     "answer": "25",
                     "image": "https://i.pinimg.com/originals/b9/fc/73/b9fc73850562a0315f41d8476872df03.jpg"
+                },
+                {
+                    "question": "Solve for Pumpkin + Bats + Cat",
+                    "options": ["36", "24", "32", "35"],
+                    "answer": "35",
+                    "image": "https://i.pinimg.com/originals/21/b5/e3/21b5e3f324496e92903d82a52f60d57d.png"
+                },
+                {
+                    "question": "Solve for the Skull + Ghost + Pumpkin",
+                    "options": ["16", "20", "24", "28"],
+                    "answer": "16",
+                    "image": "https://svgprintstudio.com/wp-content/uploads/2021/08/Funny-Math-Teacher-Halloween-Costume-510x510.jpeg"
                 }
+
                 
             ]            
             
