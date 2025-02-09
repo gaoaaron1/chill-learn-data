@@ -540,7 +540,7 @@
                 },
                 {
                     "question": "Solve for Pumpkin + Bats + Cat",
-                    "options": ["36", "24", "32", "35"],
+                    "options": ["10", "12", "22", "16"],
                     "answer": "35",
                     "image": "https://i.pinimg.com/originals/21/b5/e3/21b5e3f324496e92903d82a52f60d57d.png"
                 },
