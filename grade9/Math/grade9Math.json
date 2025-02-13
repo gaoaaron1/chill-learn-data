@@ -151,9 +151,15 @@
         },
         {
           "question": "Find the equation to this graph.",
-          "options": ["y = -5x - 2", "y = 5x + 3", "y = -1/5x + 4", "y = x - 5"],
-          "answer": "y = -5x - 2",
+          "options": ["y = 3x + 1", "y = 2x + 1", "y = -2x + 1", "y = -3x - 1"],
+          "answer": "y = 3x + 1",
           "image": "https://res.cloudinary.com/dcwfof5ny/image/upload/v1739479279/Q1_l6ovbq.png "
+        },
+        {
+          "question": "Find the equation to this graph.",
+          "options": ["y = 1/2x - 1", "y = -x - 1", "y = -1/2x - 1", "y = -2x - 1"],
+          "answer": "y = -1/2x - 1",
+          "image": "https://res.cloudinary.com/dcwfof5ny/image/upload/v1739479881/Q2_bhzcfe.png"
         }
       ]
 
