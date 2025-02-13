@@ -160,10 +160,20 @@
           "options": ["y = 1/2x - 1", "y = -x - 1", "y = -1/2x - 1", "y = -2x - 1"],
           "answer": "y = -1/2x - 1",
           "image": "https://res.cloudinary.com/dcwfof5ny/image/upload/v1739479881/Q2_bhzcfe.png"
+        },
+        {
+          "question": "Figure 0 has 1 body, figure 1 has 2 bodies, figure 2 has 3 bodies and figure 3 has 4 bodies. Write an equation for this pattern.",
+          "options": ["y = x + 1", "y = 1 - x", "y = x", "y = x - 1"],
+          "answer": "y = x + 1",
+          "image": " https://res.cloudinary.com/dcwfof5ny/image/upload/v1739481138/CaterpillarRelation_dsfk6j.png"
+        },
+        {
+          "question": "The structure of a linear graph is Y = mx + b. Let's find the slope (m)! (m = rise/run)",
+          "options": ["2", "1", "8", "0"],
+          "answer": "1",
+          "image": "https://res.cloudinary.com/dcwfof5ny/image/upload/v1739481470/Q3_bqk1wt.png"
         }
       ]
-
-
     }    
         }
   }
