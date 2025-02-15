@@ -16,6 +16,23 @@
             ]
           },
           {
+            "question": "A cannonball is shot horizontally from the top of a 800m cliff with an initial speed of 500 m/s \n\n(a) Find the time it takes for the cannonball to hit the ground.\n (b) What is the range of the cannonball? \n Calculate the velocity of the cannonball just before it hits the ground.  \n\n(Round to 3 significant digits.)",
+            "blanks": [
+              {
+                "placeholder": "Time (s)",
+                "answer": "12.8"  
+              },
+              {
+                "placeholder": "Range (m) in scientific notation a.bc*10^2. Enter in the format 'abc' ",
+                "answer": "640" 
+              },
+              {
+                "placeholder": "Final Velocity (m/s)",
+                "answer": "516" 
+              }              
+            ]
+          },          
+          {
             "question": "A football is kicked at a speed of 25 m/s at 37° to the horizontal.\n\n(a) How far does it travel before hitting the ground?\n(b) What is the time of flight?\n\n(Hint: Use horizontal motion d = vx * t and vertical motion to find t.) (Round to 3 sig digs)",
             "blanks": [
               {
@@ -27,7 +44,7 @@
                 "answer": "3.07"
               }
             ]
-          }
+          }       
         ],
         "Acceleration And Freefall": [
           {
@@ -52,7 +69,16 @@
               }
             ],
             "image": "https://media.istockphoto.com/id/854209190/vector/a-man-throwing-a-ball.jpg?s=612x612&w=0&k=20&c=_7U0q59mKv2Ysd1ReuKHOBI6P4XBDiDESX3z-3hnmMQ="            
-          }
+          },
+          {
+            "question": "A ball rolls off a cliff that is 200m high. Calculate the time it takes for the ball to hit the ground.",
+            "blanks": [
+              {
+                "placeholder": "Time (Round to 3 significant digits)",
+                "answer": "7.82"  
+              }
+            ]
+          }   
         ],
         "Vector Components In 2D": [
           {
