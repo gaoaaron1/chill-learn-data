@@ -16,11 +16,11 @@
             ]
           },
           {
-            "question": "A football is kicked at a speed of 25 m/s at 37° to the horizontal.\n\n(a) How far does it travel before hitting the ground?\n(b) What is the time of flight?\n\n(Hint: Use horizontal motion d = vx * t and vertical motion to find t.)",
+            "question": "A football is kicked at a speed of 25 m/s at 37° to the horizontal.\n\n(a) How far does it travel before hitting the ground?\n(b) What is the time of flight?\n\n(Hint: Use horizontal motion d = vx * t and vertical motion to find t.) (Round to 3 sig digs)",
             "blanks": [
               {
                 "placeholder": "Range (m)",
-                "answer": "61.30" 
+                "answer": "61.3" 
               },
               {
                 "placeholder": "Time of flight (s)",
@@ -42,6 +42,16 @@
                 "answer": "44.4"
               }
             ]
+          },
+          {
+            "question": "A ball is thrown with an initial upward velocity of 5 m/s. What is its velocity after 1.5 seconds, and what is the direction of velocity?",
+            "blanks": [
+              {
+                "placeholder": "Final velocity (m/s) downwards (Rounding to 2 sig digs)",
+                "answer": "9.7"
+              }
+            ],
+            "image": "https://media.istockphoto.com/id/854209190/vector/a-man-throwing-a-ball.jpg?s=612x612&w=0&k=20&c=_7U0q59mKv2Ysd1ReuKHOBI6P4XBDiDESX3z-3hnmMQ="            
           }
         ],
         "Vector Components In 2D": [
