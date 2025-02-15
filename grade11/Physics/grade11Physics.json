@@ -67,7 +67,109 @@
                 "answer": "25"
               }
             ]
-          }
+          },
+          {
+            "question": "Mark walks 45 meters north, pauses, and then walks 28 meters south.\n\n(a) Determine the distance which Mark moved.\n(b) Determine Mark's resultant displacement.",
+            "blanks": [
+              {
+                "placeholder": "Distance moved (m)",
+                "answer": "73"
+              },
+              {
+                "placeholder": "Resultant displacement (m)",
+                "answer": "17, north"
+              }
+            ]
+          },
+          {
+            "question": "Maria is paddling upstream in a river at 0.75 m/s relative to the water, and the river is flowing at 0.40 m/s relative to the banks.\n\n(a) What is the resultant velocity of Maria’s boat relative to the banks?\n(b) If Maria paddles downstream at 0.75 m/s relative to the water, what is the resultant velocity of her boat relative to the banks?",
+            "blanks": [
+              {
+                "placeholder": "Resultant velocity upstream (m/s)",
+                "answer": "0.35"
+              },
+              {
+                "placeholder": "Resultant velocity downstream (m/s)",
+                "answer": "1.15"
+              }
+            ]
+          },
+          {
+            "question": "A jet plane takes off from an airport, and its takeoff speed is 200 km/h relative to the air. The airport is moving at 50 km/h into a 30 km/h headwind. What speed must the plane obtain relative to the ground to take off?",
+            "blanks": [
+              {
+                "placeholder": "Required speed relative to the ground (km/h)",
+                "answer": "250"
+              }
+            ]
+          },
+          {
+            "question": "Sarah walks 20 meters east, then makes a 90° left turn and walks 40 meters north. Determine the magnitude of Sarah’s resultant displacement.",
+            "blanks": [
+              {
+                "placeholder": "Resultant displacement (m)",
+                "answer": "44.72"
+              }
+            ]
+          },
+          {
+            "question": "Brian is walking from the bus stop to his apartment. He walks 50 meters south, then turns and walks 100 meters west. Determine the magnitude and direction of Brian's resultant displacement.",
+            "blanks": [
+              {
+                "placeholder": "Resultant displacement (m)",
+                "answer": "111.8"
+              },
+              {
+                "placeholder": "Direction",
+                "answer": "southwest"
+              }
+            ],
+            "image": "https://th.bing.com/th/id/OIP.oTnuLn3dpg_im-aEbLXyhAHaEK?rs=1&pid=ImgDetMain"
+          },
+          {
+            "question": "Tanya drives 3.50 miles north, 2.10 miles east, and 1.80 miles south. Determine the magnitude of Tanya's resultant displacement.",
+            "blanks": [
+              {
+                "placeholder": "Resultant displacement (miles)",
+                "answer": "2.12"
+              }
+            ]
+          },
+          {
+            "question": "During a run, Chris runs 1.20 miles north, 1.80 miles east, then 2.00 miles north and 0.60 miles west. Determine the magnitude and direction of Chris's resultant displacement.",
+            "blanks": [
+              {
+                "placeholder": "Resultant displacement (miles)",
+                "answer": "2.26"
+              },
+              {
+                "placeholder": "Direction",
+                "answer": "north"
+              }
+            ]
+          },
+          {
+            "question": "In a fun day at the park, Jennifer walks 30.0 m north, 40.0 m east, 20.0 m south, and 60.0 m west. Determine the magnitude and direction of Jennifer’s resultant displacement.",
+            "blanks": [
+              {
+                "placeholder": "Resultant displacement (m)",
+                "answer": "40.0"
+              },
+              {
+                "placeholder": "Direction",
+                "answer": "west"
+              }
+            ]
+          },
+          {
+            "question": "A soccer ball is kicked from the center of the field to the corner of the goalpost. The soccer field is 120 meters wide and 40 meters from midfield to the back of the goalpost. How far did the ball travel from the kicker to the goalpost?",
+            "blanks": [
+              {
+                "placeholder": "Distance traveled (m)",
+                "answer": "130.0"
+              }
+            ]
+          }          
         ],
         "RelativeMotionIn2D": [
           {
