@@ -7,11 +7,11 @@
             "blanks": [
               {
                 "placeholder": "Maximum height (m)",
-                "answer": "v^2 * sin^2(theta) / (2 * g)"
+                "answer": "18.97"  
               },
               {
                 "placeholder": "Time of flight (s)",
-                "answer": "2 * v * sin(theta) / g"
+                "answer": "3.94" 
               }
             ]
           },
@@ -20,11 +20,11 @@
             "blanks": [
               {
                 "placeholder": "Range (m)",
-                "answer": "v^2 * sin(2*theta) / g"
+                "answer": "61.30" 
               },
               {
                 "placeholder": "Time of flight (s)",
-                "answer": "2 * v * sin(theta) / g"
+                "answer": "3.07"
               }
             ]
           }
@@ -35,11 +35,11 @@
             "blanks": [
               {
                 "placeholder": "Height of cliff (m)",
-                "answer": "vi * t + (1/2) * g * t^2"
+                "answer": "89.1"
               },
               {
                 "placeholder": "Final velocity (m/s)",
-                "answer": "vi + g * t"
+                "answer": "44.4"
               }
             ]
           }
@@ -50,11 +50,11 @@
             "blanks": [
               {
                 "placeholder": "Horizontal component (N)",
-                "answer": "F * cos(theta)"
+                "answer": "43.3"
               },
               {
                 "placeholder": "Vertical component (N)",
-                "answer": "F * sin(theta)"
+                "answer": "25"
               }
             ]
           }
@@ -65,15 +65,15 @@
             "blanks": [
               {
                 "placeholder": "Actual velocity (m/s)",
-                "answer": "sqrt(vx^2 + vy^2)"
+                "answer": "5.83"
               },
               {
                 "placeholder": "Time to cross (s)",
-                "answer": "d / vy"
+                "answer": "12"
               },
               {
                 "placeholder": "Distance downstream (m)",
-                "answer": "vx * time"
+                "answer": "36"
               }
             ]
           }
