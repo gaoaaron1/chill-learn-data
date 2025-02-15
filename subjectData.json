@@ -455,8 +455,22 @@
         {
             "unit": "Stoichiometry",
             "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
-          }
-        ]
+        }
+      ],
+      "Physics": [
+        {
+          "unit": "Projectile Motion",
+          "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
+        },  
+        {
+            "unit": "Acceleration And Freefall",
+            "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
+        },
+        {
+          "unit": "Vector Components In 2D",
+          "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
       }
+      ]
+    }
   }
   

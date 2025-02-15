@@ -1,0 +1,84 @@
+{
+    "grade11": {
+      "Physics": {
+        "Projectile Motion": [
+          {
+            "question": "A ball is launched with an initial velocity of 30 m/s at an angle of 40° above the horizontal.\n\n(a) How high does it go?\n(b) How long does it stay in the air?\n\n(Hint: Break velocity into components and use vertical motion equations.)",
+            "blanks": [
+              {
+                "placeholder": "Maximum height (m)",
+                "answer": "v^2 * sin^2(theta) / (2 * g)"
+              },
+              {
+                "placeholder": "Time of flight (s)",
+                "answer": "2 * v * sin(theta) / g"
+              }
+            ]
+          },
+          {
+            "question": "A football is kicked at a speed of 25 m/s at 37° to the horizontal.\n\n(a) How far does it travel before hitting the ground?\n(b) What is the time of flight?\n\n(Hint: Use horizontal motion d = vx * t and vertical motion to find t.)",
+            "blanks": [
+              {
+                "placeholder": "Range (m)",
+                "answer": "v^2 * sin(2*theta) / g"
+              },
+              {
+                "placeholder": "Time of flight (s)",
+                "answer": "2 * v * sin(theta) / g"
+              }
+            ]
+          }
+        ],
+        "Acceleration And Freefall": [
+          {
+            "question": "A stone is thrown straight down from a cliff at 15 m/s. It hits the ground 3 seconds later.\n\n(a) How high was the cliff?\n(b) What was the final velocity when it hit the ground?\n\n(Hint: Use d = vi * t + 1/2 g t^2 and vf = vi + gt.)",
+            "blanks": [
+              {
+                "placeholder": "Height of cliff (m)",
+                "answer": "vi * t + (1/2) * g * t^2"
+              },
+              {
+                "placeholder": "Final velocity (m/s)",
+                "answer": "vi + g * t"
+              }
+            ]
+          }
+        ],
+        "Vector Components In 2D": [
+          {
+            "question": "A force of 50 N is applied at an angle of 30° above the horizontal.\n\n(a) Find the horizontal and vertical components of the force.\n(b) If the same force were applied at 60°, how would the components change?\n\n(Hint: Use Fx = Fcosθ, Fy = Fsinθ.)",
+            "blanks": [
+              {
+                "placeholder": "Horizontal component (N)",
+                "answer": "F * cos(theta)"
+              },
+              {
+                "placeholder": "Vertical component (N)",
+                "answer": "F * sin(theta)"
+              }
+            ]
+          }
+        ],
+        "RelativeMotionIn2D": [
+          {
+            "question": "A boat moves directly across a river with a speed of 5 m/s, but the river flows east at 3 m/s.\n\n(a) What is the actual velocity of the boat?\n(b) If the river is 60 m wide, how long does it take to cross?\n(c) How far downstream is the boat when it reaches the other side?\n\n(Hint: Break into perpendicular components.)",
+            "blanks": [
+              {
+                "placeholder": "Actual velocity (m/s)",
+                "answer": "sqrt(vx^2 + vy^2)"
+              },
+              {
+                "placeholder": "Time to cross (s)",
+                "answer": "d / vy"
+              },
+              {
+                "placeholder": "Distance downstream (m)",
+                "answer": "vx * time"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  
