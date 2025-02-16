@@ -558,7 +558,49 @@
                 }
 
                 
-            ]            
+            ],
+"Place Value And Rounding": [
+        {
+          "question": "What is the place value of 5 in the number 5,482?",
+          "options": ["Ones", "Tens", "Hundreds", "Thousands"],
+          "answer": "Thousands"
+        },
+        {
+          "question": "In the number 3,276, which digit is in the hundreds place?",
+          "options": ["3", "2", "7", "6"],
+          "answer": "2"
+        },
+        {
+          "question": "Which number has a 9 in the tens place?",
+          "options": ["2,934", "1,492", "3,945", "9,231"],
+          "answer": "1,492"
+        },
+        {
+          "question": "What is the value of the digit 7 in 7,682?",
+          "options": ["7", "70", "700", "7,000"],
+          "answer": "7,000"
+        },
+        {
+          "question": "Round 462 to the nearest ten.",
+          "options": ["460", "470", "400", "500"],
+          "answer": "460"
+        },
+        {
+          "question": "Round 3,829 to the nearest hundred.",
+          "options": ["3,800", "3,820", "3,900", "3,830"],
+          "answer": "3,800"
+        },
+        {
+          "question": "What is 7,243 rounded to the nearest thousand?",
+          "options": ["7,000", "7,200", "7,300", "8,000"],
+          "answer": "7,000"
+        },
+        {
+          "question": "Which number rounds to 5,000 when rounded to the nearest thousand?",
+          "options": ["4,499", "5,299", "5,800", "6,100"],
+          "answer": "5,299"
+        }
+      ]                        
             
         }
     }
