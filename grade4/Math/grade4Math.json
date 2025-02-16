@@ -599,7 +599,22 @@
           "question": "Which number rounds to 5,000 when rounded to the nearest thousand?",
           "options": ["4,499", "5,299", "5,800", "6,100"],
           "answer": "5,299"
+        },
+        {
+            "question": "Mr. Peanutbutter bought 6,984 tennis balls, but he lost some while running around excitedly. If you round 6,984 to the nearest thousand, how many tennis balls does he *think* he still has?",
+            "options": ["6,000", "7,000", "6,900", "8,000"],
+            "answer": "7,000",
+            "image": "https://th.bing.com/th/id/OIP.cUdMvVbKpsskzPYwarzxowHaEK?rs=1&pid=ImgDetMain"
+        },
+        {
+            "question": "Spiderus counted 4,678 spiderwebs he spun while dramatically complaining about life. If he rounds this number to the nearest hundred, how many webs does he claim he made?",
+            "options": ["4,600", "4,700", "4,680", "5,000"],
+            "answer": "4,700",
+            "image": "https://th.bing.com/th/id/OIP.AGJGT66sGb7MvB8QGIaNJwHaGw?rs=1&pid=ImgDetMain"
         }
+          
+
+          
       ]                        
             
         }
