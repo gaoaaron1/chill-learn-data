@@ -8,7 +8,9 @@
             "pairs": [
               { "left": "Mitochondria", "right": "Produces energy" },
               { "left": "Nucleus", "right": "Contains DNA" },
-              { "left": "Ribosome", "right": "Synthesizes proteins" }
+              { "left": "Ribosome", "right": "Synthesizes proteins" },
+              { "left": "Golgi apparatus", "right": "Packages proteins" },
+              { "left": "Endoplasmic reticulum", "right": "Transports materials" }
             ]
           }
         ]
