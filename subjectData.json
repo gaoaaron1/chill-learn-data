@@ -461,13 +461,13 @@
           "unit": "The Diversity of Matter and Chemical Bonding"
         },  
         {
-            "unit": "Stoichiometry",
-            "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
+          "unit": "Stoichiometry",
+          "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
         }
       ],
       "Biology": [
         {
-          "unit": "Cell Structure",
+          "unit": "CellStructure",
           "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
         }
       ],      
