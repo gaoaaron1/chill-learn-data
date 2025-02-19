@@ -548,7 +548,166 @@
             "answer":"12/14",
             "image": "https://i.ytimg.com/vi/fG7l8eYOqo0/maxresdefault.jpg"
         }
-        ]
+        ],
+
+
+        "Midterm": [
+            {
+              "question": "What is 12.56 + 7.89?",
+              "options": ["20.45", "19.45", "21.45", "20.56"],
+              "answer": "20.45"
+            },
+            {
+              "question": "What is 15.89 - 7.45?",
+              "options": ["8.44", "9.44", "7.44", "10.44"],
+              "answer": "8.44"
+            },
+            {
+              "question": "What is 3.5 × 2.4?",
+              "options": ["8.4", "7.4", "9.6", "6.8"],
+              "answer": "8.4"
+            },
+            {
+              "question": "What is 7.6 × 0.5?",
+              "options": ["3.8", "4.3", "4.5", "3.6"],
+              "answer": "3.8"
+            },
+            {
+              "question": "What is 4.8 ÷ 2?",
+              "options": ["2.4", "3.4", "2.2", "1.8"],
+              "answer": "2.4"
+            },
+            {
+              "question": "What is 6.4 ÷ 0.8?",
+              "options": ["7.8", "8.4", "8", "7.6"],
+              "answer": "8"
+            },
+            {
+              "question": "What is the result of 3 + 2 × 4?",
+              "options": ["11", "14", "10", "12"],
+              "answer": "11"
+            },
+            {
+              "question": "What is the result of (6 + 2) × 3?",
+              "options": ["18", "24", "22", "20"],
+              "answer": "24"
+            },
+            {
+              "question": "What is 0.75 as a fraction?",
+              "options": ["3/4", "1/4", "1/2", "2/3"],
+              "answer": "3/4"
+            },
+            {
+              "question": "What is 50% as a decimal?",
+              "options": ["0.5", "0.75", "1", "0.25"],
+              "answer": "0.5"
+            },
+            {
+              "question": "What is 20% of 150?",
+              "options": ["30", "20", "25", "35"],
+              "answer": "30"
+            },
+            {
+              "question": "If a shirt costs $40 and is on a 25% discount, what is the discounted price?",
+              "options": ["$10", "$20", "$30", "$35"],
+              "answer": "$30"
+            },
+            {
+              "question": "What is 5 + (-8)?",
+              "options": ["-3", "3", "5", "8"],
+              "answer": "-3"
+            },
+            {
+              "question": "What is -7 - 3?",
+              "options": ["-10", "10", "4", "-4"],
+              "answer": "-10"
+            },
+            {
+              "question": "What is -3 + 7?",
+              "options": ["4", "-4", "1", "10"],
+              "answer": "4"
+            },
+            {
+              "question": "What is 9 + (-5)?",
+              "options": ["4", "14", "6", "9"],
+              "answer": "4"
+            },
+            {
+              "question": "What is 7 - (-2)?",
+              "options": ["9", "5", "6", "8"],
+              "answer": "9"
+            },
+            {
+              "question": "What is -5 + (-3)?",
+              "options": ["-8", "-3", "-5", "5"],
+              "answer": "-8"
+            },
+            {
+              "question": "What is 1/2 + 3/4?",
+              "options": ["5/4", "1/4", "3/2", "1"],
+              "answer": "5/4"
+            },
+            {
+              "question": "Is 36 divisible by 6?",
+              "options": ["Yes", "No"],
+              "answer": "Yes"
+            },
+            {
+              "question": "What is 2/5 + 3/5?",
+              "options": ["5/5", "1", "7/5", "1/5"],
+              "answer": "5/5"
+            },
+            {
+              "question": "What is 7/8 - 3/8?",
+              "options": ["4/8", "5/8", "7/8", "1/8"],
+              "answer": "4/8"
+            },
+            {
+              "question": "Fill in the blank: 0.25 as a fraction is ___.",
+              "blanks": [
+                {
+                  "placeholder": "Fraction",
+                  "answer": "1/4"
+                }
+              ]
+            },
+            {
+              "question": "Fill in the blank: 0.5 as a fraction is ___.",
+              "blanks": [
+                {
+                  "placeholder": "Fraction",
+                  "answer": "1/2"
+                }
+              ]
+            },
+            {
+              "question": "Fill in the blank: 15% as a decimal is ___.",
+              "blanks": [
+                {
+                  "placeholder": "Decimal",
+                  "answer": "0.15"
+                }
+              ]
+            },
+            {
+              "question": "Fill in the blank: The sum of 3/8 and 1/8 is ___.",
+              "blanks": [
+                {
+                  "placeholder": "Sum",
+                  "answer": "4/8"
+                }
+              ]
+            },
+            {
+              "question": "Fill in the blank: The result of 9 - (-3) is ___.",
+              "blanks": [
+                {
+                  "placeholder": "Result",
+                  "answer": "12"
+                }
+              ]
+            }
+          ]
 
   
 
