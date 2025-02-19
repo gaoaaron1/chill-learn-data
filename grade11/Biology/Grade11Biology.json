@@ -1,0 +1,18 @@
+{
+    "grade11": {
+      "Biology": {
+        "Cell Structure": [
+          {
+            "type": "matching",
+            "question": "Match the cell components with their functions.",
+            "pairs": [
+              { "left": "Mitochondria", "right": "Produces energy" },
+              { "left": "Nucleus", "right": "Contains DNA" },
+              { "left": "Ribosome", "right": "Synthesizes proteins" }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  

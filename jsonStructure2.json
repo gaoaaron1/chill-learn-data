@@ -1,0 +1,21 @@
+{
+    "grade11": {
+      "Physics": {
+        "Projectile Motion": [
+          {
+            "question": "A ball is launched with an initial velocity of 30 m/s at an angle of 40° above the horizontal.\n\n(a) How high does it go?\n(b) How long does it stay in the air?\n\n(Hint: Break velocity into components and use vertical motion equations.)",
+            "blanks": [
+              {
+                "placeholder": "Maximum height (m)",
+                "answer": "18.97"  
+              },
+              {
+                "placeholder": "Time of flight (s)",
+                "answer": "3.94" 
+              }
+            ]
+          }
+        ]
+      }
+    }
+}
