@@ -844,7 +844,13 @@
             "options": ["2.9", "3.0", "3.2", "3.3"],
             "answer": "3.2",
             "image": "https://th.bing.com/th/id/OIP.K0qv1GpvS_V8SO0NlS1T2wAAAA?rs=1&pid=ImgDetMain"
-        }        
+        },
+        {
+            "question": "Buddy the Elf is in the mailroom at the North Pole. He spends **3.2 hours** organizing the letters for Santa. He accidentally spends **1.5 hours** talking to a **26-year-old guy** about the importance of Christmas. How much time does Buddy actually spend sorting mail?",
+            "options": ["1.7", "1.8", "1.9", "2.0"],
+            "answer": "1.7",
+            "image": "https://th.bing.com/th/id/OIP.ZT3Q69lRkQkFimePFtKzGQAAAA?rs=1&pid=ImgDetMain"
+          }                
       ]
 
             
