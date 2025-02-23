@@ -620,7 +620,8 @@
           {
             "question": "Sarah has a pizza that is cut into 8 equal slices. She ate 3 slices. What fraction of the pizza did Sarah eat? What fraction of the pizza is left?",
             "options": ["\\frac{3}{8}", "\\frac{5}{8}", "\\frac{1}{2}", "\\frac{2}{8}"],
-            "answer": "\\frac{3}{8}"
+            "answer": "\\frac{3}{8}",
+            "image": "https://th.bing.com/th/id/OIP.lCBcYmqP6LihgUaqZfelxQHaEo?rs=1&pid=ImgDetMain"
           },
           {
             "question": "Emily is reading a book. She has finished \\frac{1}{4} of the book. If there are 200 pages in total, how many pages has she read? How many pages does she still need to read?",
@@ -892,7 +893,13 @@
             "options": ["1.7", "1.8", "1.9", "2.0"],
             "answer": "1.7",
             "image": "https://th.bing.com/th/id/OIP.ZT3Q69lRkQkFimePFtKzGQAAAA?rs=1&pid=ImgDetMain"
-          }                
+        },
+        {
+          "question": "Bully Maguire walks into a pizza shop and orders 1.5 pizzas. He starts dancing and says, 'Pizza time!' After eating 0.7 of a pizza, How much pizza does Bully Maguire have left?",
+          "options": ["0.5", "0.6", "0.7", "0.8"],
+          "answer": "0.8",
+          "image": "https://ih1.redbubble.net/image.2468340416.2517/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
+        }                
       ]
 
             
