@@ -594,8 +594,8 @@
             },
             {
               "question": "What is 0.75 as a fraction?",
-              "options": ["\frac{3}{4}", "\frac{1}{4}", "\frac{1}{2}", "\frac{2}{3}"],
-              "answer": "\frac{3}{4}"
+              "options": ["\\frac{3}{4}", "\\frac{1}{4}", "\\frac{1}{2}", "\\frac{2}{3}"],
+              "answer": "\\frac{3}{4}"
             },
             {
               "question": "What is 50% as a decimal?",
@@ -653,25 +653,25 @@
               "answer": "Yes"
             },
             {
-              "question": "What is \frac{2}{5} + \frac{3}{5}?",
-              "options": ["\frac{5}{5}", "1", "\frac{7}{5}", "\frac{1}{5}"],
-              "answer": "\frac{5}{5}"
+              "question": "What is \\frac{2}{5} + \\frac{3}{5}?",
+              "options": ["\\frac{5}{5}", "1", "\\frac{7}{5}", "\\frac{1}{5}"],
+              "answer": "\\frac{5}{5}"
             },
             {
-              "question": "What is \frac{7}{8} - \frac{3}{8}?",
-              "options": ["\frac{4}{8}", "\frac{5}{8}", "\frac{7}{8}", "\frac{1}{8}"],
-              "answer": "\frac{4}{8}"
+              "question": "What is \\frac{7}{8} - \\frac{3}{8}?",
+              "options": ["\\frac{4}{8}", "\\frac{5}{8}", "\\frac{7}{8}", "\\frac{1}{8}"],
+              "answer": "\\frac{4}{8}"
             },
             {
               "question": "Fill in the blank: 0.25 as a fraction is ___.",
               "blanks": [
-                { "placeholder": "Fraction", "answer": "\frac{1}{4}" }
+                { "placeholder": "Fraction", "answer": "\\frac{1}{4}" }
               ]
             },
             {
               "question": "Fill in the blank: 0.5 as a fraction is ___.",
               "blanks": [
-                { "placeholder": "Fraction", "answer": "\frac{1}{2}" }
+                { "placeholder": "Fraction", "answer": "\\frac{1}{2}" }
               ]
             },
             {
@@ -684,9 +684,9 @@
               ]
             },
             {
-              "question": "Fill in the blank: The sum of \frac{3}{8} and \frac{1}{8} is ___.",
+              "question": "Fill in the blank: The sum of \\frac{3}{8} and \\frac{1}{8} is ___.",
               "blanks": [
-                { "placeholder": "Sum", "answer": "\frac{4}{8}" }
+                { "placeholder": "Sum", "answer": "\\frac{4}{8}" }
               ]
             },
             {
@@ -719,7 +719,7 @@
               "answer": "$120"
             },
             {
-              "question": "Fill in the blank: The decimal form of \frac{3}{5} is ___.",
+              "question": "Fill in the blank: The decimal form of \\frac{3}{5} is ___.",
               "blanks": [
                 { "placeholder": "Decimal", "answer": "0.6" }
               ]
