@@ -594,8 +594,8 @@
             },
             {
               "question": "What is 0.75 as a fraction?",
-              "options": ["3/4", "1/4", "1/2", "2/3"],
-              "answer": "3/4"
+              "options": ["\frac{3}{4}", "\frac{1}{4}", "\frac{1}{2}", "\frac{2}{3}"],
+              "answer": "\frac{3}{4}"
             },
             {
               "question": "What is 50% as a decimal?",
@@ -643,9 +643,9 @@
               "answer": "-8"
             },
             {
-              "question": "What is 1/2 + 3/4?",
-              "options": ["5/4", "1/4", "3/2", "1"],
-              "answer": "5/4"
+              "question": "What is \\frac{1}{2} + \\frac{3}{4}?",
+              "options": ["\\frac{5}{4}", "\\frac{1}{4}", "\\frac{3}{2}", "1"],
+              "answer": "\\frac{5}{4}"
             },
             {
               "question": "Is 36 divisible by 6?",
@@ -653,31 +653,25 @@
               "answer": "Yes"
             },
             {
-              "question": "What is 2/5 + 3/5?",
-              "options": ["5/5", "1", "7/5", "1/5"],
-              "answer": "5/5"
+              "question": "What is \frac{2}{5} + \frac{3}{5}?",
+              "options": ["\frac{5}{5}", "1", "\frac{7}{5}", "\frac{1}{5}"],
+              "answer": "\frac{5}{5}"
             },
             {
-              "question": "What is 7/8 - 3/8?",
-              "options": ["4/8", "5/8", "7/8", "1/8"],
-              "answer": "4/8"
+              "question": "What is \frac{7}{8} - \frac{3}{8}?",
+              "options": ["\frac{4}{8}", "\frac{5}{8}", "\frac{7}{8}", "\frac{1}{8}"],
+              "answer": "\frac{4}{8}"
             },
             {
               "question": "Fill in the blank: 0.25 as a fraction is ___.",
               "blanks": [
-                {
-                  "placeholder": "Fraction",
-                  "answer": "1/4"
-                }
+                { "placeholder": "Fraction", "answer": "\frac{1}{4}" }
               ]
             },
             {
               "question": "Fill in the blank: 0.5 as a fraction is ___.",
               "blanks": [
-                {
-                  "placeholder": "Fraction",
-                  "answer": "1/2"
-                }
+                { "placeholder": "Fraction", "answer": "\frac{1}{2}" }
               ]
             },
             {
@@ -690,12 +684,9 @@
               ]
             },
             {
-              "question": "Fill in the blank: The sum of 3/8 and 1/8 is ___.",
+              "question": "Fill in the blank: The sum of \frac{3}{8} and \frac{1}{8} is ___.",
               "blanks": [
-                {
-                  "placeholder": "Sum",
-                  "answer": "4/8"
-                }
+                { "placeholder": "Sum", "answer": "\frac{4}{8}" }
               ]
             },
             {
@@ -706,7 +697,35 @@
                   "answer": "12"
                 }
               ]
+            },
+            {
+              "question": "A product costs $200. If a GST of 5% is applied, what is the final price?",
+              "options": ["$205", "$210", "$220", "$215"],
+              "answer": "$210"
+            },
+            {
+              "question": "A laptop is priced at $1200. If a 10% GST is added, what is the total cost?",
+              "options": ["$1320", "$1250", "$1200", "$1400"],
+              "answer": "$1320"
+            },
+            {
+              "question": "A store is offering a 15% discount on a $80 item. What is the discounted price?",
+              "options": ["$68", "$72", "$74", "$76"],
+              "answer": "$68"
+            },
+            {
+              "question": "A jacket originally costs $150. It is on sale with a 20% discount. What is the new price?",
+              "options": ["$130", "$120", "$140", "$135"],
+              "answer": "$120"
+            },
+            {
+              "question": "Fill in the blank: The decimal form of \frac{3}{5} is ___.",
+              "blanks": [
+                { "placeholder": "Decimal", "answer": "0.6" }
+              ]
             }
+
+
           ]
 
   
