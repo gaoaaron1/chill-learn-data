@@ -665,13 +665,13 @@
             {
               "question": "Fill in the blank: 0.25 as a fraction is ___.",
               "blanks": [
-                { "placeholder": "Fraction", "answer": "\\frac{1}{4}" }
+                { "placeholder": "Fraction", "answer": "1/4" }
               ]
             },
             {
               "question": "Fill in the blank: 0.5 as a fraction is ___.",
               "blanks": [
-                { "placeholder": "Fraction", "answer": "\\frac{1}{2}" }
+                { "placeholder": "Fraction", "answer": "1/2" }
               ]
             },
             {
@@ -686,7 +686,7 @@
             {
               "question": "Fill in the blank: The sum of \\frac{3}{8} and \\frac{1}{8} is ___.",
               "blanks": [
-                { "placeholder": "Sum", "answer": "\\frac{4}{8}" }
+                { "placeholder": "Sum", "answer": "4/8" }
               ]
             },
             {
