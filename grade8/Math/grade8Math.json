@@ -157,10 +157,7 @@
           },
           {
             "question": [
-              "Love-Sick John went to the flower shop and bought flowers for $50.",
-              "Unfortunately, his tinder date had stood him up.",
-              "After applying GST (5%) and PST (7%),",
-              "how much money did he spend on the bouquet of flowers?"
+              "Love-Sick John went to the flower shop and bought flowers for $50. Unfortunately, his tinder date had stood him up. After applying GST (5%) and PST (7%) how much money did he spend on the bouquet of flowers?"
             ],
             "options": ["$56.00", "$55.00", "$60.00", "$57.50"],
             "answer": "$56.00",
