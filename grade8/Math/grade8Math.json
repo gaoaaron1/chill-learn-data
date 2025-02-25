@@ -75,8 +75,86 @@
           {
             "question": "A tree casts a shadow that is 10 meters long. The height of the tree is 24 meters. What is the distance from the top of the tree to the tip of the shadow?",
             "options": ["26", "25", "24", "22"],
-            "answer": "26"
+            "aanswer": "26"
           }
+        ],
+        "Understanding Percents": [
+          {
+            "type": "matching",
+            "question": "Match the percentages with their corresponding values.",
+            "pairs": [
+              { "left": "50%", "right": "0.5" },
+              { "left": "25%", "right": "0.25" },
+              { "left": "75%", "right": "0.75" },
+              { "left": "10%", "right": "0.1" },
+              { "left": "5%", "right": "0.05" },
+              { "left": "90%", "right": "0.9" },
+              { "left": "1%", "right": "0.01" }
+            ]
+          },
+          {
+            "question": "What is 25% of 400?",
+            "options": ["100", "50", "75", "200"],
+            "answer": "100"
+          },
+          {
+            "question": "What is 30% of 500?",
+            "blanks": [
+              {
+                "placeholder": "Answer",
+                "answer": "150"
+              }
+            ]
+          },
+          {
+            "type": "multiple-choice",
+            "question": "Which of the following is equal to 40%?",
+            "options": ["0.04", "4", "0.4", "0.004"],
+            "answer": "0.4"
+          },
+          {
+            "type": "fill-in-the-blank",
+            "question": "Convert 12.5% into a decimal.",
+            "blanks": [
+              {
+                "placeholder": "Answer",
+                "answer": "0.125"
+              }
+            ]
+          },
+          {
+            "type": "matching",
+            "question": "Match the percentage with the fraction form.",
+            "pairs": [
+              { "left": "50%", "right": "1/2" },
+              { "left": "20%", "right": "1/5" },
+              { "left": "10%", "right": "1/10" },
+              { "left": "12.5%", "right": "1/8" },
+              { "left": "75%", "right": "3/4" }
+            ]
+          },
+          {
+            "type": "multiple-choice",
+            "question": "What is 15% of 80?",
+            "options": ["8", "12", "10", "15"],
+            "answer": "12"
+          },
+          {
+            "type": "fill-in-the-blank",
+            "question": "What is 8% of 250?",
+            "blanks": [
+              {
+                "placeholder": "Answer",
+                "answer": "20"
+              }
+            ]
+          },
+          {
+            "type": "multiple-choice",
+            "question": "Which percentage is equivalent to 1/4?",
+            "options": ["10%", "20%", "25%", "30%"],
+            "answer": "25%"
+          }          
         ]
       }
     }
