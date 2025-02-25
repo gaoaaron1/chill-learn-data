@@ -154,12 +154,6 @@
             "question": "Which percentage is equivalent to 1/4?",
             "options": ["10%", "20%", "25%", "30%"],
             "answer": "25%"
-          },
-          {
-            "question": "Love-Sick John went to the flower shop and bought flowers for $50. Unfortunately, his tinder date had stood him up. After applying GST (5%) and PST (7%) how much money did he spend on the bouquet of flowers?",
-            "options": ["$56.00", "$55.00", "$60.00", "$57.50"],
-            "answer": "$56.00",
-            "image": "https://th.bing.com/th/id/R.c79ea082411d3da99d86bf0cb572a9c7?rik=mZVH3c2jpNWerg&riu=http%3a%2f%2fclipartmag.com%2fimages%2fsad-man-clipart-32.jpg&ehk=rPQ4P5ghozDVpjh1DzKnO%2b3ODs1vDIX6qd1gZ1GxgVs%3d&risl=&pid=ImgRaw&r=0"
           }
           
           
