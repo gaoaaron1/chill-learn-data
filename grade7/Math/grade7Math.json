@@ -549,13 +549,62 @@
       "image": "https://i.ytimg.com/vi/fG7l8eYOqo0/maxresdefault.jpg"
     }
   ],
-
-  
+ 
     "Fractions, Decimals, and Percents": [
       {
         "question": "Convert \\frac{3}{5} to a decimal and a percent.",
         "options": ["0.6 and 60%", "0.5 and 50%", "0.3 and 30%", "0.75 and 75%"],
         "answer": "0.6 and 60%"
+      },
+      {
+        "question": "What is 15% of 125?",
+        "options": ["18.75", "15", "20", "12.5"],
+        "answer": "18.75"
+      },
+      {
+        "question": "What is 25% of 200?",
+        "options": ["40", "45", "50", "55"],
+        "answer": "50"
+      },
+      {
+        "question": "What is 12% of 150?",
+        "options": ["18", "20", "22", "15"],
+        "answer": "18"
+      },
+      {
+        "question": "What is 30% of 80?",
+        "options": ["20", "24", "18", "22"],
+        "answer": "24"
+      },
+      {
+        "question": "What is 40% of 250?",
+        "options": ["80", "90", "100", "110"],
+        "answer": "100"
+      },
+      {
+        "question": "What is 8% of 75?",
+        "options": ["6", "5", "7", "8"],
+        "answer": "6"
+      },
+      {
+        "question": "What is 60% of 120?",
+        "options": ["60", "66", "72", "75"],
+        "answer": "72"
+      },
+      {
+        "question": "What is 22% of 400?",
+        "options": ["80", "88", "90", "92"],
+        "answer": "88"
+      },
+      {
+        "question": "What is 75% of 160?",
+        "options": ["120", "125", "130", "135"],
+        "answer": "120"
+      },
+      {
+        "question": "What is 18% of 90?",
+        "options": ["14.4", "15", "16.2", "17.5"],
+        "answer": "16.2"
       },
       {
         "question": "Convert 0.125 to a fraction and a percent.",
