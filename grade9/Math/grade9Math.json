@@ -196,7 +196,17 @@
           "options": ["0.75", "0.8", "0.85", "0.9"],
           "answer": "0.75",
           "image": "https://media.istockphoto.com/id/2002152104/vector/before-and-after-weight-loss-an-overweight-girl-stands-in-front-of-a-thin-slender-fit-woman.jpg?s=612x612&w=0&k=20&c=9Xz9kqrjPYG64q1QkW_RZOoUM94ha9P93vJefSO4Mjc="
-        }
+        },
+        {
+          "type": "fill-in-the-blank",
+          "question": "Determine the missing value in \\frac{1}{9} = \\frac{}{117}.",
+          "blanks": [
+            {
+              "placeholder": "Answer",
+              "answer": "13"
+            }
+          ]
+        },
         
         
       ]      
