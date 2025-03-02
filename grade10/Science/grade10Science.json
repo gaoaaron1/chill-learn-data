@@ -325,178 +325,178 @@
               "placeholder": "H_2O coefficient",
               "answer": "6"
             }
-
-        
+          ]
+        }
       ],
 
-"Molar Mass": [
-    {
-      "type": "multiple-choice",
-      "question": "How many moles of water does 6.02 x 10^{23} molecules represent?",
-      "options": ["1 mole", "2 moles", "0.5 moles", "3 moles"],
-      "answer": "1 mole"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "Convert 3.01 x 10^{23} molecules of C2H6 to moles.",
-      "options": ["0.5 moles", "1 mole", "2 moles", "0.33 moles"],
-      "answer": "0.5 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many moles of glucose does 1.2 x 10^{24} molecules represent?",
-      "options": ["1.2 moles", "2 moles", "3 moles", "0.5 moles"],
-      "answer": "2 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many moles of CaCl2 does 2.41 x 10^{24} formula units represent?",
-      "options": ["4 moles", "2 moles", "6 moles", "3.5 moles"],
-      "answer": "4 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many atoms does 2.0 moles of He represent?",
-      "options": ["1.2 x 10^{24} atoms", "1.0 x 10^{23} atoms", "2.4 x 10^{24} atoms", "3.0 x 10^{24} atoms"],
-      "answer": "1.2 x 10^{24} atoms"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many sodium ions are in 3.0 moles of NaCl?",
-      "options": ["3.0 x 10^{24} sodium ions", "1.5 x 10^{24} sodium ions", "6.02 x 10^{23} sodium ions", "9.0 x 10^{23} sodium ions"],
-      "answer": "3.0 x 10^{24} sodium ions"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many molecules are in 0.25 moles of CH4?",
-      "options": ["1.51 x 10^{23} molecules", "2.02 x 10^{23} molecules", "0.5 x 10^{23} molecules", "1.0 x 10^{22} molecules"],
-      "answer": "1.51 x 10^{23} molecules"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many total atoms are in 1.0 moles of H2O?",
-      "options": ["6.02 x 10^{23} atoms", "1.2 x 10^{24} atoms", "3.0 x 10^{23} atoms", "1.0 x 10^{23} atoms"],
-      "answer": "6.02 x 10^{23} atoms"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many moles are in 15 grams of lithium?",
-      "options": ["2.17 moles", "1.5 moles", "3.0 moles", "5.0 moles"],
-      "answer": "2.17 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many grams are in 2.4 moles of sulfur?",
-      "options": ["76.8 grams", "60.8 grams", "90 grams", "50 grams"],
-      "answer": "76.8 grams"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many moles are in 22 grams of argon?",
-      "options": ["1.64 moles", "0.5 moles", "2.5 moles", "1 mole"],
-      "answer": "1.64 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many grams are in 88.1 moles of magnesium?",
-      "options": ["2136 grams", "1000 grams", "1500 grams", "500 grams"],
-      "answer": "2136 grams"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many moles are in 2.3 grams of phosphorus?",
-      "options": ["0.075 moles", "0.1 moles", "0.25 moles", "0.5 moles"],
-      "answer": "0.075 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many grams are in 11.9 moles of chromium?",
-      "options": ["620.4 grams", "500 grams", "700 grams", "600 grams"],
-      "answer": "620.4 grams"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many moles are in 9.8 grams of calcium?",
-      "options": ["0.245 moles", "1.0 moles", "0.5 moles", "2.0 moles"],
-      "answer": "0.245 moles"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "How many grams are in 238 moles of arsenic?",
-      "options": ["19406 grams", "20000 grams", "15000 grams", "18000 grams"],
-      "answer": "19406 grams"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "What is the molecular weight of NaOH?",
-      "options": ["40 g/mol", "50 g/mol", "45 g/mol", "60 g/mol"],
-      "answer": "40 g/mol"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "What is the molecular weight of H3PO4?",
-      "options": ["98 g/mol", "100 g/mol", "80 g/mol", "120 g/mol"],
-      "answer": "98 g/mol"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "What is the molecular weight of H2O?",
-      "options": ["18 g/mol", "20 g/mol", "22 g/mol", "25 g/mol"],
-      "answer": "18 g/mol"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "What is the molecular weight of Mn2Se7?",
-      "options": ["551 g/mol", "500 g/mol", "600 g/mol", "700 g/mol"],
-      "answer": "551 g/mol"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "What is the molecular weight of MgCl2?",
-      "options": ["95 g/mol", "85 g/mol", "105 g/mol", "100 g/mol"],
-      "answer": "95 g/mol"
-    },
-    {
-      "type": "multiple-choice",
-      "question": "What is the molecular weight of (NH4)2SO4?",
-      "options": ["132 g/mol", "120 g/mol", "150 g/mol", "140 g/mol"],
-      "answer": "132 g/mol"
-    },
-    {
-      "type": "fill-in-the-blank",
-      "question": "How many grams are there in 2.3 x 10^{24} atoms of silver?",
-      "blanks": [
-        {
-          "placeholder": "Answer",
-          "answer": "258"
-        }
-      ]
-    },
-    {
-      "type": "fill-in-the-blank",
-      "question": "How many grams are there in 7.4 x 10^{23} molecules of AgNO3?",
-      "blanks": [
-        {
-          "placeholder": "Answer",
-          "answer": "126"
-        }
-      ]
-    },
-    {
-      "type": "fill-in-the-blank",
-      "question": "How many grams are there in 7.5 x 10^{23} molecules of H2SO4?",
-      "blanks": [
-        {
-          "placeholder": "Answer",
-          "answer": "147"
-        }
-      ]
-    }
+          "Molar Mass": [
+              {
+                "type": "multiple-choice",
+                "question": "How many moles of water does 6.02 x 10^{23} molecules represent?",
+                "options": ["1 mole", "2 moles", "0.5 moles", "3 moles"],
+                "answer": "1 mole"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "Convert 3.01 x 10^{23} molecules of C2H6 to moles.",
+                "options": ["0.5 moles", "1 mole", "2 moles", "0.33 moles"],
+                "answer": "0.5 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many moles of glucose does 1.2 x 10^{24} molecules represent?",
+                "options": ["1.2 moles", "2 moles", "3 moles", "0.5 moles"],
+                "answer": "2 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many moles of CaCl2 does 2.41 x 10^{24} formula units represent?",
+                "options": ["4 moles", "2 moles", "6 moles", "3.5 moles"],
+                "answer": "4 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many atoms does 2.0 moles of He represent?",
+                "options": ["1.2 x 10^{24} atoms", "1.0 x 10^{23} atoms", "2.4 x 10^{24} atoms", "3.0 x 10^{24} atoms"],
+                "answer": "1.2 x 10^{24} atoms"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many sodium ions are in 3.0 moles of NaCl?",
+                "options": ["3.0 x 10^{24} sodium ions", "1.5 x 10^{24} sodium ions", "6.02 x 10^{23} sodium ions", "9.0 x 10^{23} sodium ions"],
+                "answer": "3.0 x 10^{24} sodium ions"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many molecules are in 0.25 moles of CH4?",
+                "options": ["1.51 x 10^{23} molecules", "2.02 x 10^{23} molecules", "0.5 x 10^{23} molecules", "1.0 x 10^{22} molecules"],
+                "answer": "1.51 x 10^{23} molecules"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many total atoms are in 1.0 moles of H2O?",
+                "options": ["6.02 x 10^{23} atoms", "1.2 x 10^{24} atoms", "3.0 x 10^{23} atoms", "1.0 x 10^{23} atoms"],
+                "answer": "6.02 x 10^{23} atoms"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many moles are in 15 grams of lithium?",
+                "options": ["2.17 moles", "1.5 moles", "3.0 moles", "5.0 moles"],
+                "answer": "2.17 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many grams are in 2.4 moles of sulfur?",
+                "options": ["76.8 grams", "60.8 grams", "90 grams", "50 grams"],
+                "answer": "76.8 grams"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many moles are in 22 grams of argon?",
+                "options": ["1.64 moles", "0.5 moles", "2.5 moles", "1 mole"],
+                "answer": "1.64 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many grams are in 88.1 moles of magnesium?",
+                "options": ["2136 grams", "1000 grams", "1500 grams", "500 grams"],
+                "answer": "2136 grams"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many moles are in 2.3 grams of phosphorus?",
+                "options": ["0.075 moles", "0.1 moles", "0.25 moles", "0.5 moles"],
+                "answer": "0.075 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many grams are in 11.9 moles of chromium?",
+                "options": ["620.4 grams", "500 grams", "700 grams", "600 grams"],
+                "answer": "620.4 grams"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many moles are in 9.8 grams of calcium?",
+                "options": ["0.245 moles", "1.0 moles", "0.5 moles", "2.0 moles"],
+                "answer": "0.245 moles"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "How many grams are in 238 moles of arsenic?",
+                "options": ["19406 grams", "20000 grams", "15000 grams", "18000 grams"],
+                "answer": "19406 grams"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "What is the molecular weight of NaOH?",
+                "options": ["40 g/mol", "50 g/mol", "45 g/mol", "60 g/mol"],
+                "answer": "40 g/mol"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "What is the molecular weight of H3PO4?",
+                "options": ["98 g/mol", "100 g/mol", "80 g/mol", "120 g/mol"],
+                "answer": "98 g/mol"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "What is the molecular weight of H2O?",
+                "options": ["18 g/mol", "20 g/mol", "22 g/mol", "25 g/mol"],
+                "answer": "18 g/mol"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "What is the molecular weight of Mn2Se7?",
+                "options": ["551 g/mol", "500 g/mol", "600 g/mol", "700 g/mol"],
+                "answer": "551 g/mol"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "What is the molecular weight of MgCl2?",
+                "options": ["95 g/mol", "85 g/mol", "105 g/mol", "100 g/mol"],
+                "answer": "95 g/mol"
+              },
+              {
+                "type": "multiple-choice",
+                "question": "What is the molecular weight of (NH4)2SO4?",
+                "options": ["132 g/mol", "120 g/mol", "150 g/mol", "140 g/mol"],
+                "answer": "132 g/mol"
+              },
+              {
+                "type": "fill-in-the-blank",
+                "question": "How many grams are there in 2.3 x 10^{24} atoms of silver?",
+                "blanks": [
+                  {
+                    "placeholder": "Answer",
+                    "answer": "258"
+                  }
+                ]
+              },
+              {
+                "type": "fill-in-the-blank",
+                "question": "How many grams are there in 7.4 x 10^{23} molecules of AgNO3?",
+                "blanks": [
+                  {
+                    "placeholder": "Answer",
+                    "answer": "126"
+                  }
+                ]
+              },
+              {
+                "type": "fill-in-the-blank",
+                "question": "How many grams are there in 7.5 x 10^{23} molecules of H2SO4?",
+                "blanks": [
+                  {
+                    "placeholder": "Answer",
+                    "answer": "147"
+                  }
+                ]
+              }
 
+            ]
+        
 
-  ]
-
-      }
+  
     }
   }
-  
+}
