@@ -269,35 +269,35 @@
           ]
         },
         {
-          "question": "Balance the following chemical equation: \n\n__ C + __ O_2 → __ CO_2",
+          "question": "Balance the following chemical equation: \n\n__ C + __ O2 → __ CO2",
           "blanks": [
             {
               "placeholder": "C coefficient",
               "answer": "1"
             },
             {
-              "placeholder": "O_2 coefficient",
+              "placeholder": "O2 coefficient",
               "answer": "1"
             },
             {
-              "placeholder": "CO_2 coefficient",
+              "placeholder": "CO2 coefficient",
               "answer": "1"
             }
           ]
         },
         {
-          "question": "Balance the following chemical equation: \n\n__ Na_2SO_4 + __ BaCl_2 → __ BaSO_4 + __ NaCl",
+          "question": "Balance the following chemical equation: \n\n__ Na2SO4 + __ BaCl2 → __ BaSO4 + __ NaCl",
           "blanks": [
             {
-              "placeholder": "Na_2SO_4 coefficient",
+              "placeholder": "Na2SO4 coefficient",
               "answer": "1"
             },
             {
-              "placeholder": "BaCl_2 coefficient",
+              "placeholder": "BaCl2 coefficient",
               "answer": "1"
             },
             {
-              "placeholder": "BaSO_4 coefficient",
+              "placeholder": "BaSO4 coefficient",
               "answer": "1"
             },
             {
@@ -307,22 +307,22 @@
           ]
         },
         {
-          "question": "Balance the following chemical equation: \n\n__ C_2H_6 + __ O_2 → __ CO_2 + __ H_2O",
+          "question": "Balance the following chemical equation: \n\n__ C2H6 + __ O2 → __ CO2 + __ H2O",
           "blanks": [
             {
-              "placeholder": "C_2H_6 coefficient",
+              "placeholder": "C2H6 coefficient",
               "answer": "1"
             },
             {
-              "placeholder": "O_2 coefficient",
+              "placeholder": "O2 coefficient",
               "answer": "7"
             },
             {
-              "placeholder": "CO_2 coefficient",
+              "placeholder": "CO2 coefficient",
               "answer": "4"
             },
             {
-              "placeholder": "H_2O coefficient",
+              "placeholder": "H2O coefficient",
               "answer": "6"
             }
           ]
