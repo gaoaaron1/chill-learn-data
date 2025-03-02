@@ -176,7 +176,7 @@
         }
       ],
 
-      "Scale Factors and Similarity": [
+      "Scale Factors & Similarity": [
         {
           
             "type": "multiple-choice",
@@ -186,7 +186,7 @@
         },
         {
           "type": "multiple-choice",
-          "question": "Love-Sick John had been working on improving himself, thinking that the girl he liked would eventually be ready for a relationship. She told him she wasn't ready, and he accepted it. But 2 weeks later, he finds out she’s now dating someone else. If John’s emotional state went from a 15 cm feeling of hope to a 5 cm feeling of betrayal, what scale factor shows how much his emotional state has decreased?",
+          "question": "Love-Sick John had been working on improving himself, thinking that the girl he liked would eventually be ready for a relationship. She told him she wasn't ready, and he accepted it. But 2 weeks later, he finds out she’s now dating someone else. If John’s emotional state went from a 9/10 to a 1/10, what scale factor shows how much his emotional state has decreased?",
           "options": ["0.25", "0.33", "0.5", "0.75"],
           "answer": "0.33",
           "image": "https://thumbs.dreamstime.com/b/broken-heart-man-sad-holding-shape-concept-being-48762539.jpg?w=360"
@@ -200,7 +200,7 @@
         },
         {
           "type": "fill-in-the-blank",
-          "question": "Determine the missing value in \\frac{1}{9} = \\frac{}{117}.",
+          "question": "Determine the missing value in \\frac{1}{9} = \\frac{?}{117}.",
           "blanks": [
             {
               "placeholder": "Answer",
