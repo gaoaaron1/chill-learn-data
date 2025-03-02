@@ -13,7 +13,61 @@
             "answer": "5"
             }
 
-        ]
+        ],
+        "Addition": [
+            {
+                "question": "What is 27 + 15?",
+                "options": ["32", "42", "40", "45"],
+                "answer": "42"
+            },
+            {
+                "question": "What is 56 + 18?",
+                "options": ["72", "74", "70", "76"],
+                "answer": "74"
+            },
+            {
+                "question": "What is 39 + 26?",
+                "options": ["55", "65", "60", "66"],
+                "answer": "65"
+            }
+        ],
+        "Subtraction": [
+            {
+                "question": "What is 64 - 29?",
+                "options": ["25", "35", "45", "30"],
+                "answer": "35"
+            },
+            {
+                "question": "What is 91 - 47?",
+                "options": ["44", "42", "48", "40"],
+                "answer": "44"
+            },
+            {
+                "question": "What is 80 - 33?",
+                "options": ["47", "43", "50", "37"],
+                "answer": "47"
+            }
+        ],
+        "Clocks": [
+                {
+                    "question": "What time is shown on the clock?",
+                    "options": ["2:30", "3:00", "3:30", "4:00"],
+                    "answer": "3:30",
+                    "image": "https://th.bing.com/th/id/R.59ab4bb93e39726f4b968a2f9ef14029?rik=WtUBl1y%2bk4m%2fLA&riu=http%3a%2f%2fetc.usf.edu%2fclipart%2f33800%2f33804%2fnclock-03-30_33804_lg.gif&ehk=8L0KOHrWp2vVvah3otiX5dQk%2b04HnX3OKgfaU5EerCA%3d&risl=&pid=ImgRaw&r=0"
+                },
+                {
+                    "question": "If the time is 4:15 now, what will it be in 30 minutes?",
+                    "options": ["4:30", "4:45", "5:00", "5:15"],
+                    "answer": "4:45"
+                },
+                {
+                    "question": "What is 1 hour after 7:45?",
+                    "options": ["8:30", "8:45", "9:00", "9:45"],
+                    "answer": "8:45"
+                }
+            ]        
+
+
         }
 
 

@@ -180,13 +180,17 @@
           "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade3"
         },
         {
-          "unit": "Division",
+          "unit": "Addition",
           "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForDivisionGrade3"
         },
         {
-          "unit": "Fractions",
+          "unit": "Subtraction",
           "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForFractionsGrade3"
-        }
+        },
+        {
+          "unit": "Clocks",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForFractionsGrade3"
+        }        
       ],
       "Science": [
         {
