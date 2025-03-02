@@ -174,7 +174,33 @@
           "answer": "1",
           "image": "https://res.cloudinary.com/dcwfof5ny/image/upload/v1739481470/Q3_bqk1wt.png"
         }
-      ]
+      ],
+      "Scale Factor & Similarity": [
+        {
+          
+            "type": "multiple-choice",
+            "question": "Much to Peter's dismay, his girlfriend Felicia edits her photos and post on social media for attention. She reduces the width of her waist size from 30 cm to 18 cm. What scale factor did she apply?",
+            "options": ["0.5", "0.6", "0.75", "0.8"],
+            "answer": "0.6"
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Love-Sick John had been working on improving himself, thinking that the girl he liked would eventually be ready for a relationship. She told him she wasn't ready, and he accepted it. But 2 weeks later, he finds out she’s now dating someone else. If John’s emotional state went from a 15 cm feeling of hope to a 5 cm feeling of betrayal, what scale factor shows how much his emotional state has decreased?",
+          "options": ["0.25", "0.33", "0.5", "0.75"],
+          "answer": "0.33",
+          "image": "https://thumbs.dreamstime.com/b/broken-heart-man-sad-holding-shape-concept-being-48762539.jpg?w=360"
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Mia was 40 kg when she started eating healthier and exercising. After 6 months, she now weighs 30 kg. What scale factor shows how much her weight has decreased?",
+          "options": ["0.75", "0.8", "0.85", "0.9"],
+          "answer": "0.75",
+          "image": "https://media.istockphoto.com/id/2002152104/vector/before-and-after-weight-loss-an-overweight-girl-stands-in-front-of-a-thin-slender-fit-woman.jpg?s=612x612&w=0&k=20&c=9Xz9kqrjPYG64q1QkW_RZOoUM94ha9P93vJefSO4Mjc="
+        }
+        
+        
+      ]      
+
     }    
         }
   }
