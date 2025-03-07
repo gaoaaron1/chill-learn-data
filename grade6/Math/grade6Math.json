@@ -200,7 +200,163 @@
                     "options": ["0", "1", "2", "3"],
                     "answer": "2"
                 }
+            ],
+
+"Greatest Common Factor (GCF)": [
+                {
+                    "question": "What is the greatest common factor (GCF) of 18 and 24?",
+                    "options": ["2", "4", "6", "8"],
+                    "answer": "6"
+                },
+                {
+                    "question": "What is the GCF of 36 and 48?",
+                    "options": ["6", "8", "12", "18"],
+                    "answer": "12"
+                },
+                {
+                    "question": "Find the GCF of 14 and 35.",
+                    "options": ["2", "5", "7", "14"],
+                    "answer": "7"
+                },
+                {
+                    "question": "What is the greatest common factor of 16 and 40?",
+                    "options": ["4", "8", "10", "16"],
+                    "answer": "8"
+                },
+                {
+                    "question": "The GCF of 45 and 75 is:",
+                    "options": ["5", "10", "15", "25"],
+                    "answer": "15"
+                },
+                {
+                    "question": "Find the GCF of 27 and 81.",
+                    "options": ["9", "18", "27", "54"],
+                    "answer": "27"
+                },
+                {
+                    "question": "What is the GCF of 50 and 75?",
+                    "options": ["5", "10", "25", "50"],
+                    "answer": "25"
+                },
+                {
+                    "question": "What is the greatest common factor of 32 and 56?",
+                    "options": ["4", "8", "16", "32"],
+                    "answer": "8"
+                },
+                {
+                    "question": "The GCF of 12 and 30 is:",
+                    "options": ["2", "3", "6", "12"],
+                    "answer": "6"
+                },
+                {
+                    "question": "Find the greatest common factor of 9 and 27.",
+                    "options": ["3", "6", "9", "12"],
+                    "answer": "9"
+                },
+                {
+                    "question": "The GCF of 20 and 50 is:",
+                    "options": ["5", "10", "20", "50"],
+                    "answer": "10"
+                },
+                {
+                    "question": "Find the greatest common factor of 21 and 49.",
+                    "options": ["3", "7", "14", "21"],
+                    "answer": "7"
+                },
+                {
+                    "question": "The GCF of 8 and 12 is:",
+                    "options": ["2", "4", "6", "8"],
+                    "answer": "4"
+                },
+                {
+                    "question": "Find the GCF of 30 and 42.",
+                    "options": ["3", "6", "10", "12"],
+                    "answer": "6"
+                },
+                {
+                    "question": "What is the GCF of 24 and 60?",
+                    "options": ["6", "12", "18", "24"],
+                    "answer": "12"
+                }
+            ],
+            "Least Common Multiple (LCM)": [
+                {
+                    "question": "What is the least common multiple (LCM) of 4 and 6?",
+                    "options": ["8", "10", "12", "24"],
+                    "answer": "12"
+                },
+                {
+                    "question": "Find the LCM of 5 and 15.",
+                    "options": ["10", "15", "20", "30"],
+                    "answer": "15"
+                },
+                {
+                    "question": "The LCM of 3 and 7 is:",
+                    "options": ["14", "21", "24", "28"],
+                    "answer": "21"
+                },
+                {
+                    "question": "Find the LCM of 12 and 18.",
+                    "options": ["24", "30", "36", "48"],
+                    "answer": "36"
+                },
+                {
+                    "question": "The least common multiple of 8 and 10 is:",
+                    "options": ["16", "20", "24", "30"],
+                    "answer": "40"
+                },
+                {
+                    "question": "What is the LCM of 9 and 12?",
+                    "options": ["18", "24", "27", "36"],
+                    "answer": "36"
+                },
+                {
+                    "question": "Find the least common multiple of 14 and 21.",
+                    "options": ["28", "35", "42", "56"],
+                    "answer": "42"
+                },
+                {
+                    "question": "What is the LCM of 16 and 20?",
+                    "options": ["32", "40", "48", "60"],
+                    "answer": "80"
+                },
+                {
+                    "question": "Find the LCM of 7 and 5.",
+                    "options": ["35", "49", "14", "25"],
+                    "answer": "35"
+                },
+                {
+                    "question": "The least common multiple of 18 and 24 is:",
+                    "options": ["36", "48", "54", "72"],
+                    "answer": "72"
+                },
+                {
+                    "question": "What is the LCM of 10 and 15?",
+                    "options": ["20", "25", "30", "40"],
+                    "answer": "30"
+                },
+                {
+                    "question": "Find the least common multiple of 11 and 13.",
+                    "options": ["121", "143", "169", "132"],
+                    "answer": "143"
+                },
+                {
+                    "question": "What is the LCM of 6 and 9?",
+                    "options": ["12", "18", "24", "36"],
+                    "answer": "18"
+                },
+                {
+                    "question": "The LCM of 25 and 30 is:",
+                    "options": ["50", "60", "75", "90"],
+                    "answer": "150"
+                },
+                {
+                    "question": "Find the least common multiple of 2, 3, and 4.",
+                    "options": ["6", "8", "12", "24"],
+                    "answer": "12"
+                }
             ]
+
 
         }
     }
