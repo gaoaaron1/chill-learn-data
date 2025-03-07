@@ -52,7 +52,156 @@
                     "options": ["96 cm", "72 cm", "80 cm", "64 cm"],
                     "answer": "96 cm"
                 }
+            ],
+
+            "Exponents and Prime Factorization": [
+                {
+                    "question": "What is the value of 3^4?",
+                    "options": ["9", "12", "27", "81"],
+                    "answer": "81"
+                },
+                {
+                    "question": "Which of the following is the prime factorization of 36?",
+                    "options": ["2 × 18", "2 × 2 × 3 × 3", "3 × 6", "2 × 3 × 6"],
+                    "answer": "2 × 2 × 3 × 3"
+                },
+                {
+                    "question": "What is the value of 2^5?",
+                    "options": ["8", "16", "32", "64"],
+                    "answer": "32"
+                },
+                {
+                    "question": "Which of the following numbers is a perfect square?",
+                    "options": ["12", "25", "18", "27"],
+                    "answer": "25"
+                },
+                {
+                    "question": "What is the prime factorization of 48?",
+                    "options": ["2 × 2 × 2 × 2 × 3", "3 × 3 × 4", "2 × 4 × 6", "2 × 3 × 8"],
+                    "answer": "2 × 2 × 2 × 2 × 3"
+                },
+                {
+                    "question": "What is the value of 5^3?",
+                    "options": ["15", "25", "125", "75"],
+                    "answer": "125"
+                },
+                {
+                    "question": "Which of the following numbers is NOT a prime number?",
+                    "options": ["17", "29", "33", "41"],
+                    "answer": "33"
+                },
+                {
+                    "question": "What is the square of 7?",
+                    "options": ["14", "49", "21", "28"],
+                    "answer": "49"
+                },
+                {
+                    "question": "Which number is a factor of both 24 and 36?",
+                    "options": ["3", "4", "6", "All of the above"],
+                    "answer": "All of the above"
+                },
+                {
+                    "question": "Which number is a prime number?",
+                    "options": ["51", "37", "45", "63"],
+                    "answer": "37"
+                },
+                {
+                    "question": "What is the cube of 4?",
+                    "options": ["12", "64", "16", "48"],
+                    "answer": "64"
+                },
+                {
+                    "question": "Which number is NOT a prime number?",
+                    "options": ["19", "23", "27", "31"],
+                    "answer": "27"
+                },
+                {
+                    "question": "What is the value of 6^2?",
+                    "options": ["12", "18", "36", "24"],
+                    "answer": "36"
+                },
+                {
+                    "question": "Which of the following is the prime factorization of 72?",
+                    "options": ["2 × 3 × 12", "2 × 2 × 2 × 3 × 3", "3 × 3 × 4", "2 × 3 × 6"],
+                    "answer": "2 × 2 × 2 × 3 × 3"
+                },
+                {
+                    "question": "What is the square root of 121?",
+                    "options": ["10", "12", "11", "13"],
+                    "answer": "11"
+                },
+                {
+                    "question": "Which number is a perfect cube?",
+                    "options": ["8", "12", "24", "30"],
+                    "answer": "8"
+                },
+                {
+                    "question": "What is the prime factorization of 90?",
+                    "options": ["2 × 5 × 9", "3 × 3 × 10", "2 × 3 × 3 × 5", "3 × 5 × 6"],
+                    "answer": "2 × 3 × 3 × 5"
+                },
+                {
+                    "question": "What is 2^6?",
+                    "options": ["16", "32", "64", "128"],
+                    "answer": "64"
+                },
+                {
+                    "question": "What is the prime factorization of 100?",
+                    "options": ["2 × 50", "2 × 5 × 10", "2 × 2 × 5 × 5", "5 × 20"],
+                    "answer": "2 × 2 × 5 × 5"
+                },
+                {
+                    "question": "What is the value of 9^2?",
+                    "options": ["72", "81", "90", "99"],
+                    "answer": "81"
+                },
+                {
+                    "question": "Which of the following numbers is a perfect square?",
+                    "options": ["50", "64", "75", "90"],
+                    "answer": "64"
+                },
+                {
+                    "question": "Which number is a prime number?",
+                    "options": ["49", "47", "51", "55"],
+                    "answer": "47"
+                },
+                {
+                    "question": "What is 4^4?",
+                    "options": ["64", "128", "256", "512"],
+                    "answer": "256"
+                },
+                {
+                    "question": "What is the square of 12?",
+                    "options": ["124", "140", "144", "132"],
+                    "answer": "144"
+                },
+                {
+                    "question": "What is the prime factorization of 81?",
+                    "options": ["3 × 3 × 3 × 3", "2 × 3 × 9", "3 × 9 × 9", "2 × 2 × 3 × 3"],
+                    "answer": "3 × 3 × 3 × 3"
+                },
+                {
+                    "question": "What is 10^3?",
+                    "options": ["100", "1000", "10,000", "1,000,000"],
+                    "answer": "1000"
+                },
+                {
+                    "question": "What is the prime factorization of 60?",
+                    "options": ["2 × 2 × 3 × 5", "3 × 3 × 5", "2 × 5 × 6", "2 × 3 × 10"],
+                    "answer": "2 × 2 × 3 × 5"
+                },
+                {
+                    "question": "What is 7^3?",
+                    "options": ["49", "63", "343", "512"],
+                    "answer": "343"
+                },
+                {
+                    "question": "What is the smallest prime number?",
+                    "options": ["0", "1", "2", "3"],
+                    "answer": "2"
+                }
             ]
+
         }
     }
 }
