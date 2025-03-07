@@ -1,0 +1,125 @@
+{
+    "grade7": {
+      "Chinese": {
+        "Vocabulary": [
+          {
+            "question": "What is the best English equivalent for the Chinese idiom '画蛇添足 (huà shé tiān zú)'?",
+            "options": [
+              "To add legs to a snake (unnecessary actions)",
+              "To paint a perfect picture",
+              "To catch two birds with one stone",
+              "To chase the wind"
+            ],
+            "answer": "To add legs to a snake (unnecessary actions)"
+          },
+          {
+            "question": "What does the word '环境 (huánjìng)' mean?",
+            "options": [
+              "Environment",
+              "Culture",
+              "Tradition",
+              "Technology"
+            ],
+            "answer": "Environment"
+          },
+          {
+            "question": "Which word means 'responsibility' in Chinese?",
+            "options": [
+              "友谊 (yǒuyì)",
+              "责任 (zérèn)",
+              "机会 (jīhuì)",
+              "目标 (mùbiāo)"
+            ],
+            "answer": "责任 (zérèn)"
+          }
+        ],
+        "Grammar": [
+          {
+            "question": "Which sentence correctly uses the 把 (bǎ) structure?",
+            "options": [
+              "我把书放在桌子上。(Wǒ bǎ shū fàng zài zhuōzi shàng.)",
+              "书把我放在桌子上。(Shū bǎ wǒ fàng zài zhuōzi shàng.)",
+              "我放在书把桌子上。(Wǒ fàng zài shū bǎ zhuōzi shàng.)",
+              "把书我放在桌子上。(Bǎ shū wǒ fàng zài zhuōzi shàng.)"
+            ],
+            "answer": "我把书放在桌子上。(Wǒ bǎ shū fàng zài zhuōzi shàng.)"
+          },
+          {
+            "question": "Which of the following sentences is **incorrect**?",
+            "options": [
+              "我明天去学校。(Wǒ míngtiān qù xuéxiào.)",
+              "他昨天看书了。(Tā zuótiān kàn shū le.)",
+              "她吃饭不喜欢。(Tā chī fàn bù xǐhuān.)",
+              "我们一起去看电影。(Wǒmen yīqǐ qù kàn diànyǐng.)"
+            ],
+            "answer": "她吃饭不喜欢。(Tā chī fàn bù xǐhuān.)"
+          }
+        ],
+        "Sentences": [
+          {
+            "question": "Complete the sentence: 他 ____ 中文说得很流利。(Tā ____ zhōngwén shuō de hěn liúlì.)",
+            "options": [
+              "是 (shì)",
+              "把 (bǎ)",
+              "很 (hěn)",
+              "的 (de)"
+            ],
+            "answer": "把 (bǎ)"
+          },
+          {
+            "question": "Choose the correct measure word: 一 ____ 书 (Yī ____ shū)",
+            "options": [
+              "本 (běn)",
+              "支 (zhī)",
+              "台 (tái)",
+              "个 (gè)"
+            ],
+            "answer": "本 (běn)"
+          },
+          {
+            "question": "Fill in the blank: 你 ____ 参加这个活动吗？(Nǐ ____ cānjiā zhège huódòng ma?)",
+            "options": [
+              "喜欢 (xǐhuān)",
+              "想 (xiǎng)",
+              "会 (huì)",
+              "能 (néng)"
+            ],
+            "answer": "想 (xiǎng)"
+          },
+          {
+            "question": "Fill in the blank with the correct time word: 我 ____ 去过中国。(Wǒ ____ qù guò Zhōngguó.)",
+            "options": [
+              "从来 (cónglái)",
+              "以前 (yǐqián)",
+              "现在 (xiànzài)",
+              "以后 (yǐhòu)"
+            ],
+            "answer": "以前 (yǐqián)"
+          },
+          {
+            "type": "matching",
+            "question": "Match the Chinese words with their meanings.",
+            "pairs": [
+              { "left": "坚持 (jiānchí)", "right": "Persevere" },
+              { "left": "尊重 (zūnzhòng)", "right": "Respect" },
+              { "left": "勇敢 (yǒnggǎn)", "right": "Brave" },
+              { "left": "挑战 (tiǎozhàn)", "right": "Challenge" },
+              { "left": "成功 (chénggōng)", "right": "Success" }
+            ]
+          },
+          {
+            "type": "matching",
+            "question": "Match the Chinese phrases with their meanings.",
+            "pairs": [
+              { "left": "日常生活 (rìcháng shēnghuó)", "right": "Daily life" },
+              { "left": "学习习惯 (xuéxí xíguàn)", "right": "Study habits" },
+              { "left": "社会问题 (shèhuì wèntí)", "right": "Social issues" },
+              { "left": "文化交流 (wénhuà jiāoliú)", "right": "Cultural exchange" },
+              { "left": "环保意识 (huánbǎo yìshí)", "right": "Environmental awareness" }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  

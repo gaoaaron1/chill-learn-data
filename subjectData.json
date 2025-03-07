@@ -403,7 +403,21 @@
           "unit": "Coming Soon...",
           "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
         }
-      ]
+      ],
+      "Chinese": [
+        {
+          "unit": "Vocabulary",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplyingIntegers"
+        },        
+        {
+          "unit": "Grammar",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplyingIntegers"
+        },
+        {
+          "unit": "Sentences",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplyingIntegers"
+        }        
+      ]      
     },
     "grade8": {
       "Math": [
