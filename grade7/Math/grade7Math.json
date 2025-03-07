@@ -978,9 +978,9 @@
             "answer": "19.63 ft²"
         },
         {
-          "question": "Pac-Man has a body of 75 cm ? (Use π ≈ 3.14)",
-          "options": ["19.63 ft²", "25 ft²", "12.57 ft²", "7.85 ft²"],
-          "answer": "19.63 ft²",
+          "question": "Pac-Man has a body with a diameter of 15 cm. What is the area of his body rounded to the nearest whole number. (Use π ≈ 3.14)",
+          "options": ["24 cm²", "47 cm²", "706 cm²", "177 cm²"],
+          "answer": "177 cm²",
           "image": "https://th.bing.com/th/id/OIP.kAFr93JgTcch8lgSkiiumgHaHi?rs=1&pid=ImgDetMain"
         }                
       ],
