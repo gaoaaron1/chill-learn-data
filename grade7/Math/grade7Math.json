@@ -881,7 +881,108 @@
               "question": "A quarter-circle is known as a...",
               "options": ["Semi-circle", "Sector", "Arc", "Quadrant"],
               "answer": "Quadrant"
-          }
+          },
+          {
+            "question": "If the radius of a circle is 7 cm, what is its area? (Use π ≈ 3.14)",
+            "options": ["153.86 cm²", "49 cm²", "21.98 cm²", "100 cm²"],
+            "answer": "153.86 cm²"
+        },
+        {
+            "question": "A circle has a diameter of 16 cm. What is its area? (Use π ≈ 3.14)",
+            "options": ["201.06 cm²", "804.24 cm²", "50.24 cm²", "78.5 cm²"],
+            "answer": "201.06 cm²"
+        },
+        {
+            "question": "If the radius of a circle is 10 m, what is its area? (Use π ≈ 3.14)",
+            "options": ["314 m²", "100 m²", "157 m²", "628 m²"],
+            "answer": "314 m²"
+        },
+        {
+            "question": "A circular table has a radius of 4.5 ft. What is its area? (Use π ≈ 3.14)",
+            "options": ["63.59 ft²", "28.27 ft²", "12.57 ft²", "90 ft²"],
+            "answer": "63.59 ft²"
+        },
+        {
+            "question": "If a pizza has a diameter of 12 inches, what is its area? (Use π ≈ 3.14)",
+            "options": ["113.04 in²", "36 in²", "75.36 in²", "144 in²"],
+            "answer": "113.04 in²"
+        },
+        {
+            "question": "A circular park has a radius of 20 m. What is its area? (Use π ≈ 3.14)",
+            "options": ["1,256 m²", "314 m²", "400 m²", "1,004 m²"],
+            "answer": "1,256 m²"
+        },
+        {
+            "question": "A wheel has a radius of 15 cm. What is its area? (Use π ≈ 3.14)",
+            "options": ["706.5 cm²", "141.3 cm²", "225 cm²", "942 cm²"],
+            "answer": "706.5 cm²"
+        },
+        {
+            "question": "If the area of a circle is 78.5 cm², what is its radius? (Use π ≈ 3.14)",
+            "options": ["5 cm", "7 cm", "8 cm", "10 cm"],
+            "answer": "5 cm"
+        },
+        {
+            "question": "A circular flower bed has a radius of 3 m. What is its area? (Use π ≈ 3.14)",
+            "options": ["28.26 m²", "9 m²", "18.84 m²", "12.56 m²"],
+            "answer": "28.26 m²"
+        },
+        {
+            "question": "A round plate has a radius of 6 cm. What is its area? (Use π ≈ 3.14)",
+            "options": ["113.04 cm²", "36 cm²", "75.36 cm²", "144 cm²"],
+            "answer": "113.04 cm²"
+        },
+        {
+            "question": "If the radius of a circle is doubled, how does its area change?",
+            "options": ["It remains the same", "It doubles", "It quadruples", "It triples"],
+            "answer": "It quadruples"
+        },
+        {
+            "question": "A circular swimming pool has a diameter of 30 feet. What is its area? (Use π ≈ 3.14)",
+            "options": ["706.5 ft²", "314.16 ft²", "1256.64 ft²", "942 ft²"],
+            "answer": "706.5 ft²"
+        },
+        {
+            "question": "A clock face has a radius of 9 inches. What is its area? (Use π ≈ 3.14)",
+            "options": ["254.34 in²", "81 in²", "162 in²", "28.27 in²"],
+            "answer": "254.34 in²"
+        },
+        {
+            "question": "A circular rug has an area of 452.16 ft². What is its radius? (Use π ≈ 3.14)",
+            "options": ["12 ft", "15 ft", "9 ft", "18 ft"],
+            "answer": "12 ft"
+        },
+        {
+            "question": "A circular mirror has a radius of 8 cm. What is its area? (Use π ≈ 3.14)",
+            "options": ["201.06 cm²", "100 cm²", "50.24 cm²", "78.5 cm²"],
+            "answer": "201.06 cm²"
+        },
+        {
+            "question": "A circular pond has a radius of 11 m. What is its area? (Use π ≈ 3.14)",
+            "options": ["380.13 m²", "121 m²", "242 m²", "452.16 m²"],
+            "answer": "380.13 m²"
+        },
+        {
+            "question": "A round fountain has a diameter of 18 m. What is its area? (Use π ≈ 3.14)",
+            "options": ["254.34 m²", "81 m²", "162 m²", "28.27 m²"],
+            "answer": "254.34 m²"
+        },
+        {
+            "question": "A circular garden has an area of 706.5 m². What is its radius? (Use π ≈ 3.14)",
+            "options": ["15 m", "10 m", "20 m", "25 m"],
+            "answer": "15 m"
+        },
+        {
+            "question": "A round window has a diameter of 5 ft. What is its area? (Use π ≈ 3.14)",
+            "options": ["19.63 ft²", "25 ft²", "12.57 ft²", "7.85 ft²"],
+            "answer": "19.63 ft²"
+        },
+        {
+          "question": "Pac-Man has a body of 75 cm ? (Use π ≈ 3.14)",
+          "options": ["19.63 ft²", "25 ft²", "12.57 ft²", "7.85 ft²"],
+          "answer": "19.63 ft²",
+          "image": "https://th.bing.com/th/id/OIP.kAFr93JgTcch8lgSkiiumgHaHi?rs=1&pid=ImgDetMain"
+        }                
       ],
   
   
