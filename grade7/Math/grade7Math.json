@@ -780,6 +780,110 @@
         "answer": "$99.00"
       }
     ],
+
+      "Circles": [
+          {
+              "question": "If the radius of a circle is 9 cm, what is its diameter?",
+              "options": ["18 cm", "9 cm", "27 cm", "4.5 cm"],
+              "answer": "18 cm"
+          },
+          {
+              "question": "If the circumference of a circle is 31.4 cm, what is the diameter? (Use π ≈ 3.14)",
+              "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+              "answer": "10 cm"
+          },
+          {
+              "question": "A wheel completes one full turn. What distance does it cover along the ground?",
+              "options": ["Its radius", "Its area", "Its circumference", "Its diameter"],
+              "answer": "Its circumference"
+          },
+          {
+              "question": "The longest straight line that can be drawn inside a circle is called the...",
+              "options": ["Radius", "Circumference", "Chord", "Diameter"],
+              "answer": "Diameter"
+          },
+          {
+              "question": "If the radius of a circle is 4 cm, what is its circumference? (Use π ≈ 3.14)",
+              "options": ["12.56 cm", "25.12 cm", "50.24 cm", "8 cm"],
+              "answer": "25.12 cm"
+          },
+          {
+              "question": "If the radius of a circle triples, how does the circumference change?",
+              "options": ["It doubles", "It triples", "It remains the same", "It becomes nine times larger"],
+              "answer": "It triples"
+          },
+          {
+              "question": "A circular garden has a radius of 14 meters. What is its area? (Use π ≈ 3.14)",
+              "options": ["153.86 m²", "196 m²", "615.44 m²", "490 m²"],
+              "answer": "615.44 m²"
+          },
+          {
+              "question": "What part of a circle is a chord that passes through the center?",
+              "options": ["Radius", "Diameter", "Arc", "Tangent"],
+              "answer": "Diameter"
+          },
+          {
+              "question": "A pizza has a diameter of 12 inches. What is the radius?",
+              "options": ["6 inches", "12 inches", "24 inches", "3 inches"],
+              "answer": "6 inches"
+          },
+          {
+              "question": "A chord of a circle is always...",
+              "options": ["Shorter than the diameter", "Equal to the radius", "Greater than the diameter", "Half the circumference"],
+              "answer": "Shorter than the diameter"
+          },
+          {
+              "question": "If a circle has a diameter of 20 cm, what is its radius?",
+              "options": ["5 cm", "10 cm", "20 cm", "40 cm"],
+              "answer": "10 cm"
+          },
+          {
+              "question": "What is the name of a segment of a circle's circumference?",
+              "options": ["Sector", "Arc", "Chord", "Tangent"],
+              "answer": "Arc"
+          },
+          {
+              "question": "A bicycle tire has a radius of 35 cm. What is its circumference? (Use π ≈ 3.14)",
+              "options": ["110 cm", "219.8 cm", "350 cm", "70 cm"],
+              "answer": "219.8 cm"
+          },
+          {
+              "question": "The formula for the area of a sector of a circle involves...",
+              "options": ["Radius and angle", "Diameter and radius", "Chord and arc", "Circumference and diameter"],
+              "answer": "Radius and angle"
+          },
+          {
+              "question": "If the area of a circle is 78.5 cm², what is the radius? (Use π ≈ 3.14)",
+              "options": ["5 cm", "10 cm", "7 cm", "8 cm"],
+              "answer": "5 cm"
+          },
+          {
+              "question": "A circular park has a radius of 21 meters. What is its circumference? (Use π ≈ 3.14)",
+              "options": ["131.88 m", "42 m", "66 m", "12 m"],
+              "answer": "131.88 m"
+          },
+          {
+              "question": "A sector is a part of a circle that resembles a...",
+              "options": ["Rectangle", "Triangle", "Wedge or slice", "Square"],
+              "answer": "Wedge or slice"
+          },
+          {
+              "question": "A line that touches a circle at exactly one point is called a...",
+              "options": ["Chord", "Radius", "Tangent", "Arc"],
+              "answer": "Tangent"
+          },
+          {
+              "question": "If the circumference of a circle is 62.8 cm, what is its radius? (Use π ≈ 3.14)",
+              "options": ["10 cm", "20 cm", "5 cm", "15 cm"],
+              "answer": "10 cm"
+          },
+          {
+              "question": "A quarter-circle is known as a...",
+              "options": ["Semi-circle", "Sector", "Arc", "Quadrant"],
+              "answer": "Quadrant"
+          }
+      ],
+  
   
   
 
