@@ -132,7 +132,287 @@
           "options": ["6", "12", "14", "8"],
           "answer": "14"
         }
+      ],
+
+      "Ohm's Law": [
+        {
+          "question": "A circuit has a resistance of 10 Ω and a voltage of 120 V. What is the current flowing through the circuit?",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "12"
+            }
+          ]
+        },
+        {
+          "question": "A 5 A current flows through a 20 Ω resistor. What is the voltage across the resistor?",
+          "blanks": [
+            {
+              "placeholder": "Voltage (V)",
+              "answer": "100"
+            }
+          ]
+        },
+        {
+          "question": "If a circuit has a current of 2 A and a voltage of 24 V, what is its resistance?",
+          "blanks": [
+            {
+              "placeholder": "Resistance (Ω)",
+              "answer": "12"
+            }
+          ]
+        },
+        {
+          "question": "A 50 Ω resistor is connected to a 200 V power supply. How much current flows through it?",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "question": "A 60 W light bulb operates at 120 V. How much current does it draw?",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "0.5"
+            }
+          ]
+        },
+        {
+          "question": "A heater draws 10 A from a 240 V power source. What is its resistance?",
+          "blanks": [
+            {
+              "placeholder": "Resistance (Ω)",
+              "answer": "24"
+            }
+          ]
+        },
+        {
+          "question": "A 15 Ω resistor has a voltage drop of 75 V across it. What is the current?",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "5"
+            }
+          ]
+        },
+        {
+          "question": "A 9V battery is connected to a circuit with a resistance of 3 Ω. Find the current.",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "question": "A motor operates with a current of 15 A and a voltage of 450 V. What is its resistance?",
+          "blanks": [
+            {
+              "placeholder": "Resistance (Ω)",
+              "answer": "30"
+            }
+          ]
+        },
+        {
+          "question": "A circuit contains a 12V battery and a 4Ω resistor. Find the current flowing.",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "question": "If a 100 Ω resistor carries a current of 0.25 A, what is the voltage across it?",
+          "blanks": [
+            {
+              "placeholder": "Voltage (V)",
+              "answer": "25"
+            }
+          ]
+        },
+        {
+          "question": "A 40V power source is applied to a 20Ω resistor. Find the current.",
+          "blanks": [
+            {
+              "placeholder": "Current (A)",
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "question": "Convert 5000 J to kilojoules (kJ).",
+          "blanks": [
+            {
+              "placeholder": "Energy (kJ)",
+              "answer": "5"
+            }
+          ]
+        },
+        {
+          "question": "A device consumes 2.5 kW of power. How many watts is this?",
+          "blanks": [
+            {
+              "placeholder": "Power (W)",
+              "answer": "2500"
+            }
+          ]
+        },
+        {
+          "question": "How many joules are in 3.5 kJ?",
+          "blanks": [
+            {
+              "placeholder": "Energy (J)",
+              "answer": "3500"
+            }
+          ]
+        },
+        {
+          "question": "A microwave oven uses 1200 W and runs for 5 minutes. How much energy does it consume in joules?",
+          "blanks": [
+            {
+              "placeholder": "Energy (J)",
+              "answer": "360000"
+            }
+          ]
+        },
+        {
+          "question": "Convert 720,000 J to kilowatt-hours (kWh).",
+          "blanks": [
+            {
+              "placeholder": "Energy (kWh)",
+              "answer": "0.2"
+            }
+          ]
+        },
+        {
+          "question": "A machine operates at 5 kW for 3 hours. How much energy does it consume in kWh?",
+          "blanks": [
+            {
+              "placeholder": "Energy (kWh)",
+              "answer": "15"
+            }
+          ]
+        },
+        {
+          "question": "Convert 1.2 kWh into joules.",
+          "blanks": [
+            {
+              "placeholder": "Energy (J)",
+              "answer": "4320000"
+            }
+          ]
+        },
+        {
+          "question": "A 100 W light bulb is on for 10 hours. How much energy does it use in kWh?",
+          "blanks": [
+            {
+              "placeholder": "Energy (kWh)",
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "question": "Convert 180,000 J to kilojoules (kJ).",
+          "blanks": [
+            {
+              "placeholder": "Energy (kJ)",
+              "answer": "180"
+            }
+          ]
+        },
+        {
+          "question": "A phone charger operates at 20 W for 3 hours. How much energy does it use in kWh?",
+          "blanks": [
+            {
+              "placeholder": "Energy (kWh)",
+              "answer": "0.06"
+            }
+          ]
+        },
+        {
+          "question": "If a laptop uses 65 W and runs for 8 hours, how much energy does it consume in joules?",
+          "blanks": [
+            {
+              "placeholder": "Energy (J)",
+              "answer": "1872000"
+            }
+          ]
+        },
+        {
+          "question": "A car battery provides 450,000 J of energy. How many watt-hours is this?",
+          "blanks": [
+            {
+              "placeholder": "Energy (Wh)",
+              "answer": "125"
+            }
+          ]
+        },
+        {
+          "question": "Which of the following is the correct formula for Ohm's Law?",
+          "options": [
+            "V = I * R",
+            "V = I / R",
+            "R = V / I",
+            "I = R / V"
+          ],
+          "answer": "V = I * R"
+        },
+        {
+          "question": "If the current flowing through a circuit is 2 amperes and the resistance is 5 ohms, what is the voltage?",
+          "options": [
+            "10 volts",
+            "7 volts",
+            "0.5 volts",
+            "2 volts"
+          ],
+          "answer": "10 volts"
+        },
+        {
+          "question": "What happens to the current in a circuit if the resistance increases, while the voltage remains constant?",
+          "options": [
+            "The current increases.",
+            "The current decreases.",
+            "The current remains unchanged.",
+            "The current becomes zero."
+          ],
+          "answer": "The current decreases."
+        },
+        {
+          "question": "If a circuit has a voltage of 12 volts and a current of 3 amperes, what is the resistance in the circuit?",
+          "options": [
+            "36 ohms",
+            "4 ohms",
+            "9 ohms",
+            "15 ohms"
+          ],
+          "answer": "4 ohms"
+        },
+        {
+          "question": "Ohm’s Law applies to which type of materials?",
+          "options": [
+            "Conductors only",
+            "Insulators only",
+            "Non-ohmic materials",
+            "Ohmic materials"
+          ],
+          "answer": "Ohmic materials"
+        },
+        {
+          "question": "What is the unit of measurement for resistance in Ohm’s Law?",
+          "options": [
+            "Volt (V)",
+            "Ampere (A)",
+            "Ohm (Ω)",
+            "Watt (W)"
+          ],
+          "answer": "Ohm (Ω)"
+        }        
       ]
+      
     }
   }
 }
