@@ -444,7 +444,11 @@
         {
           "unit": "Isotopes",
           "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
-        }
+        },
+        {
+          "unit": "Ohm's Law",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        }  
       ],
       "English": [
         {
@@ -486,11 +490,7 @@
         {
           "unit": "Molar Mass",
           "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
-        },
-        {
-          "unit": "Ohm's Lae",
-          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
-        }        
+        }      
       ],
       "English": [
         {
