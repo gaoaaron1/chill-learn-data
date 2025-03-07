@@ -1,0 +1,109 @@
+{
+    "grade5": {
+      "Math": {
+        "Equations": [
+          {
+            "question": "Solve for m: 2m = 6",
+            "options": ["2", "3", "4", "5"],
+            "answer": "3"
+          },
+          {
+            "question": "Solve for m: 3m = 18",
+            "options": ["4", "5", "6", "7"],
+            "answer": "6"
+          },
+          {
+            "question": "Solve for m: 2m = 10",
+            "options": ["3", "4", "5", "6"],
+            "answer": "5"
+          },
+          {
+            "question": "Solve for c: 6c = 42",
+            "options": ["5", "6", "7", "8"],
+            "answer": "7"
+          },
+          {
+            "question": "Solve for c: 4c = 44",
+            "options": ["9", "10", "11", "12"],
+            "answer": "11"
+          },
+          {
+            "question": "Solve for n: 30 - n = 10",
+            "options": ["15", "20", "25", "30"],
+            "answer": "20"
+          },
+          {
+            "question": "Solve for n: 5n = 6",
+            "options": ["1", "1.2", "1.4", "1.6"],
+            "answer": "1.2"
+          },
+          {
+            "question": "Solve for n: n ÷ 8 = 72",
+            "options": ["576", "580", "586", "590"],
+            "answer": "576"
+          },
+          {
+            "question": "Solve for r: 63 ÷ r = 7",
+            "options": ["7", "8", "9", "10"],
+            "answer": "9"
+          },
+          {
+            "question": "Solve for s: 21 = 7s",
+            "options": ["2", "3", "4", "5"],
+            "answer": "3"
+          },
+          {
+            "question": "Solve for w: 5w = 45",
+            "options": ["5", "7", "8", "9"],
+            "answer": "9"
+          },
+          {
+            "question": "Cam had 22 bundles of cedar logs. Each bundle contained 3 logs. How many logs did Cam have altogether?",
+            "options": ["55", "60", "66", "72"],
+            "answer": "66"
+          },
+          {
+            "question": "Holly made a comic book with 8 pages. She printed several copies, paying for 96 pages in total. How many books did she print?",
+            "options": ["10", "11", "12", "13"],
+            "answer": "12"
+          },
+          {
+            "question": "Starkley recorded a drum track where each bar had 4 beats. The printout showed 31 bars. How many beats did Starkley record?",
+            "options": ["112", "118", "124", "132"],
+            "answer": "124"
+          },
+          {
+            "question": "Kimberly traveled 400 km in 5 hours. How far did she travel in 1 hour?",
+            "options": ["60 km", "70 km", "80 km", "90 km"],
+            "answer": "80 km"
+          },
+          {
+            "question": "Teagan picked 30 baskets of cranberries each day for 7 days. How many baskets did he pick in total?",
+            "options": ["180", "200", "210", "220"],
+            "answer": "210"
+          },
+          {
+            "question": "For a magazine costing $4.00, how much would 98 magazines cost?",
+            "options": ["$390", "$392", "$394", "$396"],
+            "answer": "$392"
+          },
+          {
+            "question": "A number pattern starts at 100 and subtracts 6 each time. What is the 6th term?",
+            "options": ["70", "74", "76", "80"],
+            "answer": "70"
+          },
+          {
+            "question": "A pattern starts at 2 and follows: +2, +3, +4, +5. What is the 6th term?",
+            "options": ["12", "13", "14", "15"],
+            "answer": "15"
+          },
+          {
+            "question": "Find the missing term: 5, 8, 12, 15, 19, ___?",
+            "options": ["20", "21", "22", "23"],
+            "answer": "22"
+          }
+        ]
+      }
+    }
+  }
+  

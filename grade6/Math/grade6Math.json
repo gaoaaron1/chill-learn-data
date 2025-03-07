@@ -302,7 +302,7 @@
                 },
                 {
                     "question": "The least common multiple of 8 and 10 is:",
-                    "options": ["16", "20", "24", "30"],
+                    "options": ["80", "20", "40", "30"],
                     "answer": "40"
                 },
                 {
@@ -317,7 +317,7 @@
                 },
                 {
                     "question": "What is the LCM of 16 and 20?",
-                    "options": ["32", "40", "48", "60"],
+                    "options": ["80", "40", "200", "60"],
                     "answer": "80"
                 },
                 {
