@@ -1013,7 +1013,119 @@
           "answer": "0.8",
           "image": "https://ih1.redbubble.net/image.2468340416.2517/flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
         }                
-      ]
+      ],
+
+
+"Perimeter and Area": [
+  {
+    "question": "Find the perimeter of a rectangle with length 8 cm and width 5 cm.",
+    "options": ["20 cm", "26 cm", "30 cm", "35 cm"],
+    "answer": "26 cm"
+  },
+  {
+    "question": "What is the area of a rectangle with length 6 m and width 4 m?",
+    "options": ["20 m²", "22 m²", "24 m²", "26 m²"],
+    "answer": "24 m²"
+  },
+  {
+    "question": "A rectangle has a width of 9 cm and a length of 14 cm. Find its perimeter.",
+    "options": ["40 cm", "42 cm", "44 cm", "46 cm"],
+    "answer": "46 cm"
+  },
+  {
+    "question": "What is the area of a rectangle with length 10 cm and width 9 cm?",
+    "options": ["80 cm²", "85 cm²", "90 cm²", "95 cm²"],
+    "answer": "90 cm²"
+  },
+  {
+    "question": "Find the perimeter of a rectangle with length 12 m and width 7 m.",
+    "options": ["30 m", "32 m", "36 m", "38 m"],
+    "answer": "38 m"
+  },
+  {
+    "question": "What is the area of a rectangle with length 12 m and width 5 m?",
+    "options": ["50 m²", "55 m²", "60 m²", "65 m²"],
+    "answer": "60 m²"
+  },
+  {
+    "question": "A rectangle has a length of 15 m and a width of 10 m. What is its perimeter?",
+    "options": ["40 m", "45 m", "50 m", "55 m"],
+    "answer": "50 m"
+  },
+  {
+    "question": "Find the area of a rectangle with length 7 m and width 3 m.",
+    "options": ["18 m²", "20 m²", "21 m²", "24 m²"],
+    "answer": "21 m²"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 20 m and width 5 m?",
+    "options": ["45 m", "50 m", "55 m", "60 m"],
+    "answer": "50 m"
+  },
+  {
+    "question": "What is the area of a rectangle with width 8 cm and length 11 cm?",
+    "options": ["80 cm²", "85 cm²", "88 cm²", "90 cm²"],
+    "answer": "88 cm²"
+  },
+  {
+    "question": "Find the perimeter of a rectangle with length 18 m and width 4 m.",
+    "options": ["36 m", "40 m", "44 m", "48 m"],
+    "answer": "44 m"
+  },
+  {
+    "question": "What is the area of a rectangle with length 14 m and width 6 m?",
+    "options": ["72 m²", "80 m²", "84 m²", "90 m²"],
+    "answer": "84 m²"
+  },
+  {
+    "question": "A rectangle has a width of 13 cm and length of 9 cm. What is its perimeter?",
+    "options": ["40 cm", "42 cm", "44 cm", "46 cm"],
+    "answer": "44 cm"
+  },
+  {
+    "question": "Find the area of a rectangle with length 16 m and width 5 m.",
+    "options": ["70 m²", "75 m²", "80 m²", "85 m²"],
+    "answer": "80 m²"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 25 m and width 15 m?",
+    "options": ["60 m", "70 m", "80 m", "90 m"],
+    "answer": "80 m"
+  },
+  {
+    "question": "What is the area of a rectangle with length 9 cm and width 7 cm?",
+    "options": ["54 cm²", "56 cm²", "60 cm²", "63 cm²"],
+    "answer": "63 cm²"
+  },
+  {
+    "question": "Find the perimeter of a rectangle with length 11 m and width 6 m.",
+    "options": ["30 m", "32 m", "34 m", "36 m"],
+    "answer": "34 m"
+  },
+  {
+    "question": "What is the area of a rectangle with width 4 cm and length 13 cm?",
+    "options": ["50 cm²", "52 cm²", "54 cm²", "56 cm²"],
+    "answer": "52 cm²"
+  },
+  {
+    "question": "A rectangle has a length of 22 m and a width of 9 m. What is its perimeter?",
+    "options": ["58 m", "60 m", "62 m", "64 m"],
+    "answer": "62 m"
+  },
+  {
+    "question": "What is the area of a rectangle with length 15 m and width 8 m?",
+    "options": ["110 m²", "115 m²", "120 m²", "125 m²"],
+    "answer": "120 m²"
+  },
+  {
+    "question": "What is the area of a rectangle with length 15 m and width 8 m?",
+    "options": ["110 m²", "115 m²", "120 m²", "125 m²"],
+    "answer": "36 cm",
+    "image": "https://thirdspacelearning.com/wp-content/uploads/2022/12/Perimeter-Of-Compound-Shapes-example-1-step-1-image-2.png"
+  }  
+
+]
+
 
             
         }
