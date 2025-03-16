@@ -102,7 +102,111 @@
             "options": ["20", "21", "22", "23"],
             "answer": "22"
           }
-        ]
+        ],
+
+      "Money": [
+        {
+          "question": "Emma has $2.50 and buys a toy for $1.75. How much money does she have left?",
+          "options": ["$0.65", "$0.75", "$1.25", "$0.85"],
+          "answer": "$0.75"
+        },
+        {
+          "question": "Liam buys a sandwich for $3.25 and a juice for $1.50. How much does he spend in total?",
+          "options": ["$4.50", "$5.00", "$4.75", "$5.25"],
+          "answer": "$4.75"
+        },
+        {
+          "question": "Sophia has three $5 bills, two $1 coins, and four quarters. How much money does she have?",
+          "options": ["$17.00", "$16.00", "$18.00", "$15.50"],
+          "answer": "$17.00"
+        },
+        {
+          "question": "A book costs $6.80. Noah pays with a $10 bill. How much change does he get?",
+          "options": ["$3.00", "$2.20", "$3.20", "$2.80"],
+          "answer": "$3.20"
+        },
+        {
+          "question": "A pencil costs $0.85. How much do 3 pencils cost?",
+          "options": ["$2.55", "$2.65", "$2.45", "$2.75"],
+          "answer": "$2.55"
+        },
+        {
+          "question": "Olivia buys a toy car for $4.25 and a pack of stickers for $2.60. How much does she spend in total?",
+          "options": ["$6.75", "$7.00", "$6.85", "$7.25"],
+          "answer": "$6.85"
+        },
+        {
+          "question": "Jackson has $20. He buys a movie ticket for $12.50. How much money does he have left?",
+          "options": ["$7.50", "$8.50", "$6.50", "$9.00"],
+          "answer": "$7.50"
+        },
+        {
+          "question": "A lemonade costs $1.25. How much do 4 lemonades cost?",
+          "options": ["$5.00", "$4.25", "$4.50", "$6.00"],
+          "answer": "$5.00"
+        },
+        {
+          "question": "Mia has two $10 bills and five $1 coins. How much money does she have?",
+          "options": ["$25.00", "$20.00", "$27.00", "$25.50"],
+          "answer": "$25.00"
+        },
+        {
+          "question": "A soccer ball costs $15.95. Ethan pays with a $20 bill. How much change will he get?",
+          "options": ["$4.05", "$5.05", "$3.95", "$4.15"],
+          "answer": "$4.05"
+        },
+        {
+          "question": "Chloe buys a notebook for $3.45 and a pen for $1.15. How much does she spend in total?",
+          "options": ["$4.50", "$4.60", "$5.60", "$5.50"],
+          "answer": "$4.60"
+        },
+        {
+          "question": "Ben has $12. He spends $4.75 on lunch and $3.50 on a toy. How much money does he have left?",
+          "options": ["$3.75", "$4.00", "$4.25", "$5.00"],
+          "answer": "$3.75"
+        },
+        {
+          "question": "A pack of crayons costs $2.35 and a coloring book costs $5.80. How much do they cost together?",
+          "options": ["$8.15", "$7.95", "$8.25", "$8.30"],
+          "answer": "$8.15"
+        },
+        {
+          "question": "A backpack costs $29.99. If Ava saves $10 each week, how many weeks will it take her to save enough?",
+          "options": ["2 weeks", "3 weeks", "4 weeks", "5 weeks"],
+          "answer": "3 weeks"
+        },
+        {
+          "question": "A shirt is on sale for $12.75. James pays with a $20 bill. How much change does he get?",
+          "options": ["$7.15", "$6.25", "$7.25", "$6.75"],
+          "answer": "$7.25"
+        },
+        {
+          "question": "Ella has $50. She buys shoes for $34.60. How much money does she have left?",
+          "options": ["$15.40", "$14.40", "$16.40", "$15.50"],
+          "answer": "$15.40"
+        },
+        {
+          "question": "Ryan wants to buy 5 comic books. Each costs $3.90. How much will they cost in total?",
+          "options": ["$19.50", "$18.50", "$20.00", "$17.50"],
+          "answer": "$19.50"
+        },
+        {
+          "question": "A pizza costs $8.25. If Lily and her three friends share the cost equally, how much does each person pay?",
+          "options": ["$2.00", "$2.05", "$2.10", "$2.06"],
+          "answer": "$2.06"
+        },
+        {
+          "question": "A video game costs $59.99. If Max has $45 saved, how much more money does he need?",
+          "options": ["$14.99", "$15.99", "$13.99", "$12.99"],
+          "answer": "$14.99"
+        },
+        {
+          "question": "A basket of apples costs $7.50. If you pay with a $10 bill, how much change do you get?",
+          "options": ["$2.50", "$2.45", "$2.55", "$3.00"],
+          "answer": "$2.50"
+        }
+      ]
+
       }
     }
   }
