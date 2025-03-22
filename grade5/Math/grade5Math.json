@@ -205,6 +205,95 @@
           "options": ["$2.50", "$2.45", "$2.55", "$3.00"],
           "answer": "$2.50"
         }
+      ],
+      "Multiplying Decimals": [
+        {
+          "question": "What is 0.4 × 0.5?",
+          "options": ["0.2", "0.25", "0.5", "2.0"],
+          "answer": "0.2"
+        },
+        {
+          "question": "What is 1.2 × 3?",
+          "options": ["3.2", "3.6", "4.2", "3.8"],
+          "answer": "3.6"
+        },
+        {
+          "question": "Multiply: 2.5 × 0.4",
+          "options": ["1.0", "0.9", "0.75", "1.2"],
+          "answer": "1.0"
+        },
+        {
+          "question": "What is 0.6 × 0.7?",
+          "options": ["0.13", "0.42", "1.2", "0.47"],
+          "answer": "0.42"
+        },
+        {
+          "question": "Multiply: 4.2 × 0.3",
+          "options": ["1.26", "1.5", "1.2", "1.8"],
+          "answer": "1.26"
+        },
+        {
+          "question": "Multiply 5.1 by 2",
+          "blanks": [
+            {
+              "placeholder": "Answer",
+              "answer": "10.2"
+            }
+          ]
+        },
+        {
+          "question": "What is 0.75 × 4?",
+          "blanks": [
+            {
+              "placeholder": "Answer",
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "question": "You buy 3.5 meters of ribbon. Each meter costs $1.20. How much do you spend in total?",
+          "options": ["$4.20", "$3.50", "$4.50", "$3.80"],
+          "answer": "$4.20"
+        },
+        {
+          "question": "A bottle holds 0.75 liters of juice. How much juice is in 4 bottles?",
+          "blanks": [
+            {
+              "placeholder": "Answer (liters)",
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "question": "Each notebook costs $2.75. How much do 6 notebooks cost?",
+          "blanks": [
+            {
+              "placeholder": "Total cost ($)",
+              "answer": "16.5"
+            }
+          ]
+        },
+        {
+          "question": "One chocolate bar weighs 0.45 kg. What is the total weight of 9 chocolate bars?",
+          "blanks": [
+            {
+              "placeholder": "Total weight (kg)",
+              "answer": "4.05"
+            }
+          ]
+        },
+        {
+          "question": "If a car travels 5.6 km in one minute, how far does it travel in 8 minutes?",
+          "options": ["44.8 km", "45 km", "42.8 km", "48.8 km"],
+          "answer": "44.8 km",
+          "image": "https://th.bing.com/th/id/R.039096035c04cf76b9222a539c45a201?rik=YH11ckuI9xZr1A&riu=http%3a%2f%2fwww.ford.com%2fcmslibs%2fcontent%2fdam%2fbrand_ford%2fen_us%2fbrand%2flegacy%2fnameplate%2fcars%2f18_mst_segment_landing_32.jpg%2f_jcr_content%2frenditions%2fcq5dam.web.1280.1280.jpeg&ehk=DGcRpitYCQCbOfFj1yxMTvBMpkRNarkbJbHQ08WPtNA%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+          "question": "Spiderus loves to sneak around Sunny Patch and give the little bugs a *scary stare* that makes them jump! Each stare is scary enough to make 0.9 bugs shiver (he’s *that* spooky). If Spiderus gives his scary stare 8 times during Bug School recess, how many bugs end up shivering in total?",
+          "options": ["6.2 bugs", "7.2 bugs", "8.2 bugs", "7.5 bugs"],
+          "answer": "7.2 bugs",
+          "image": "https://i.ytimg.com/vi/CrH366Q4CKo/maxresdefault.jpg"
+        }                
       ]
 
       }

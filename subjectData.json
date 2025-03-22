@@ -310,7 +310,11 @@
         {
           "unit": "Equations",
           "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade4"
-        }                                      
+        },  
+        {
+          "unit": "Multiplying Decimals",
+          "tutorialVideo": "https://www.youtube.com/watch?v=videoIDForMultiplicationGrade4"
+        }                                   
       ]
     },    
     "grade6": {
