@@ -294,6 +294,70 @@
           "answer": "7.2 bugs",
           "image": "https://i.ytimg.com/vi/CrH366Q4CKo/maxresdefault.jpg"
         }                
+      ],
+      "Mean, Median, Mode, Range": [
+        {
+          "question": "The scores of five students on a math test are: 85, 90, 78, 92, and 88. What is the mean score of the class?",
+          "options": ["A) 85", "B) 88.6", "C) 90", "D) 84"],
+          "answer": "B) 88.6"
+        },
+        {
+          "question": "The following numbers represent the number of books read by five students in a month: 12, 15, 10, 20, and 18. What is the mean number of books read?",
+          "options": ["A) 15", "B) 13", "C) 12.5", "D) 16"],
+          "answer": "A) 15"
+        },
+        {
+          "question": "What is the median of the following set of numbers: 3, 9, 7, 2, 5?",
+          "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+          "answer": "A) 5"
+        },
+        {
+          "question": "What is the mode of the following set of numbers: 4, 7, 4, 9, 6, 4?",
+          "options": ["A) 4", "B) 7", "C) 6", "D) 9"],
+          "answer": "A) 4"
+        },
+        {
+          "question": "What is the range of the following set of numbers: 12, 15, 7, 20, 10?",
+          "options": ["A) 8", "B) 15", "C) 13", "D) 10"],
+          "answer": "A) 8"
+        },
+        {
+          "question": "The temperatures recorded over the week were: 20°C, 22°C, 24°C, 26°C, and 28°C. What is the median temperature?",
+          "options": ["A) 22°C", "B) 23°C", "C) 24°C", "D) 25°C"],
+          "answer": "C) 24°C"
+        },
+        {
+          "question": "The following numbers represent the number of pets owned by 5 families: 2, 3, 5, 3, 4. What is the mode of the data?",
+          "options": ["A) 2", "B) 3", "C) 4", "D) 5"],
+          "answer": "B) 3"
+        },
+        {
+          "question": "The ages of children in a class are: 10, 12, 12, 14, 15. What is the range of their ages?",
+          "options": ["A) 2", "B) 3", "C) 5", "D) 4"],
+          "answer": "C) 5"
+        },
+        {
+          "question": "The number of pencils in five boxes is: 15, 18, 17, 14, 16. What is the mean number of pencils?",
+          "options": ["A) 16", "B) 17", "C) 18", "D) 14"],
+          "answer": "A) 16"
+        },
+        {
+          "question": "The following numbers represent the hours of homework completed by students: 1, 2, 2, 3, 5. What is the median number of hours of homework?",
+          "options": ["A) 1", "B) 2", "C) 3", "D) 4"],
+          "answer": "B) 2"
+        },
+        {
+          "question": "Elmo counted the number of toys he has in different colors: 8 red, 10 blue, 5 green, and 12 yellow. What is the mean number of toys Elmo has?",
+          "options": ["A) 8", "B) 9", "C) 10", "D) 11"],
+          "answer": "B) 9",
+          "image": "https://th.bing.com/th/id/OIP.5vvAWUosa0AyPA2NoifPOwHaEG?rs=1&pid=ImgDetMain"
+        },     
+        {
+          "question": "Dora and Boots are measuring how long they each ran during their adventure. They ran: 5, 10, 8, 6, and 7 miles. What is the median number of miles they ran?",
+          "options": ["A) 6", "B) 7", "C) 8", "D) 9"],
+          "answer": "B) 7",
+          "image": "https://th.bing.com/th/id/OIP.yZwPXLwLxXtxSG8RtLn5OAHaGZ?rs=1&pid=ImgDetMain"
+        }   
       ]
 
       }
