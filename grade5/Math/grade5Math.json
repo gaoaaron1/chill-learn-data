@@ -358,7 +358,104 @@
           "answer": "B) 7",
           "image": "https://th.bing.com/th/id/OIP.yZwPXLwLxXtxSG8RtLn5OAHaGZ?rs=1&pid=ImgDetMain"
         }   
+      ],
+
+      "Mixed and Improper Fractions": [
+        {
+          "question": "What is 2/4 + 1/4?",
+          "options": ["\\frac{1}{4}", "\\frac{3}{8}", "\\frac{3}{4}", "\\frac{1}{3}"],
+          "answer": "\\frac{3}{4}"
+        },
+        {
+          "question": "Convert 3 1/4 to an improper fraction.",
+          "options": ["\\frac{13}{4}", "\\frac{7}{4}", "\\frac{10}{4}", "\\frac{12}{4}"],
+          "answer": "\\frac{13}{4}"
+        },
+        {
+          "question": "Convert 5 2/3 to an improper fraction.",
+          "options": ["\\frac{16}{3}", "\\frac{17}{3}", "\\frac{15}{3}", "\\frac{14}{3}"],
+          "answer": "\\frac{17}{3}"
+        },
+        {
+          "question": "Convert 19/5 to a mixed number.",
+          "options": ["4 \\frac{2}{5}", "3 \\frac{4}{5}", "5 \\frac{1}{5}", "3 \\frac{2}{5}"],
+          "answer": "4 \\frac{2}{5}"
+        },
+        {
+          "question": "Convert 31/6 to a mixed number.",
+          "options": ["5 \\frac{1}{6}", "4 \\frac{5}{6}", "6 \\frac{1}{6}", "5 \\frac{3}{6}"],
+          "answer": "5 \\frac{1}{6}"
+        },
+        {
+          "question": "Emily baked 4 2/5 dozen cookies. How many individual cookies is this in improper fraction form?",
+          "options": ["\\frac{20}{5}", "\\frac{22}{5}", "\\frac{24}{5}", "\\frac{26}{5}"],
+          "answer": "\\frac{22}{5}"
+        },
+        {
+          "question": "Jake ran 33/8 miles. How many whole miles did he run?",
+          "options": ["4 \\frac{1}{8}", "3 \\frac{7}{8}", "5 \\frac{1}{8}", "4 \\frac{2}{8}"],
+          "answer": "4 \\frac{1}{8}"
+        },
+        {
+          "question": "Convert 7 3/8 to an improper fraction.",
+          "options": ["\\frac{56}{8}", "\\frac{59}{8}", "\\frac{57}{8}", "\\frac{58}{8}"],
+          "answer": "\\frac{59}{8}"
+        },
+        {
+          "question": "Convert 41/7 to a mixed number.",
+          "options": ["5 \\frac{6}{7}", "6 \\frac{1}{7}", "5 \\frac{5}{7}", "6 \\frac{2}{7}"],
+          "answer": "5 \\frac{6}{7}"
+        },
+        {
+          "question": "Convert 12 5/9 to an improper fraction.",
+          "options": ["\\frac{113}{9}", "\\frac{112}{9}", "\\frac{110}{9}", "\\frac{115}{9}"],
+          "answer": "\\frac{113}{9}"
+        },
+        {
+          "question": "Convert 96/11 to a mixed number.",
+          "options": ["8 \\frac{8}{11}", "7 \\frac{9}{11}", "8 \\frac{9}{11}", "7 \\frac{8}{11}"],
+          "answer": "8 \\frac{8}{11}"
+        },
+        {
+          "question": "A recipe calls for 2 3/4 cups of flour. How much flour is this in improper fraction form?",
+          "options": ["\\frac{11}{4}", "\\frac{10}{4}", "\\frac{9}{4}", "\\frac{12}{4}"],
+          "answer": "\\frac{11}{4}"
+        },
+        {
+          "question": "A rope is 55/6 feet long. How long is it in mixed number form?",
+          "options": ["9 \\frac{1}{6}", "8 \\frac{5}{6}", "9 \\frac{2}{6}", "8 \\frac{3}{6}"],
+          "answer": "9 \\frac{1}{6}"
+        },
+        {
+          "question": "Convert 3 5/8 to an improper fraction.",
+          "options": ["\\frac{29}{8}", "\\frac{30}{8}", "\\frac{31}{8}", "\\frac{32}{8}"],
+          "answer": "\\frac{29}{8}"
+        },
+        {
+          "question": "Convert 85/12 to a mixed number.",
+          "options": ["7 \\frac{1}{12}", "6 \\frac{11}{12}", "7 \\frac{2}{12}", "6 \\frac{10}{12}"],
+          "answer": "7 \\frac{1}{12}"
+        },
+        {
+          "question": "Little Bear ate 1/2 of an apple, and Duck ate 1/4 of an apple. How much did they eat together?",
+          "options": ["\\frac{1}{4}", "\\frac{3}{4}", "\\frac{2}{4}", "\\frac{1}{2}"],
+          "answer": "\\frac{3}{4}",
+          "image": "https://th.bing.com/th/id/OIP.UifNTe4nNX4iiTHdnY5MfQHaEK?rs=1&pid=ImgDetMain"
+        },
+        {
+          "question": "Little Bear picked 2 2/3 clovers. Convert this to an improper fraction.",
+          "options": ["\\frac{8}{3}", "\\frac{7}{3}", "\\frac{6}{3}", "\\frac{5}{3}"],
+          "answer": "\\frac{8}{3}",
+          "image": "https://th.bing.com/th/id/OIP.1z0UHxZVu7jD6HqGkQaRUgHaFj?rs=1&pid=ImgDetMain"
+        },
+        {
+          "question": "Mother Bear baked a pie and wanted Little Bear to share it with Duck. But Duck ate 5/8 of the pie all by herself! What fraction of the pie is left for Little Bear?",
+          "options": ["\\frac{3}{8}", "\\frac{5}{8}", "\\frac{1}{2}", "\\frac{1}{4}"],
+          "answer": "\\frac{3}{8}",
+          "image": "https://th.bing.com/th/id/OIP.NmW9b_wU9TfaEyHLR7BYnAHaFj?rs=1&pid=ImgDetMain"
+        }                                
       ]
+
 
       }
     }
