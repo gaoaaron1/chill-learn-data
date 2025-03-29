@@ -493,7 +493,240 @@
                 ]
               }
 
-            ]
+            ],
+
+
+            "Climate": [
+              {
+                "question": "What is the difference between weather and climate?",
+                "options": [
+                  "Weather refers to long-term atmospheric conditions, while climate is short-term.",
+                  "Weather refers to short-term atmospheric conditions, while climate is long-term.",
+                  "Weather and climate mean the same thing.",
+                  "Climate changes daily, while weather remains constant."
+                ],
+                "answer": "Weather refers to short-term atmospheric conditions, while climate is long-term."
+              },
+              {
+                "question": "Which of the following is NOT a factor affecting climate?",
+                "options": [
+                  "Latitude",
+                  "Altitude",
+                  "Ocean currents",
+                  "Population size"
+                ],
+                "answer": "Population size"
+              },
+              {
+                "question": "How does the greenhouse effect contribute to global warming?",
+                "options": [
+                  "It allows more sunlight to enter Earth's atmosphere.",
+                  "It traps heat in Earth's atmosphere, causing temperatures to rise.",
+                  "It blocks all heat from escaping, making the planet extremely hot.",
+                  "It reduces the amount of carbon dioxide in the atmosphere."
+                ],
+                "answer": "It traps heat in Earth's atmosphere, causing temperatures to rise."
+              },
+              {
+                "question": "Which gas is the most abundant greenhouse gas in Earth's atmosphere?",
+                "options": [
+                  "Carbon dioxide (CO₂)",
+                  "Methane (CH₄)",
+                  "Water vapor (H₂O)",
+                  "Ozone (O₃)"
+                ],
+                "answer": "Water vapor (H₂O)"
+              },
+              {
+                "question": "Which natural phenomenon can temporarily cool global temperatures?",
+                "options": [
+                  "Volcanic eruptions",
+                  "Deforestation",
+                  "El Niño",
+                  "Increased use of fossil fuels"
+                ],
+                "answer": "Volcanic eruptions"
+              },
+              {
+                "question": "What is the primary cause of ocean currents?",
+                "options": [
+                  "Wind patterns",
+                  "Earth's rotation",
+                  "Differences in temperature and salinity",
+                  "All of the above"
+                ],
+                "answer": "All of the above"
+              },
+              {
+                "question": "Which of the following describes the albedo effect?",
+                "options": [
+                  "The ability of Earth's surface to reflect sunlight",
+                  "The trapping of heat by greenhouse gases",
+                  "The movement of warm and cold ocean currents",
+                  "The warming of Earth's atmosphere due to carbon emissions"
+                ],
+                "answer": "The ability of Earth's surface to reflect sunlight"
+              },
+              {
+                "question": "What type of climate is characterized by dry conditions, very little precipitation, and large temperature variations between day and night?",
+                "options": [
+                  "Tropical",
+                  "Temperate",
+                  "Desert",
+                  "Polar"
+                ],
+                "answer": "Desert"
+              },
+              {
+                "question": "Which human activity contributes the most to global carbon dioxide emissions?",
+                "options": [
+                  "Deforestation",
+                  "Burning fossil fuels",
+                  "Agriculture",
+                  "Industrial waste"
+                ],
+                "answer": "Burning fossil fuels"
+              },
+              {
+                "question": "Fill in the blank: The process by which heat is transferred through the movement of fluids such as air or water is called ___.",
+                "blanks": [
+                  {
+                    "placeholder": "Type your answer here",
+                    "answer": "convection"
+                  }
+                ]
+              },
+              {
+                "type": "matching",
+                "question": "Match the climate zones with their characteristics.",
+                "pairs": [
+                  { "left": "Tropical", "right": "Hot and humid with high rainfall" },
+                  { "left": "Desert", "right": "Hot during the day, cold at night, low precipitation" },
+                  { "left": "Temperate", "right": "Moderate temperatures with seasonal variation" },
+                  { "left": "Polar", "right": "Cold year-round with minimal precipitation" }
+                ]
+              },
+              {
+                "question": "Which of the following is a consequence of climate change?",
+                "options": [
+                  "Rising sea levels",
+                  "More extreme weather events",
+                  "Changes in biodiversity",
+                  "All of the above"
+                ],
+                "answer": "All of the above"
+              },
+              {
+                "question": "Which of the following are the correct names for the three types of systems?",
+                "options": [
+                  "i. open system, ii. closed system, iii. isolated system",
+                  "i. closed system, ii. open system, iii. isolated system",
+                  "i. isolated system, ii. closed system, iii. open system",
+                  "i. closed system, ii. isolated system, iii. open system"
+                ],
+                "answer": "i. isolated system, ii. closed system, iii. open system"
+              },
+              {
+                "question": "Of the total amount of solar energy that enters our solar system, what are the relative percentages that are absorbed by land and oceans, absorbed/reflected/scattered by the atmosphere, and reflected by Earth's surface?",
+                "options": ["49, 42, 9", "42, 9, 49", "9, 42, 49", "49, 9, 42"],
+                "answer": "49, 42, 9"
+              },
+              {
+                "question": "Dark surfaces ____ energy and have a ____ albedo, while light surfaces ____ energy and have a ____ albedo.",
+                "options": [
+                  "reflect, low, absorb, high",
+                  "reflect, high, absorb, low",
+                  "absorb, low, reflect, high",
+                  "absorb, high, reflect, low"
+                ],
+                "answer": "absorb, low, reflect, high"
+              },
+              {
+                "question": "Without greenhouse gases, the average temperature on Earth would be ____ºC. With the greenhouse gases, the average temperature on Earth is ____ ºC.",
+                "options": ["-14 and +14", "-19 and +19", "-14 and +19", "-19 and +14"],
+                "answer": "-19 and +14"
+              },
+              {
+                "question": "Three major climate regions (from the North Pole down to the equator) are:",
+                "options": ["polar, temperate, tropical", "polar, tropical, temperate", "arctic, temperate, equatorial", "polar, temperate, equatorial"],
+                "answer": "polar, temperate, tropical"
+              },
+              {
+                "question": "The latitudinal lines that separate these climate zones (from the North Pole to the equator) are:",
+                "options": [
+                  "Arctic circle, tropic of Capricorn, tropic of Cancer, Antarctic circle",
+                  "Antarctic circle, tropic of Capricorn, tropic of Cancer, Arctic circle",
+                  "Antarctic circle, tropic of Cancer, tropic of Capricorn, Arctic circle",
+                  "Arctic circle, tropic of Cancer, tropic of Capricorn, Antarctic circle"
+                ],
+                "answer": "Arctic circle, tropic of Cancer, tropic of Capricorn, Antarctic circle"
+              },
+              {
+                "question": "How much heat is required to raise a pot of water from 30.0ºC to 100ºC if the pot contains 1.00 kg of water? (Use Q = mc∆T, c = 4.19 J/gºC)",
+                "blanks": [
+                  {
+                    "placeholder": "Heat required (J)",
+                    "answer": "293,300"
+                  }
+                ]
+              },
+              {
+                "question": "Sublimation is:",
+                "options": [
+                  "when a substance changes from a solid → liquid",
+                  "when a substance changes from a liquid → gas",
+                  "when a substance changes from gas → liquid",
+                  "when a substance changes from gas → solid"
+                ],
+                "answer": "when a substance changes from gas → solid"
+              },
+              {
+                "question": "Water has a ____ albedo, which means it ____ energy.",
+                "options": [
+                  "high, absorbs",
+                  "low, absorbs",
+                  "high, reflects",
+                  "low, reflects"
+                ],
+                "answer": "low, absorbs"
+              },
+              {
+                "question": "As ____ air ____ at the equator, the ____ air from the poles flows towards the equator.",
+                "options": [
+                  "warm, descends, cooler",
+                  "cool, rises, warmer",
+                  "warm, rises, cooler",
+                  "cool, descends, warmer"
+                ],
+                "answer": "warm, rises, cooler"
+              },
+              {
+                "question": "Our Earth is rotating:",
+                "options": ["westward", "eastward", "northward", "southward"],
+                "answer": "eastward"
+              },
+              {
+                "question": "An increase in warming causes an increase in water vapour, which causes an increase in warming. This is an example of:",
+                "options": [
+                  "negative water vapour feedback",
+                  "positive water vapour feedback",
+                  "the hydrologic cycle",
+                  "evapotranspiration"
+                ],
+                "answer": "positive water vapour feedback"
+              },
+              {
+                "question": "Forests hold carbon dioxide while they are ____ but release it as they ____.",
+                "options": [
+                  "living, change color",
+                  "in winter, decompose",
+                  "decomposing, are living",
+                  "living, decompose"
+                ],
+                "answer": "living, decompose"
+              }
+
+            ]            
         
 
   
