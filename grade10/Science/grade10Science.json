@@ -538,16 +538,6 @@
                 "answer": "Water vapor (H₂O)"
               },
               {
-                "question": "Which natural phenomenon can temporarily cool global temperatures?",
-                "options": [
-                  "Volcanic eruptions",
-                  "Deforestation",
-                  "El Niño",
-                  "Increased use of fossil fuels"
-                ],
-                "answer": "Volcanic eruptions"
-              },
-              {
                 "question": "What is the primary cause of ocean currents?",
                 "options": [
                   "Wind patterns",
@@ -706,16 +696,6 @@
                 "answer": "eastward"
               },
               {
-                "question": "An increase in warming causes an increase in water vapour, which causes an increase in warming. This is an example of:",
-                "options": [
-                  "negative water vapour feedback",
-                  "positive water vapour feedback",
-                  "the hydrologic cycle",
-                  "evapotranspiration"
-                ],
-                "answer": "positive water vapour feedback"
-              },
-              {
                 "question": "Forests hold carbon dioxide while they are ____ but release it as they ____.",
                 "options": [
                   "living, change color",
@@ -724,7 +704,150 @@
                   "living, decompose"
                 ],
                 "answer": "living, decompose"
-              }
+              },
+              {
+                "question": "Which biome has the highest biodiversity?",
+                "options": [
+                  "Desert",
+                  "Rainforest",
+                  "Grassland",
+                  "Taiga"
+                ],
+                "answer": "Rainforest"
+              },
+              {
+                "question": "Which biome has soil that is very thin and not very fertile?",
+                "options": [
+                  "Deciduous Forest",
+                  "Grassland",
+                  "Desert",
+                  "Rainforest"
+                ],
+                "answer": "Desert"
+              },
+              {
+                "question": "Which adaptation is an example of a physiological adaptation?",
+                "options": [
+                  "Birds migrating south in winter",
+                  "A camel storing fat in its hump for energy",
+                  "A bear growing thicker fur for winter",
+                  "A giraffe having a long neck to reach tall trees"
+                ],
+                "answer": "A camel storing fat in its hump for energy"
+              },
+              {
+                "question": "Why do desert animals tend to be nocturnal?",
+                "options": [
+                  "To avoid predators",
+                  "To stay cool and avoid the heat of the day",
+                  "To find more food at night",
+                  "Because the sun never sets in the desert"
+                ],
+                "answer": "To stay cool and avoid the heat of the day"
+              },
+              {
+                "question": "Which of the following is an example of positive water vapor feedback?",
+                "options": [
+                  "An increase in warming causes an increase in water vapor, which increases warming further",
+                  "An increase in warming causes more clouds, which reflect sunlight and cause cooling",
+                  "Water vapor increases, leading to less overall precipitation",
+                  "Water vapor decreases as temperatures rise"
+                ],
+                "answer": "An increase in warming causes an increase in water vapor, which increases warming further"
+              },
+              {
+                "question": "Which of the following is NOT a source of methane emissions?",
+                "options": [
+                  "Wetlands",
+                  "Fossil fuel combustion",
+                  "Rice fields",
+                  "Industrial metal refining"
+                ],
+                "answer": "Industrial metal refining"
+              },
+              {
+                "question": "In a climatograph, what does the bar graph represent?",
+                "options": [
+                  "Temperature",
+                  "Precipitation",
+                  "Wind speed",
+                  "Air pressure"
+                ],
+                "answer": "Precipitation"
+              },
+              {
+                "question": "How would a climatograph of a city in the Southern Hemisphere compare to one in the Northern Hemisphere at the same latitude?",
+                "options": [
+                  "The temperature patterns would be reversed (summer and winter months flipped)",
+                  "The precipitation levels would be lower",
+                  "The temperature would be significantly colder",
+                  "The graph would remain unchanged"
+                ],
+                "answer": "The temperature patterns would be reversed (summer and winter months flipped)"
+              },
+              {
+                "question": "Which of the following best describes the role of water vapor in climate change?",
+                "options": [
+                  "It acts as a greenhouse gas, absorbing heat and increasing warming",
+                  "It reduces the warming effect of greenhouse gases",
+                  "It causes cooling by increasing cloud cover",
+                  "It does not play a significant role in climate change"
+                ],
+                "answer": "It acts as a greenhouse gas, absorbing heat and increasing warming"
+              },
+              {
+                "question": "The Coriolis effect causes winds in the Northern Hemisphere to deflect:",
+                "options": [
+                  "Toward the equator",
+                  "Toward the west",
+                  "To the right of their original path",
+                  "To the left of their original path"
+                ],
+                "answer": "To the right of their original path"
+              },
+              {
+                "question": "Jet streams are:",
+                "options": [
+                  "Winds that blow from the equator to the poles",
+                  "High-altitude, fast-moving air currents that influence weather patterns",
+                  "Winds that occur only near the equator",
+                  "Caused by the uneven heating of the Earth's surface only in the Northern Hemisphere"
+                ],
+                "answer": "High-altitude, fast-moving air currents that influence weather patterns"
+              },
+              {
+                "question": "Which of the following methods of heat transfer involves the movement of fluids (liquids or gases) due to differences in temperature?",
+                "options": [
+                  "Conduction",
+                  "Radiation",
+                  "Convection",
+                  "Reflection"
+                ],
+                "answer": "Convection"
+              },
+              {
+                "question": "As you move from the equator to the poles, the angle of incidence of the sun's rays:",
+                "options": [
+                  "Increases, resulting in more direct sunlight",
+                  "Decreases, resulting in less direct sunlight",
+                  "Remains the same, regardless of location",
+                  "Varies, but has no effect on the temperature"
+                ],
+                "answer": "Decreases, resulting in less direct sunlight"
+              },
+              {
+                "question": "Why do equatorial regions receive more solar energy than polar regions?",
+                "options": [
+                  "Because the Earth's surface area is smaller near the equator",
+                  "Due to the angle of incidence, which is more direct at the equator",
+                  "Because there is less atmospheric scattering near the equator",
+                  "All of the above"
+                ],
+                "answer": "Due to the angle of incidence, which is more direct at the equator"
+              }                                         
+
+
+
 
             ]            
         
