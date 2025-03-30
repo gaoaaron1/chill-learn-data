@@ -494,8 +494,82 @@
               }
 
             ],
-
-
+            "Energy Calculations": [
+              {
+                "question": "A 500 g piece of metal is heated from 20°C to 80°C. If the specific heat capacity of the metal is 0.4 J/g°C, how much heat energy is required?",
+                "options": ["10,000 J", "12,000 J", "14,000 J", "16,000 J"],
+                "answer": "12,000 J"
+              },
+              {
+                "question": "How much energy is required to melt 200 g of ice at 0°C? (The latent heat of fusion for water is 334 J/g)",
+                "options": ["66,800 J", "68,800 J", "70,800 J", "72,800 J"],
+                "answer": "66,800 J"
+              },
+              {
+                "question": "How much energy is required to vaporize 150 g of water at 100°C? (The latent heat of vaporization of water is 2260 J/g)",
+                "options": ["340,000 J", "345,000 J", "350,000 J", "355,000 J"],
+                "answer": "339,000 J"
+              },
+              {
+                "question": "If 0.5 kg of water is heated from 20°C to 80°C, with a specific heat capacity of water being 4.18 J/g°C, how much energy is required?",
+                "options": ["125,400 J", "125,800 J", "126,400 J", "127,000 J"],
+                "answer": "125,400 J"
+              },
+              {
+                "question": "Fill in the blanks: A piece of metal absorbs 50,000 J of energy, and its mass is 200 g. Its temperature change is _____. (Specific heat capacity is 0.5 J/g°C)",
+                "blanks": [
+                  {
+                    "placeholder": "Temperature change (°C)",
+                    "answer": "200"
+                  }
+                ]
+              },
+              {
+                "question": "Fill in the blanks: The latent heat of fusion of water is ____ J/g.",
+                "blanks": [
+                  {
+                    "placeholder": "Latent heat of fusion",
+                    "answer": "334"
+                  }
+                ]
+              },
+              {
+                "question": "Fill in the blanks: The latent heat of vaporization of water is ____ J/g.",
+                "blanks": [
+                  {
+                    "placeholder": "Latent heat of vaporization",
+                    "answer": "2260"
+                  }
+                ]
+              },
+              {
+                "question": "Fill in the blanks: The total energy required to change the state of a substance from solid to liquid is known as the _____.",
+                "blanks": [
+                  {
+                    "placeholder": "Latent heat",
+                    "answer": "fusion"
+                  }
+                ]
+              },
+              {
+                "question": "Fill in the blanks: The formula used to calculate the energy required to change the temperature of a substance is _____.",
+                "blanks": [
+                  {
+                    "placeholder": "Formula",
+                    "answer": "q = mcΔT"
+                  }
+                ]
+              },
+              {
+                "question": "Fill in the blanks: The energy required to change the temperature of a 0.5 kg substance by 20°C with a specific heat capacity of 2 J/g°C is _____.",
+                "blanks": [
+                  {
+                    "placeholder": "Energy (J)",
+                    "answer": "20,000"
+                  }
+                ]
+              }
+            ],
             "Climate": [
               {
                 "question": "What is the difference between weather and climate?",
