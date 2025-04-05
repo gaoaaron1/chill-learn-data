@@ -1277,9 +1277,9 @@
     ]
   },
   {
-    "question": "Fill in the blank: \\frac{2}{5} as a decimal is ___.",
+    "question": "Fill in the blank: \\frac{3}{5} as a decimal is ___.",
     "blanks": [
-      { "placeholder": "Decimal", "answer": "0.4" }
+      { "placeholder": "Decimal", "answer": "0.6" }
     ]
   },
   {
@@ -1311,7 +1311,32 @@
     "blanks": [
       { "placeholder": "Fraction", "answer": "3/5" }
     ]
-  }
+  },
+  {
+    "question": "Liam ate \\frac{1}{2} of a chocolate bar. How much is that as a decimal?",
+    "options": ["0.2", "0.5", "0.25", "1"],
+    "answer": "0.5"
+  },
+  {
+    "question": "A bottle was filled with \\frac{3}{4} liter of water. What is that in decimal form?",
+    "options": ["0.25", "0.5", "0.75", "1"],
+    "answer": "0.75"
+  },
+  {
+    "question": "Sofia read 0.6 of her book. What is that as a fraction?",
+    "options": ["\\frac{1}{2}", "\\frac{2}{5}", "\\frac{3}{5}", "\\frac{3}{4}"],
+    "answer": "\\frac{3}{5}"
+  },
+  {
+    "question": "A pizza was cut into 4 equal pieces. Emma ate 1 slice. What decimal represents the part she ate?",
+    "options": ["0.25", "0.5", "0.75", "1"],
+    "answer": "0.25"
+  },
+  {
+    "question": "Noah drank 0.2 liters of juice. What fraction of a liter did he drink?",
+    "options": ["\\frac{1}{2}", "\\frac{1}{5}", "\\frac{2}{5}", "\\frac{1}{4}"],
+    "answer": "\\frac{1}{5}"
+  }  
 ]
 
 
