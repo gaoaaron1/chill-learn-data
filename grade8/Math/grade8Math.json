@@ -170,7 +170,125 @@
           }
           
           
+        ],
+
+        "Multiplying and Dividing Fractions": [
+          {
+            "question": "What is \\frac{2}{3} × \\frac{3}{4}?",
+            "options": ["\\frac{6}{12}", "\\frac{5}{7}", "\\frac{1}{2}", "\\frac{1}{4}"],
+            "answer": "\\frac{1}{2}"
+          },
+          {
+            "question": "What is \\frac{5}{6} ÷ \\frac{2}{3}?",
+            "options": ["\\frac{5}{9}", "\\frac{3}{4}", "\\frac{15}{12}", "\\frac{1}{2}"],
+            "answer": "\\frac{15}{12}"
+          },
+          {
+            "question": "What is 1\\frac{1}{2} × \\frac{4}{5}?",
+            "options": ["\\frac{6}{5}", "\\frac{3}{2}", "\\frac{8}{5}", "\\frac{12}{10}"],
+            "answer": "\\frac{6}{5}"
+          },
+          {
+            "question": "What is 2\\frac{1}{3} ÷ \\frac{7}{3}?",
+            "options": ["\\frac{7}{3}", "\\frac{10}{7}", "\\frac{4}{3}", "\\frac{3}{7}"],
+            "answer": "\\frac{10}{7}"
+          },
+          {
+            "question": "What is \\frac{9}{4} × \\frac{2}{3}?",
+            "options": ["\\frac{3}{2}", "\\frac{18}{12}", "\\frac{6}{4}", "\\frac{3}{4}"],
+            "answer": "\\frac{18}{12}"
+          },
+          {
+            "question": "What is \\frac{8}{5} ÷ 1\\frac{3}{5}?",
+            "options": ["\\frac{8}{5}", "\\frac{8}{8}", "\\frac{8}{13}", "\\frac{25}{20}"],
+            "answer": "\\frac{25}{20}"
+          },
+          {
+            "question": "What is 3\\frac{1}{3} × 2\\frac{1}{2}?",
+            "options": ["\\frac{25}{3}", "\\frac{20}{3}", "\\frac{50}{6}", "\\frac{35}{6}"],
+            "answer": "\\frac{50}{6}"
+          },
+          {
+            "question": "What is 2\\frac{2}{5} ÷ \\frac{3}{4}?",
+            "options": ["\\frac{32}{5}", "\\frac{18}{5}", "\\frac{38}{5}", "\\frac{48}{5}"],
+            "answer": "\\frac{32}{5}"
+          },
+          {
+            "question": "Fill in the blank: \\frac{2}{3} of \\frac{9}{10} is ___.",
+            "blanks": [
+              {
+                "placeholder": "Product",
+                "answer": "3/5"
+              }
+            ]
+          },
+          {
+            "question": "Fill in the blank: 1\\frac{1}{4} × \\frac{2}{3} = ___.",
+            "blanks": [
+              {
+                "placeholder": "Answer",
+                "answer": "5/6"
+              }
+            ]
+          },
+          {
+            "question": "What is \\frac{4}{7} × \\frac{2}{5}?",
+            "options": ["\\frac{6}{35}", "\\frac{8}{35}", "\\frac{8}{12}", "\\frac{6}{14}"],
+            "answer": "\\frac{8}{35}"
+          },
+          {
+            "question": "What is \\frac{5}{9} ÷ \\frac{10}{27}?",
+            "options": ["\\frac{27}{18}", "\\frac{3}{5}", "\\frac{5}{3}", "\\frac{15}{90}"],
+            "answer": "\\frac{27}{18}"
+          },
+          {
+            "question": "What is 1\\frac{2}{3} × 2\\frac{1}{4}?",
+            "options": ["\\frac{15}{6}", "\\frac{45}{12}", "\\frac{25}{6}", "\\frac{15}{4}"],
+            "answer": "\\frac{45}{12}"
+          },
+          {
+            "question": "What is 2\\frac{1}{2} ÷ \\frac{5}{8}?",
+            "options": ["\\frac{10}{8}", "\\frac{20}{5}", "\\frac{40}{8}", "\\frac{20}{8}"],
+            "answer": "\\frac{40}{8}"
+          },
+          {
+            "question": "What is \\frac{3}{10} × 5?",
+            "options": ["\\frac{15}{10}", "1.5", "\\frac{3}{2}", "\\frac{12}{5}"],
+            "answer": "\\frac{15}{10}"
+          },
+          {
+            "question": "What is 6 ÷ \\frac{3}{4}?",
+            "options": ["8", "6", "9", "4.5"],
+            "answer": "8"
+          },
+          {
+            "question": "What is \\frac{7}{8} ÷ \\frac{1}{2}?",
+            "options": ["\\frac{7}{4}", "\\frac{6}{8}", "\\frac{5}{8}", "\\frac{3}{4}"],
+            "answer": "\\frac{7}{4}"
+          },
+          {
+            "question": "What is 4\\frac{1}{2} × 2\\frac{2}{3}?",
+            "options": ["\\frac{27}{2}", "\\frac{24}{3}", "\\frac{56}{6}", "\\frac{66}{6}"],
+            "answer": "\\frac{66}{6}"
+          },
+          {
+            "question": "What is \\frac{3}{5} ÷ 1\\frac{1}{2}?",
+            "options": ["\\frac{2}{5}", "\\frac{3}{10}", "\\frac{3}{7}", "\\frac{6}{5}"],
+            "answer": "\\frac{2}{5}"
+          },
+          {
+            "question": "Fill in the blank: The product of \\frac{6}{7} and \\frac{1}{2} is ___.",
+            "blanks": [
+              {
+                "placeholder": "Product",
+                "answer": "3/7"
+              }
+            ]
+          }
+
         ]
+
+
       }
     }
   }
