@@ -611,7 +611,13 @@
           "blanks": [
             { "placeholder": "Simplified Fraction", "answer": "3/4" }
           ]
-        }  
+        },
+        {
+          "question": "Tom chased Jerry across \\frac{9}{18} of the kitchen floor before slipping on a banana peel. Simplify the fraction of the floor he crossed.",
+          "options": ["\\frac{1}{2}", "\\frac{1}{3}", "\\frac{2}{3}", "\\frac{3}{4}"],
+          "answer": "\\frac{1}{2}",
+          "image": "https://photo.kidzworld.com/images/20161116/3b20fb1b-338c-488a-92b7-09561d2a9f19/feature_tom-and-jerry-feat.jpg"
+        }     
       ]
 
 
