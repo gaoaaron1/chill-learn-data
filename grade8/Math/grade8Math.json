@@ -268,8 +268,8 @@
           },
           {
             "question": "What is 4\\frac{1}{2} × 2\\frac{2}{3}?",
-            "options": ["\\frac{27}{2}", "\\frac{24}{3}", "\\frac{56}{6}", "\\frac{66}{6}"],
-            "answer": "\\frac{66}{6}"
+            "options": ["\\frac{27}{2}", "10", "18", "12"],
+            "answer": "12"
           },
           {
             "question": "What is \\frac{3}{5} ÷ 1\\frac{1}{2}?",
