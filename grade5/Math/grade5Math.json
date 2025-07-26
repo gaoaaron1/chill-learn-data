@@ -806,6 +806,59 @@
           "options": ["<", ">", "="],
           "answer": "="
         }
+      ],
+      
+"Unit Conversions": [
+        {
+          "question": "Convert 2000 milliliters to liters.\n\n(Hint: 1000 mL = 1 L)",
+          "options": ["2 L", "20 L", "0.2 L", "200 L"],
+          "answer": "2 L"
+        },
+        {
+          "question": "How many grams are in 5 kilograms?\n\n(Hint: 1 kg = 1000 g)",
+          "options": ["50 g", "500 g", "5000 g", "5 g"],
+          "answer": "5000 g"
+        },
+        {
+          "question": "Which is heavier: 1 kg or 1500 g?\n\n(Hint: 1 kg = 1000 g)",
+          "options": ["1 kg", "1500 g", "They are equal", "Cannot compare"],
+          "answer": "1500 g"
+        },
+        {
+          "question": "Convert 72 inches to feet.\n\n(Hint: 12 inches = 1 foot)",
+          "options": ["6 feet", "7 feet", "8 feet", "5 feet"],
+          "answer": "6 feet"
+        },
+        {
+          "question": "How many meters are in 250 cm?\n\n(Hint: 100 cm = 1 m)",
+          "options": ["2.5 m", "25 m", "0.25 m", "2500 m"],
+          "answer": "2.5 m"
+        },
+        {
+          "question": "How many minutes are in 2.5 hours?\n\n(Hint: 1 hour = 60 minutes)",
+          "options": ["120 minutes", "150 minutes", "180 minutes", "250 minutes"],
+          "answer": "150 minutes"
+        },
+        {
+          "question": "Convert 3.2 kilometers to meters.\n\n(Hint: 1 km = 1000 m)",
+          "options": ["320 m", "3200 m", "32 m", "3.2 m"],
+          "answer": "3200 m"
+        },
+        {
+          "question": "How many centimeters are in 5.5 meters?\n\n(Hint: 1 m = 100 cm)",
+          "options": ["550 cm", "55 cm", "5.5 cm", "5005 cm"],
+          "answer": "550 cm"
+        },
+        {
+          "question": "Which is longer: 1 mile or 1 kilometer?\n\n(Hint: 1 mile ≈ 1.6 km)",
+          "options": ["1 mile", "1 kilometer", "They are the same", "Not enough information"],
+          "answer": "1 mile"
+        },
+        {
+          "question": "Convert 90 minutes to hours.\n\n(Hint: 60 minutes = 1 hour)",
+          "options": ["1.5 hours", "0.9 hours", "90 hours", "1 hour"],
+          "answer": "1.5 hours"
+        }
       ]      
 
 
