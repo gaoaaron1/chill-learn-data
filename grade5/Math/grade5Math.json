@@ -1014,7 +1014,57 @@
     "question": "What is (12 ÷ 3) + (4 × 2)?",
     "options": ["10", "12", "14", "16"],
     "answer": "12"
-  }
+  },
+ {
+    "question": "What is 8 + 3 × (12 − 4)?",
+    "options": ["32", "28", "36", "40"],
+    "answer": "32"
+  },
+  {
+    "question": "What is (18 ÷ 3) × (4 + 2)?",
+    "options": ["36", "30", "24", "18"],
+    "answer": "36"
+  },
+  {
+    "question": "What is 20 − 6 × (3 + 2)?",
+    "options": ["-10", "10", "-5", "5"],
+    "answer": "-10"
+  },
+  {
+    "question": "What is (15 − 3 × 4) + 18 ÷ 3?",
+    "options": ["9", "12", "6", "15"],
+    "answer": "9"
+  },
+  {
+    "question": "What is 6 × (8 − 5) + 4 × 3?",
+    "options": ["30", "24", "18", "36"],
+    "answer": "30"
+  },
+  {
+    "question": "What is 48 ÷ (6 × 2) + 7 × 3?",
+    "options": ["25", "23", "19", "17"],
+    "answer": "25"
+  },
+  {
+    "question": "What is (9 + 6) × (7 − 4) ÷ 3?",
+    "options": ["15", "18", "12", "21"],
+    "answer": "15"
+  },
+  {
+    "question": "What is 5 × (10 − 6) + 18 ÷ (3 × 2)?",
+    "options": ["23", "20", "21", "24"],
+    "answer": "23"
+  },
+  {
+    "question": "What is (24 ÷ 6 + 3) × (5 − 2)?",
+    "options": ["21", "18", "24", "27"],
+    "answer": "21"
+  },
+  {
+    "question": "What is 60 − 4 × (6 + 3) + 8?",
+    "options": ["32", "28", "24", "30"],
+    "answer": "32"
+  }  
 ]      
       
 
