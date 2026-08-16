@@ -655,6 +655,36 @@
           "unit": "Permutations, Combinations, and Probability",
           "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
         }
+      ],
+      "Biology": [
+        {
+          "unit": "Photosynthesis",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Cellular Respiration",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "DNA and Genetics",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Evolution",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Ecology",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Body Systems",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Meiosis and Sexual Reproduction",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        }
       ]
     }
   }

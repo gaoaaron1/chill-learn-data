@@ -1,0 +1,226 @@
+{
+  "grade12": {
+    "Biology": {
+      "Photosynthesis": [
+        {
+          "question": "What are the two main stages of photosynthesis?",
+          "options": ["Glycolysis and Krebs cycle", "Light-dependent reactions and light-independent reactions", "Oxidation and reduction", "Glycolysis and fermentation"],
+          "answer": "Light-dependent reactions and light-independent reactions"
+        },
+        {
+          "question": "In which organelle does photosynthesis occur?",
+          "options": ["Mitochondria", "Chloroplast", "Ribosome", "Nucleus"],
+          "answer": "Chloroplast"
+        },
+        {
+          "question": "What is the primary pigment involved in photosynthesis?",
+          "options": ["Xanthophyll", "Chlorophyll", "Carotenoid", "Anthocyanin"],
+          "answer": "Chlorophyll"
+        },
+        {
+          "question": "Fill in the blanks for the photosynthesis equation: 6CO2 + 6H2O + light energy → _______ + _______",
+          "blanks": [
+            {"placeholder": "Product 1", "answer": "C6H12O6 or glucose"},
+            {"placeholder": "Product 2", "answer": "O2 or oxygen"}
+          ]
+        },
+        {
+          "question": "What gas is released as a byproduct of photosynthesis?",
+          "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+          "answer": "Oxygen"
+        }
+      ],
+      "Cellular Respiration": [
+        {
+          "question": "Which process breaks down glucose to produce ATP?",
+          "options": ["Photosynthesis", "Cellular respiration", "Fermentation", "Chemosynthesis"],
+          "answer": "Cellular respiration"
+        },
+        {
+          "question": "How many ATP molecules are produced per glucose molecule in aerobic respiration?",
+          "options": ["2", "4", "30-32", "36-38"],
+          "answer": "30-32"
+        },
+        {
+          "question": "The Krebs cycle (citric acid cycle) occurs in which organelle?",
+          "options": ["Cytoplasm", "Mitochondrial matrix", "Inner mitochondrial membrane", "Ribosome"],
+          "answer": "Mitochondrial matrix"
+        },
+        {
+          "question": "Match the stages of cellular respiration with their locations:",
+          "type": "matching",
+          "pairs": [
+            {"left": "Glycolysis", "right": "Cytoplasm"},
+            {"left": "Krebs Cycle", "right": "Mitochondrial matrix"},
+            {"left": "Electron Transport Chain", "right": "Inner mitochondrial membrane"}
+          ]
+        },
+        {
+          "question": "What is the main product of anaerobic respiration in humans?",
+          "options": ["Ethanol", "Lactic acid", "Carbon dioxide", "Acetyl-CoA"],
+          "answer": "Lactic acid"
+        }
+      ],
+      "DNA and Genetics": [
+        {
+          "question": "What does DNA stand for?",
+          "options": ["Diribonucleic acid", "Deoxyribonucleic acid", "Dynamic nucleic acid", "Diverse nucleic acid"],
+          "answer": "Deoxyribonucleic acid"
+        },
+        {
+          "question": "Who are credited with discovering the structure of DNA?",
+          "options": ["Darwin and Lamarck", "Watson, Crick, and Franklin", "Mendel and Avery", "Morgan and Sutton"],
+          "answer": "Watson, Crick, and Franklin"
+        },
+        {
+          "question": "A person has two alleles for eye color: B (brown) and b (blue). If they are Bb, what is their phenotype?",
+          "options": ["Blue eyes", "Brown eyes", "Purple eyes", "Two different eye colors"],
+          "answer": "Brown eyes"
+        },
+        {
+          "question": "Fill in the blanks: The four bases in DNA are Adenine, _______, Guanine, and _______",
+          "blanks": [
+            {"placeholder": "Base 2", "answer": "Thymine or T"},
+            {"placeholder": "Base 4", "answer": "Cytosine or C"}
+          ]
+        },
+        {
+          "question": "What is the process by which DNA replicates?",
+          "options": ["Transcription", "Translation", "Semiconservative replication", "Fermentation"],
+          "answer": "Semiconservative replication"
+        },
+        {
+          "question": "What is a mutation?",
+          "options": ["A change in DNA sequence", "A type of cell division", "A protein synthesis process", "An energy conversion process"],
+          "answer": "A change in DNA sequence"
+        }
+      ],
+      "Evolution": [
+        {
+          "question": "What is the mechanism of evolution proposed by Charles Darwin?",
+          "options": ["Inheritance of acquired characteristics", "Natural selection", "Genetic drift", "Gene flow"],
+          "answer": "Natural selection"
+        },
+        {
+          "question": "Which fossil is considered a transitional fossil between fish and tetrapods?",
+          "options": ["Archaeopteryx", "Tiktaalik", "Lucy", "Homo neanderthalensis"],
+          "answer": "Tiktaalik"
+        },
+        {
+          "question": "What term describes organisms that have similar structures due to common ancestry?",
+          "options": ["Analogous structures", "Homologous structures", "Vestigial organs", "Adaptive radiation"],
+          "answer": "Homologous structures"
+        },
+        {
+          "question": "Fill in: _______ is the diversity of life forms that have evolved over time.",
+          "blanks": [
+            {"placeholder": "Term", "answer": "Biodiversity or Evolution"}
+          ]
+        },
+        {
+          "question": "What is speciation?",
+          "options": ["Evolution within a species", "The formation of new species", "Extinction of species", "Mutation of genes"],
+          "answer": "The formation of new species"
+        }
+      ],
+      "Ecology": [
+        {
+          "question": "What is the term for all organisms of one species in a geographic area?",
+          "options": ["Community", "Ecosystem", "Population", "Biome"],
+          "answer": "Population"
+        },
+        {
+          "question": "Match ecological terms with their definitions:",
+          "type": "matching",
+          "pairs": [
+            {"left": "Producer", "right": "Organism that makes its own food (plants)"},
+            {"left": "Consumer", "right": "Organism that eats other organisms"},
+            {"left": "Decomposer", "right": "Organism that breaks down dead matter"}
+          ]
+        },
+        {
+          "question": "In an energy pyramid, approximately what percentage of energy is transferred from one trophic level to the next?",
+          "options": ["10%", "25%", "50%", "75%"],
+          "answer": "10%"
+        },
+        {
+          "question": "What is the carrying capacity of an environment?",
+          "options": ["The rate of population growth", "The maximum population size the environment can support", "The rate of species extinction", "The biodiversity of the ecosystem"],
+          "answer": "The maximum population size the environment can support"
+        },
+        {
+          "question": "Fill in: A _______ is a community of organisms and their physical environment.",
+          "blanks": [
+            {"placeholder": "Term", "answer": "Ecosystem"}
+          ]
+        }
+      ],
+      "Body Systems": [
+        {
+          "question": "Which organ system is responsible for transmitting signals throughout the body?",
+          "options": ["Integumentary system", "Nervous system", "Endocrine system", "Circulatory system"],
+          "answer": "Nervous system"
+        },
+        {
+          "question": "What is the basic functional unit of the nervous system?",
+          "options": ["Axon", "Dendrite", "Neuron", "Synapse"],
+          "answer": "Neuron"
+        },
+        {
+          "question": "Match the endocrine glands with the hormones they produce:",
+          "type": "matching",
+          "pairs": [
+            {"left": "Pancreas", "right": "Insulin"},
+            {"left": "Pituitary gland", "right": "Growth hormone"},
+            {"left": "Thyroid gland", "right": "Thyroxine"}
+          ]
+        },
+        {
+          "question": "Fill in the blanks: The immune system has two main components: the _______ immune system and the _______ immune system.",
+          "blanks": [
+            {"placeholder": "Type 1", "answer": "innate or nonspecific"},
+            {"placeholder": "Type 2", "answer": "adaptive or specific"}
+          ]
+        },
+        {
+          "question": "What cells are primarily responsible for fighting bacterial infections?",
+          "options": ["Red blood cells", "White blood cells (leukocytes)", "Platelets", "Plasma cells"],
+          "answer": "White blood cells (leukocytes)"
+        }
+      ],
+      "Meiosis and Sexual Reproduction": [
+        {
+          "question": "How many chromosomes does a human gamete (sex cell) have?",
+          "options": ["23", "46", "92", "12"],
+          "answer": "23"
+        },
+        {
+          "question": "Meiosis results in the production of _______ haploid cells from _______ diploid cells.",
+          "blanks": [
+            {"placeholder": "Number of haploid cells", "answer": "4"},
+            {"placeholder": "Number of diploid cells", "answer": "1"}
+          ]
+        },
+        {
+          "question": "What is crossing over in meiosis?",
+          "options": ["The separation of sister chromatids", "The exchange of genetic material between homologous chromosomes", "The replication of DNA", "The fusion of gametes"],
+          "answer": "The exchange of genetic material between homologous chromosomes"
+        },
+        {
+          "question": "Match the stages of meiosis with their events:",
+          "type": "matching",
+          "pairs": [
+            {"left": "Prophase I", "right": "Crossing over occurs"},
+            {"left": "Metaphase II", "right": "Chromosomes align at the cell equator"},
+            {"left": "Telophase II", "right": "Four haploid cells are produced"}
+          ]
+        },
+        {
+          "question": "What is the advantage of sexual reproduction over asexual reproduction?",
+          "options": ["Faster reproduction", "Lower energy cost", "Greater genetic diversity", "Fewer offspring"],
+          "answer": "Greater genetic diversity"
+        }
+      ]
+    }
+  }
+}
