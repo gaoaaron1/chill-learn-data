@@ -628,6 +628,34 @@
           "tutorialVideo": "https://www.youtube.com/embed/7Cfq0ilw7ps?list=PLWd9NrmSPAhpBvMgB8T5bDHpoPBAsbKnR"
       }
       ]
+    },
+    "grade12": {
+      "Math": [
+        {
+          "unit": "Function Transformations",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Polynomial Functions",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Rational Functions",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Trigonometry",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Exponential and Logarithmic Functions",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        },
+        {
+          "unit": "Permutations, Combinations, and Probability",
+          "tutorialVideo": "https://www.youtube.com/watch?v=comingSoonVideo"
+        }
+      ]
     }
   }
   
